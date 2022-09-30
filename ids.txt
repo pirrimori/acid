@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 , ArenaVision 1
-acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
+http://127.0.0.1:6878/ace/m/c7302cb5c0f6f9b4b42a13b3c7634bd0639225d3/682ccca8485d40c70926edbf7b13f37b.m3u8
 
 #EXTINF:-1 , ArenaVision 2
 acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
