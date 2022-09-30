@@ -1,121 +1,121 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 1", ArenaVision 1
+#EXTINF:-1 , ArenaVision 1
 acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 2", ArenaVision 2
+#EXTINF:-1 , ArenaVision 2
 acestream://74f33ba004fd3af6e4bbe5b92beb4d9eba12a480
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 3", ArenaVision 3
+#EXTINF:-1 , ArenaVision 3
 acestream://725ae2bab937292731246f620f1e84d353f64d19
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 4", ArenaVision 4
+#EXTINF:-1 , ArenaVision 4
 acestream://725ae2bab937292731246f620f1e84d353f64d19
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 5", ArenaVision 5
+#EXTINF:-1 , ArenaVision 5
 acestream://9ee63534669e7be54ccf59cae31d9a2b57e99aae
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 6", ArenaVision 6
+#EXTINF:-1 , ArenaVision 6
 acestream://9ee63534669e7be54ccf59cae31d9a2b57e99aae
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 7", ArenaVision 7
+#EXTINF:-1 , ArenaVision 7
 acestream://857c7ab59305fdccd621b6525786fe925813568d
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 8", ArenaVision 8
+#EXTINF:-1 , ArenaVision 8
 acestream://857c7ab59305fdccd621b6525786fe925813568d
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 9", ArenaVision 9
+#EXTINF:-1 , ArenaVision 9
 acestream://ec26fe2281fc44909c126b2ca9c670176d0a9b7d
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 10", ArenaVision 10
+#EXTINF:-1 , ArenaVision 10
 acestream://7fa19943f5681fd66b084121d01fbe0880672bb8
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 11", ArenaVision 11
+#EXTINF:-1 , ArenaVision 11
 acestream://7fa19943f5681fd66b084121d01fbe0880672bb8
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 12", ArenaVision 12
+#EXTINF:-1 , ArenaVision 12
 acestream://13b1a7d057c95566a620dd3565dda7b0e98a1dae
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 13", ArenaVision 13
+#EXTINF:-1 , ArenaVision 13
 acestream://a7df83def680c57ea9f67271ddf10c61266695a6
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 14", ArenaVision 14
+#EXTINF:-1 , ArenaVision 14
 acestream://a7df83def680c57ea9f67271ddf10c61266695a6
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 15", ArenaVision 15
+#EXTINF:-1 , ArenaVision 15
 acestream://e17daf17d71b941f82230cdc358c4ba02eed520a
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 16", ArenaVision 16
+#EXTINF:-1 , ArenaVision 16
 acestream://e17daf17d71b941f82230cdc358c4ba02eed520a
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 17", ArenaVision 17
+#EXTINF:-1 , ArenaVision 17
 acestream://5047b066445e31e29f8fc2be2529cb5437d212a8
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 18", ArenaVision 18
+#EXTINF:-1 , ArenaVision 18
 acestream://5047b066445e31e29f8fc2be2529cb5437d212a8
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 19", ArenaVision 19
+#EXTINF:-1 , ArenaVision 19
 acestream://0e3b594e6c651759e50e7d5d8b84805b37b3cff3
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 20", ArenaVision 20
+#EXTINF:-1 , ArenaVision 20
 acestream://0e3b594e6c651759e50e7d5d8b84805b37b3cff3
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 21", ArenaVision 21
+#EXTINF:-1 , ArenaVision 21
 acestream://d0e26383bee973abb96d59fb5557d43af9173dd0
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 22", ArenaVision 22
+#EXTINF:-1 , ArenaVision 22
 acestream://d0e26383bee973abb96d59fb5557d43af9173dd0
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 23", ArenaVision 23
+#EXTINF:-1 , ArenaVision 23
 acestream://f5455a6bab5f6542d0880bc596d20dd13eba13d3
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 24", ArenaVision 24
+#EXTINF:-1 , ArenaVision 24
 acestream://f5455a6bab5f6542d0880bc596d20dd13eba13d3
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 25", ArenaVision 25
+#EXTINF:-1 , ArenaVision 25
 acestream://81b8e97ca7388ebc0ebb5a3751c48746a6a921d0
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 26", ArenaVision 26
+#EXTINF:-1 , ArenaVision 26
 acestream://81b8e97ca7388ebc0ebb5a3751c48746a6a921d0
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 27", ArenaVision 27
+#EXTINF:-1 , ArenaVision 27
 acestream://cc082e942f4a562a8915615bb3cfa106dd6e1770
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 28", ArenaVision 28
+#EXTINF:-1 , ArenaVision 28
 acestream://cc082e942f4a562a8915615bb3cfa106dd6e1770
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 29", ArenaVision 29
+#EXTINF:-1 , ArenaVision 29
 acestream://4ed86d2f77011f367322e45fe8e214c2eb09e037
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 30", ArenaVision 30
+#EXTINF:-1 , ArenaVision 30
 acestream://4ed86d2f77011f367322e45fe8e214c2eb09e037
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 31", ArenaVision 31
+#EXTINF:-1 , ArenaVision 31
 acestream://5e69b4801e8c64ba14296908436826c43168829d
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 32", ArenaVision 32
+#EXTINF:-1 , ArenaVision 32
 acestream://5e69b4801e8c64ba14296908436826c43168829d
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 33", ArenaVision 33
+#EXTINF:-1 , ArenaVision 33
 acestream://4b832647c55af84d71547f286290b314d95c0187
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 34", ArenaVision 34
+#EXTINF:-1 , ArenaVision 34
 acestream://4b832647c55af84d71547f286290b314d95c0187
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 35", ArenaVision 35
+#EXTINF:-1 , ArenaVision 35
 acestream://65d2b0a1dc8fa969d0400a01e15ea9db658be79b
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 36", ArenaVision 36
+#EXTINF:-1 , ArenaVision 36
 acestream://65d2b0a1dc8fa969d0400a01e15ea9db658be79b
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 37", ArenaVision 37
+#EXTINF:-1 , ArenaVision 37
 acestream://db88ec5280673b8f84891b2dc2d661a5a144a009
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 38", ArenaVision 38
+#EXTINF:-1 , ArenaVision 38
 acestream://db88ec5280673b8f84891b2dc2d661a5a144a009
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 39", ArenaVision 39
+#EXTINF:-1 , ArenaVision 39
 acestream://c7f59dabf93ec5a58eacad0d632f8a7e9e6e8ab1
 
-#EXTINF:-1 group-title="Arenavision" tvg-id="ArenaVision 40", ArenaVision 40
+#EXTINF:-1 , ArenaVision 40
 acestream://c7f59dabf93ec5a58eacad0d632f8a7e9e6e8ab1
