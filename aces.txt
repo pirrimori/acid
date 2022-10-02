@@ -1,6 +1,6 @@
 acestream://01b333b9369c662775902638ef8cffac346a0f61,LaLiga Tv Bar 1080
 acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260,LaLiga Tv Bar 720
-acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175,M. LaLiga 1080 MultiAudio
+acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175,M. LaLiga 1080 Multi
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888,M. LaLiga 1080
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a,M. LaLiga 720
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3,M. LaLiga 1 1080
@@ -8,7 +8,7 @@ acestream://2c3a3a5b81b5fbe2345eccacad509ced55de828a,M. LaLiga 4 1080
 acestream://699d5ea3b0132a0e9c2c381a86a669b77384977c,M. LaLiga 5 1080
 acestream://8021cba61d1e0891a41a6c3334f947360000dc8e,M. LaLiga 6 1080
 acestream://1c0bb99925a0d18e075c2fe2cd7cb50946554ab1,M. LaLiga 7 1080
-acestream://df98650743f24a245c44cdf2851e57078f4c487a,DAZN LaLiga 1080 MultiAudio
+acestream://df98650743f24a245c44cdf2851e57078f4c487a,DAZN LaLiga 1080 Multi
 acestream://c35d2207792128fc0ae49c40e885c463f664dbce,DAZN LaLiga 720
 acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf,LaLiga Smartbank 1080
 acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3,LaLiga Smartbank 720
@@ -40,9 +40,9 @@ acestream://42fea4e172bf3debe0e004260bdd077fe0b4f58e,DAZN 2 1080
 acestream://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf,DAZN 2 720
 acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11,DAZN 3 1080
 acestream://a0465ef421f30d0c68ff706654147762ec7b6c03,DAZN 4 1080
-acestream://c372020ed2744033f56548b6beb11a9f3e740f37,DAZN F1 1080 (Fórmula 1)
-acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2,DAZN F1 1080 (Fórmula 1)
-acestream://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae,DAZN F1 720 (Fórmula 1)
+acestream://c372020ed2744033f56548b6beb11a9f3e740f37,DAZN F1 1080 Multi
+acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2,DAZN F1 1080 Multi
+acestream://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae,DAZN F1 720 Multi
 acestream://40da37534656efcc6179c1b7693335d5e8212e43,EuroSport 1 1080
 acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b,EuroSport 2 1080
 acestream://49c35606668ebf7a895434ec4c9243a163d87718,GOL TV 1080
@@ -56,14 +56,14 @@ acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6,Sport Tv 2 1080
 acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a,Sport Tv 3 1080
 acestream://65c141632af256d70da66c767ba74360042b4396,Barça 720
 acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca,beIN SPORTS ñ
-acestream://8d065adeb9603cb93a080930a45eb5bd457483c6,ESPN Argentina
-acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e,ESPN 3 Argentina
-acestream://9a8c5485a38e9399e81b3eed23e588946946039f,Fox Sports 3 Argentina
-acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00,ESPN Uruguay
-acestream://e40b29774fdfd953751a71f5695f647726623b9d,ESPN 2 Uruguay
-acestream://b97f5975dbd067655432512d4693b417bc85a714,ESPN 3 Uruguay
-acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612,ESPN Extra Uruguay
-acestream://f3f14b89eb62839f97153593432370b5bd61a5df,DirecTv Argentina
+acestream://8d065adeb9603cb93a080930a45eb5bd457483c6,ESPN Arg
+acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e,ESPN 3 Arg
+acestream://9a8c5485a38e9399e81b3eed23e588946946039f,Fox Sports 3 Arg
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00,ESPN Urg
+acestream://e40b29774fdfd953751a71f5695f647726623b9d,ESPN 2 Urg
+acestream://b97f5975dbd067655432512d4693b417bc85a714,ESPN 3 Urg
+acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612,ESPN Extra Urg
+acestream://f3f14b89eb62839f97153593432370b5bd61a5df,DirecTv Arg
 acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971,Evento del Momento 1080
 acestream://ce91b10d6dee6f358c6b2a40b5e1926921712168,Evento del Momento 1080
 acestream://d8512e64f34a117afb656f5c66cf8d88023c9570,M. LaLiga 720
@@ -75,7 +75,7 @@ acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2,LaLiga SmartBank HD
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd,DAZN LaLiga HD
 acestream://ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c,DAZN 1 HD
 acestream://3e0b292ab03f258f993ba6833b254cca33a79d74,DAZN 2 HD
-acestream://b13deca329dfd6b9a670faba1077b73f6ea7e188,DAZN F1 HD (Fórmula 1)
+acestream://b13deca329dfd6b9a670faba1077b73f6ea7e188,DAZN F1 HD Multi
 acestream://87a043de5d4cd60c731bc00d09f13bad8d882164,#Vamos HD
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7,ELLAS #V HD
 acestream://d580d53613be09c7a5388d808509f6c97ec07df2,M. Deportes HD
