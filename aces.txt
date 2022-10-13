@@ -64,8 +64,6 @@ acestream://e40b29774fdfd953751a71f5695f647726623b9d,ESPN 2 Urg
 acestream://b97f5975dbd067655432512d4693b417bc85a714,ESPN 3 Urg
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612,ESPN Extra Urg
 acestream://f3f14b89eb62839f97153593432370b5bd61a5df,DirecTv Arg
-acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971,Evento del Momento 1080
-acestream://ce91b10d6dee6f358c6b2a40b5e1926921712168,Evento del Momento 1080
 acestream://d8512e64f34a117afb656f5c66cf8d88023c9570,M. LaLiga 720
 acestream://b4d0c55b2a918da310e521b363e1f038247a11b3,LaLiga SmartBank
 acestream://dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da,DAZN 1 720
@@ -87,5 +85,3 @@ acestream://f8a77a75bf7572e360556339794d3d13fca8caa9,EuroSport 1 HD
 acestream://b12bd6f32bbd53a2bbf182a30549fbdf747235cd,EuroSport 2 HD
 acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1,National Geo HD
 acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6,Canal Historia
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2,#0 de Movistar 1080
-acestream://72066549fbfd3f755853fe9467586b7debf01f60,SETANTA SPORTS 1080
