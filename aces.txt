@@ -64,10 +64,10 @@ acestream://e40b29774fdfd953751a71f5695f647726623b9d,ESPN 2 Urg
 acestream://b97f5975dbd067655432512d4693b417bc85a714,ESPN 3 Urg
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612,ESPN Extra Urg
 acestream://f3f14b89eb62839f97153593432370b5bd61a5df,DirecTv Arg
+acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971,Evento del Momento 1080
+acestream://ce91b10d6dee6f358c6b2a40b5e1926921712168,Evento del Momento 1080
 acestream://d8512e64f34a117afb656f5c66cf8d88023c9570,M. LaLiga 720
 acestream://b4d0c55b2a918da310e521b363e1f038247a11b3,LaLiga SmartBank
-acestream://dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da,DAZN 1 720
-acestream://7ced139f9a15c515c431ccb7e339441d5548a8af,DAZN 2 720
 acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0,M. LaLiga HD
 acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2,LaLiga SmartBank HD
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd,DAZN LaLiga HD
@@ -85,3 +85,18 @@ acestream://f8a77a75bf7572e360556339794d3d13fca8caa9,EuroSport 1 HD
 acestream://b12bd6f32bbd53a2bbf182a30549fbdf747235cd,EuroSport 2 HD
 acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1,National Geo HD
 acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6,Canal Historia
+https://goltelevision.com/en-directo,Gol Tv (Web Of)
+https://tdp.futbolgratis.workers.dev/,tdp (TeleDeporte) 1080
+https://la1.futbolgratis.workers.dev/,LA 1720
+http://212.230.117.159:10100/play/ES_la_1_HD_backup_online/index.m3u8,LA 1 1080
+http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8,MEGA 720
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8,EuroSport 1 1080 [m3u8]
+http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/48721.m3u8,EuroSport 2 720 [m3u8] 
+https://esport3.futbolgratis.workers.dev/,Esport3 1080 (Update)
+http://events2-crtvg.flumotion.com/playlist.m3u8,TVG 2 SD
+https://amodino-crtvg.flumotion.com/crtvg/amodino_source/playlist.m3u8,TVG 2 SD
+https://beinsportsxtra.futbolgratis.workers.dev/,beIN SPORTS Xtra ñ 720
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8,Red Bull Tv 1080
+https://tennis-cannel.futbolgratis.workers.dev,Tennis Channel 720
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2,#0 de Movistar 1080
+acestream://72066549fbfd3f755853fe9467586b7debf01f60,SETANTA SPORTS 1080
