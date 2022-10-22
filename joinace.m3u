@@ -45,6 +45,8 @@ acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 acestream://acefcfb8ec308c1ae5e66ccfc13a09bfbc6caa09
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 1080 multiaudio
+acestream://1124d4366348b76a755710c8d0d5728e39d0095c
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" ,ESPN Argentina 720
 acestream://8d065adeb9603cb93a080930a45eb5bd457483c6
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" ,ESPN Uruguay 720
@@ -66,17 +68,19 @@ acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2
 acestream://b12bd6f32bbd53a2bbf182a30549fbdf747235cd
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #1 (m*)
-acestream://ea905f0ecae1f5c031dce44788aec56d6ec1ca8b
+acestream://23e5a75b8cbd6db63ed608f7b3da1383ee6ba301
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #2 (m*)
-acestream://3d783550706c36af82b5dc053bbf4170173da4c2
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 SIN EMISIÓN (a*)
-acestream://f27a8df4c15bdc1ff616d8c4fa439a66aa5608f1
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 SIN EMISIÓN (a*)
-acestream://928a24e58c7a9d53cc1296107eaae6cc204282ca
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #5 (j*)
-acestream://a14e661d68a62f22aa09e7e7cb430d86a583426e
+acestream://bc04ba376d2b410b3890f7991412f51bc26852f4
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 (m*)
+acestream://7edb9f13ab3db3c2dadf631d2999309abaa2d3b2
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 (a*)
+acestream://b5214a3b7fbf158bdd1a6ee317417cba7c6af13d
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #5 (a*)
+acestream://b3838f8e9b0e4115eac182bd02ec99c7d1b10f58
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #6 (j*)
-acestream://8d19b0a476acc1382cc216d08699a9ea27c4754a
+acestream://48a7a7b8830d1190a498c1b316d63598bb7a653c
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #7 (j*)
+acestream://fcf590931ee6958ed899f45c6790e44a228b5c82
 #EXTINF:-1 group-title="M+ Deportes" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,ELLAS #V
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080
