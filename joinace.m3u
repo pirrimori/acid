@@ -45,7 +45,7 @@ acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 acestream://acefcfb8ec308c1ae5e66ccfc13a09bfbc6caa09
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 1080 multiaudio
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga2 HD" tvg-logo="https://i.postimg.cc/28psx1TB/daznliga2.png" ,DAZN LaLiga 2 1080 multiaudio
 acestream://1124d4366348b76a755710c8d0d5728e39d0095c
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" ,ESPN Argentina 720
 acestream://8d065adeb9603cb93a080930a45eb5bd457483c6
@@ -72,15 +72,29 @@ acestream://23e5a75b8cbd6db63ed608f7b3da1383ee6ba301
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #2 (m*)
 acestream://bc04ba376d2b410b3890f7991412f51bc26852f4
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 (m*)
-acestream://7edb9f13ab3db3c2dadf631d2999309abaa2d3b2
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 (a*)
-acestream://b5214a3b7fbf158bdd1a6ee317417cba7c6af13d
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #5 (a*)
-acestream://b3838f8e9b0e4115eac182bd02ec99c7d1b10f58
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #6 (j*)
-acestream://48a7a7b8830d1190a498c1b316d63598bb7a653c
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #7 (j*)
-acestream://fcf590931ee6958ed899f45c6790e44a228b5c82
+acestream://41b992f12b867992713178bad6c8f488361a1503
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 (m*)
+acestream://c5d03fd157c60f2059ba49e754ca55a2b39ef9b1
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #5 (m*)
+acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #6 (m*)
+acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #7 (m*)
+acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #8 (m*)
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #9 (m*)
+acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #10 (a*)
+acestream://41b992f12b867992713178bad6c8f488361a1503
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #11 SIN EMISIÓN (a*)
+acestream://
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #12 SIN EMISIÓN (j*)
+acestream://
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #13 SIN EMISIÓN (j*)
+acestream://
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #14 SIN EMISIÓN (j*)
+acestream://
 #EXTINF:-1 group-title="M+ Deportes" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,ELLAS #V
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080
@@ -111,8 +125,10 @@ acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
 acestream://b779e6056975e3682a804d47cbd5cc806217f64d
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ Golf 1080
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080 multiaudio
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080 multiaudio
+acestream://684e5c085484e8ea79858713eeb7a3668baca29e
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 720
@@ -213,3 +229,80 @@ acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 acestream://cbf281d5e481697aa4184fe1de5e069928c95057
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,Teledeporte 1080
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
+#EXTINF:-1 group-title="Extranjeros" ,NBA USA 1 1080
+acestream://39db49bc89dcc3c8797566231f869dca57f1a47e
+#EXTINF:-1 group-title="Extranjeros" ,NBA USA 2 1080
+acestream://f1c84ec8ea0c0bfff8a24272b66c64354a522110
+#EXTINF:-1 group-title="Extranjeros" ,ESPN USA 1080
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 group-title="Extranjeros" ,ESPN 2 USA 1080
+acestream://664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 group-title="Extranjeros" ,FOX SPORTS USA 1080 
+acestream://c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 group-title="Extranjeros" ,FOX SPORTS 2 USA 1080
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 group-title="Extranjeros" ,BT Sport 1 UK 1080 
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="Extranjeros" ,BT Sport 2 UK 1080
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-title="Extranjeros" ,BT Sport 3 UK 1080
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 group-title="Extranjeros" ,BT Sport 4 UK 1080
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 group-title="Extranjeros" ,Sky Sports Arena UK
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 group-title="Extranjeros" ,Sky Sports PREMIER LEAGUE UK
+acestream://8d976b2a90dce3b57ed094bd8a6152335c66bbc9
+#EXTINF:-1 group-title="Extranjeros" ,Sky Sports Football UK
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 group-title="Extranjeros" ,Sky Sports Main Event UK
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="Extranjeros" ,Sky Sports Plus UK
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="Extranjeros" ,Premier Sports 1 UK
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="Extranjeros" ,Premier Sports 1 UK
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 group-title="Extranjeros" ,RTL+ SPORT EVENT 1 [DE]
+acestream://a7319ebd54cb1db9a9db1574929ca8d305a323d3
+#EXTINF:-1 group-title="Extranjeros" ,RTL+ SPORT EVENT 2 [DE]
+acestream://e360a96fb4bbe1cb8a7862a6514c4c284eeec466
+#EXTINF:-1 group-title="Extranjeros" ,RTL+ SPORT EVENT 3 [DE]
+acestream://8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
+#EXTINF:-1 group-title="Extranjeros" ,RTL+ SPORT EVENT 4 [DE]
+acestream://784da1ced871f6d3f6bf25f29664bfd39f6130a6
+#EXTINF:-1 group-title="Extranjeros" ,RTL+ SPORT EVENT 5 [DE]
+acestream://81284e9a279ee23cbc4a7400bd9531f127d20fe5
+#EXTINF:-1 group-title="Extranjeros" ,RTL+ SPORT EVENT 6 [DE]
+acestream://c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
+#EXTINF:-1 group-title="Extranjeros" ,Eurosport 1 HD [DE]
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title="Extranjeros" ,Eurosport 2 HD [DE]
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF:-1 group-title="Extranjeros" ,BeIN Sports 1 BE
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 group-title="Extranjeros" ,BeIN Sports 2 BE
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 group-title="Extranjeros" ,BeIN Sports 3 BE
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 group-title="Extranjeros" ,Eleven Sports 1 BE
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="Extranjeros" ,Eleven Sports 2 BE
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 group-title="Extranjeros" ,Eleven Sports 3 BE
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 group-title="Extranjeros" ,Eleven Sports 4 BE
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 group-title="Extranjeros" ,Eleven Sports 5 BE
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 group-title="Extranjeros" ,Eleven Sports 6 BE
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 group-title="Extranjeros" ,Setanta Sport 1
+acestream://b99278331ad806f1463fcd3bf53befa5530d86da
+#EXTINF:-1 group-title="Extranjeros" ,Setanta Sport 1
+acestream://8b70ef2d42e2adac57e90f68847eadfc356c04d2
+#EXTINF:-1 group-title="Extranjeros" ,Setanta Sport 2
+acestream://9b8feebaf07ced9351ad88da77ef617f82626c4b
+#EXTINF:-1 group-title="Extranjeros" ,Setanta Sport 2
+acestream://02ab7a40891a8cc1aa7e29e0eff279abc4a4188e
+
