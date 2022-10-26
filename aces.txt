@@ -3,7 +3,8 @@ acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260,LaLiga Tv Bar 720
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175,M. LaLiga 1080 Multi
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888,M. LaLiga 1080
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a,M. LaLiga 720
-acestream://4229d640fecf3c0897674241bcf851b67f4310e3,M. LaLiga 1 1080
+acestream://4229d640fecf3c0897674241bcf851b67f4310e3,M. LaLiga 2 1080
+acestream://a92af592ba7f8f2f087ee34b91662db47705ca52,M. LaLiga 2 720
 acestream://2c3a3a5b81b5fbe2345eccacad509ced55de828a,M. LaLiga 4 1080
 acestream://699d5ea3b0132a0e9c2c381a86a669b77384977c,M. LaLiga 5 1080
 acestream://8021cba61d1e0891a41a6c3334f947360000dc8e,M. LaLiga 6 1080
@@ -13,9 +14,9 @@ acestream://c35d2207792128fc0ae49c40e885c463f664dbce,DAZN LaLiga 720
 acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf,LaLiga Smartbank 1080
 acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3,LaLiga Smartbank 720
 acestream://d475208e72b5a343080afa0724c7b7c42264b9a0,LaLiga Smartbank 2 1080
-acestream://069431a1199eb2545a14c0a724095e57bdc58e9c,#Vamos 1080
+acestream://1000c018cf4afb7357f10e438e966d23340e4295,LaLiga Smartbank 3 720
 acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486,M. Deportes 1080
-acestream://a252bf555d5ae92cce49393a5ae28fe9874526de,M. Deportes 720
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa,M. Deportes 720
 acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6,M. Deportes 2 1080
 acestream://85bd65161dfd8c4033194da3c978c0450c9111db,M. Deportes 3 1080
 acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf,M. Deportes 4 1080
@@ -33,9 +34,12 @@ acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737,M.L. Campeones 4 SD
 acestream://662cceb5a2b23f2150172df24247fa220d8d95d4,M.L. Campeones 5 SD
 acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913,M.L. Campeones 6 SD
 acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f,M.L. Campeones 7 SD
+acestream://fdd9e3660059051660dbd7857443c2b807f258d0,M.L. Campeones 8 SD
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122,M. Golf 1080
+acestream://069431a1199eb2545a14c0a724095e57bdc58e9c,#Vamos 1080
+acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f,#Vamos 720
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05,DAZN 1 1080
-acestream://9f27ea73230f9c65034601636dbfe39de43a8212,DAZN 1 720
+acestream://84af46abab9de02bdd22818747738cfa5438132e,DAZN 1 720
 acestream://42fea4e172bf3debe0e004260bdd077fe0b4f58e,DAZN 2 1080
 acestream://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf,DAZN 2 720
 acestream://bfbcda5a0999256360ce560caf2a6473aafc3f11,DAZN 3 1080
@@ -47,9 +51,6 @@ acestream://40da37534656efcc6179c1b7693335d5e8212e43,EuroSport 1 1080
 acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b,EuroSport 2 1080
 acestream://49c35606668ebf7a895434ec4c9243a163d87718,GOL TV 1080
 acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535,tdp 1080
-acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a,LA 1 1080
-acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4,CUATRO 1080
-acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c,BeMad 1080
 acestream://cbf281d5e481697aa4184fe1de5e069928c95057,TeleCinco 1080
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175,Sport Tv 1 1080
 acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6,Sport Tv 2 1080
@@ -59,15 +60,13 @@ acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca,beIN SPORTS ñ
 acestream://8d065adeb9603cb93a080930a45eb5bd457483c6,ESPN Arg
 acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e,ESPN 3 Arg
 acestream://9a8c5485a38e9399e81b3eed23e588946946039f,Fox Sports 3 Arg
-acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00,ESPN Urg
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00,ESPN Arg
 acestream://e40b29774fdfd953751a71f5695f647726623b9d,ESPN 2 Urg
 acestream://b97f5975dbd067655432512d4693b417bc85a714,ESPN 3 Urg
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612,ESPN Extra Urg
-acestream://f3f14b89eb62839f97153593432370b5bd61a5df,DirecTv Arg
-acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971,Evento del Momento 1080
-acestream://ce91b10d6dee6f358c6b2a40b5e1926921712168,Evento del Momento 1080
-acestream://d8512e64f34a117afb656f5c66cf8d88023c9570,M. LaLiga 720
-acestream://b4d0c55b2a918da310e521b363e1f038247a11b3,LaLiga SmartBank
+acestream://f3f14b89eb62839f97153593432370b5bd61a5df,DirecTv Ecuador
+acestream://ea905f0ecae1f5c031dce44788aec56d6ec1ca8b,Evento del Momento 1080
+acestream://3d783550706c36af82b5dc053bbf4170173da4c2,Evento del Momento 1080
 acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0,M. LaLiga HD
 acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2,LaLiga SmartBank HD
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd,DAZN LaLiga HD
@@ -85,18 +84,5 @@ acestream://f8a77a75bf7572e360556339794d3d13fca8caa9,EuroSport 1 HD
 acestream://b12bd6f32bbd53a2bbf182a30549fbdf747235cd,EuroSport 2 HD
 acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1,National Geo HD
 acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6,Canal Historia
-https://goltelevision.com/en-directo,Gol Tv (Web Of)
-https://tdp.futbolgratis.workers.dev/,tdp (TeleDeporte) 1080
-https://la1.futbolgratis.workers.dev/,LA 1720
-http://212.230.117.159:10100/play/ES_la_1_HD_backup_online/index.m3u8,LA 1 1080
-http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8,MEGA 720
-http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8,EuroSport 1 1080 [m3u8]
-http://clientsportals.tv:2095/live/amd1PT4h/tRHJ8Ajy/48721.m3u8,EuroSport 2 720 [m3u8] 
-https://esport3.futbolgratis.workers.dev/,Esport3 1080 (Update)
-http://events2-crtvg.flumotion.com/playlist.m3u8,TVG 2 SD
-https://amodino-crtvg.flumotion.com/crtvg/amodino_source/playlist.m3u8,TVG 2 SD
-https://beinsportsxtra.futbolgratis.workers.dev/,beIN SPORTS Xtra ñ 720
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8,Red Bull Tv 1080
-https://tennis-cannel.futbolgratis.workers.dev,Tennis Channel 720
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2,#0 de Movistar 1080
 acestream://72066549fbfd3f755853fe9467586b7debf01f60,SETANTA SPORTS 1080
