@@ -392,11 +392,11 @@ http://tribaliptv.com:8080/Gustavo/123456/4849
 http://tribaliptv.com:8080/Gustavo/123456/4850
 #EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="MOVISTAR ESTRENOS 2 SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="MOVISTAR",MOVISTAR ESTRENOS 2 SD
 http://tribaliptv.com:8080/Gustavo/123456/4851
-#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="MOVISTAR CLASICOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",MOVISTAR CLASICOS HD 1080P
+#EXTINF:-1 tvg-id="M. CL�SICOS HD" tvg-name="MOVISTAR CLASICOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",MOVISTAR CLASICOS HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4852
-#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="MOVISTAR CLASICOS HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",MOVISTAR CLASICOS HD 720P
+#EXTINF:-1 tvg-id="M. CL�SICOS HD" tvg-name="MOVISTAR CLASICOS HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",MOVISTAR CLASICOS HD 720P
 http://tribaliptv.com:8080/Gustavo/123456/4853
-#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="MOVISTAR CLASICOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",MOVISTAR CLASICOS SD
+#EXTINF:-1 tvg-id="M. CL�SICOS HD" tvg-name="MOVISTAR CLASICOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",MOVISTAR CLASICOS SD
 http://tribaliptv.com:8080/Gustavo/123456/4854
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="MOVISTAR COMEDIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR",MOVISTAR COMEDIA HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4855
@@ -410,9 +410,9 @@ http://tribaliptv.com:8080/Gustavo/123456/4858
 http://tribaliptv.com:8080/Gustavo/123456/4859
 #EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="MOVISTAR DRAMA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="MOVISTAR",MOVISTAR DRAMA SD
 http://tribaliptv.com:8080/Gustavo/123456/4860
-#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="MOVISTAR CINE Ñ HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR",MOVISTAR CINE Ñ HD 1080P
+#EXTINF:-1 tvg-id="M. Cine Espa�ol" tvg-name="MOVISTAR CINE � HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR",MOVISTAR CINE � HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4861
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINE Ñ SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR",MOVISTAR CINE Ñ SD
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINE � SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR",MOVISTAR CINE � SD
 http://tribaliptv.com:8080/Gustavo/123456/4862
 #EXTINF:-1 tvg-id="M. Fest" tvg-name="MOVISTAR FEST HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" group-title="MOVISTAR",MOVISTAR FEST HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4863
@@ -810,7 +810,7 @@ http://tribaliptv.com:8080/Gustavo/123456/5199
 http://tribaliptv.com:8080/Gustavo/123456/5200
 #EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA SD
 http://tribaliptv.com:8080/Gustavo/123456/5201
-#EXTINF:-1 tvg-id="Cazavision" tvg-name="CAZAVISIÓN SD" tvg-logo="https://i.ibb.co/f8vddXR/280x75-carousel-cazavision.png" group-title="ENTRETENIMIENTO",CAZAVISIÓN SD
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="CAZAVISI�N SD" tvg-logo="https://i.ibb.co/f8vddXR/280x75-carousel-cazavision.png" group-title="ENTRETENIMIENTO",CAZAVISI�N SD
 http://tribaliptv.com:8080/Gustavo/123456/5202
 #EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png" group-title="ENTRETENIMIENTO",IBERALIA TV HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/5203
@@ -852,21 +852,21 @@ http://tribaliptv.com:8080/Gustavo/123456/5220
 http://tribaliptv.com:8080/Gustavo/123456/5221
 #EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/2880px-Trece.svg.png" group-title="ENTRETENIMIENTO",TRECE tv
 http://tribaliptv.com:8080/Gustavo/123456/5222
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="AUTONOMICAS",Canal Sur Andalucía
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Andaluc�a" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="AUTONOMICAS",Canal Sur Andaluc�a
 http://tribaliptv.com:8080/Gustavo/123456/10966
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sur 2 Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="AUTONOMICAS",Canal Sur 2 Andalucía
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur 2 Andaluc�a" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="AUTONOMICAS",Canal Sur 2 Andaluc�a
 http://tribaliptv.com:8080/Gustavo/123456/10967
-#EXTINF:-1 tvg-id="" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="AUTONOMICAS",101TV Málaga
+#EXTINF:-1 tvg-id="" tvg-name="101TV M�laga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="AUTONOMICAS",101TV M�laga
 http://tribaliptv.com:8080/Gustavo/123456/10968
-#EXTINF:-1 tvg-id="" tvg-name="El Correo de Andalucía" tvg-logo="https://graph.facebook.com/elcorreoweb/picture?width=200&height=200" group-title="AUTONOMICAS",El Correo de Andalucía
+#EXTINF:-1 tvg-id="" tvg-name="El Correo de Andaluc�a" tvg-logo="https://graph.facebook.com/elcorreoweb/picture?width=200&height=200" group-title="AUTONOMICAS",El Correo de Andaluc�a
 http://tribaliptv.com:8080/Gustavo/123456/10969
-#EXTINF:-1 tvg-id="" tvg-name="Onda Cádiz" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="AUTONOMICAS",Onda Cádiz
+#EXTINF:-1 tvg-id="" tvg-name="Onda C�diz" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="AUTONOMICAS",Onda C�diz
 http://tribaliptv.com:8080/Gustavo/123456/10970
 #EXTINF:-1 tvg-id="" tvg-name="Mijas 3.40 TV" tvg-logo="https://graph.facebook.com/Mijas340/picture?width=200&height=200" group-title="AUTONOMICAS",Mijas 3.40 TV
 http://tribaliptv.com:8080/Gustavo/123456/10971
-#EXTINF:-1 tvg-id="" tvg-name="Córdoba TV" tvg-logo="https://graph.facebook.com/cordobatvonline/picture?width=200&height=200" group-title="AUTONOMICAS",Córdoba TV
+#EXTINF:-1 tvg-id="" tvg-name="C�rdoba TV" tvg-logo="https://graph.facebook.com/cordobatvonline/picture?width=200&height=200" group-title="AUTONOMICAS",C�rdoba TV
 http://tribaliptv.com:8080/Gustavo/123456/10972
-#EXTINF:-1 tvg-id="" tvg-name="PTV Málaga" tvg-logo="https://graph.facebook.com/PTV.Malaga/picture?width=200&height=200" group-title="AUTONOMICAS",PTV Málaga
+#EXTINF:-1 tvg-id="" tvg-name="PTV M�laga" tvg-logo="https://graph.facebook.com/PTV.Malaga/picture?width=200&height=200" group-title="AUTONOMICAS",PTV M�laga
 http://tribaliptv.com:8080/Gustavo/123456/10973
 #EXTINF:-1 tvg-id="" tvg-name="M95 Marbella" tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200" group-title="AUTONOMICAS",M95 Marbella
 http://tribaliptv.com:8080/Gustavo/123456/10974
