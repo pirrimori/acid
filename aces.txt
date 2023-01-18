@@ -1,3 +1,9 @@
+acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1,SuperCopa 1080 Multi
+acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1,SuperCopa 1080 Multi
+acestream://8c9b1644fd4766c62935822f5c50a0f044125e1b,SuperCopa 1080 Multi
+acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07,SuperCopa 1080 
+acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464,SuperCopa 720
+acestream://3ce776c6eac31081239903cd45c152b27f95af63,SuperCopa SD
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842,La1
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af,La1 UHD
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3,LaLiga Tv Bar 1080
@@ -28,8 +34,8 @@ acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20,M. Deportes 3 1080
 acestream://08db089084ddbaceba7c239817407bf99708b9ad,M. Deportes 4 1080
 acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c,M. Deportes 5 1080
 acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486,M. Deportes 6 720
+acestream://2bac25f323be1de8208d6554337c2c8256bc32bc,M.L. Campeones 1080 Multi
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b,M.L. Campeones 1080 Multi
-acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b">M.L. Campeones 1080
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47,M.L. Campeones 720
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6,M.L. Campeones 2 1080
 acestream://2d584c7335ff44f97c3cf64947892ef30fde715c,M.L. Campeones 2 720
@@ -71,15 +77,5 @@ acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00,ESPN COLOMBIA
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612,ESPN EXTRA COLOMBIA 
 acestream://e40b29774fdfd953751a71f5695f647726623b9d,ESPN 2 COLOMBIA
 acestream://b97f5975dbd067655432512d4693b417bc85a714,ESPN 3 COLOMBIA
-https://goltelevision.com/en-directo,Gol Tv (Web Of)
-https://tdp.futbolgratis.workers.dev/,tdp (TeleDeporte) 1080
-https://la1.futbolgratis.workers.dev/,LA&nbsp;1&nbsp;&nbsp;720 (Update)
-http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8,MEGA 720
-http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8,EuroSport 1 1080 [m3u8]
-https://esport3.futbolgratis.workers.dev/,Esport3 1080 (Update)
-https://amodino-crtvg.flumotion.com/crtvg/amodino_source/playlist.m3u8,TVG 2 SD
-https://beinsportsxtra.futbolgratis.workers.dev/,beIN SPORTS Xtra ñ 720
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8,Red Bull Tv 1080
-https://tennis-cannel.futbolgratis.workers.dev,Tennis Channel 720
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2,#0 de Movistar 1080
 acestream://72066549fbfd3f755853fe9467586b7debf01f60,SETANTA SPORTS 1080
