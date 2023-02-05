@@ -1,182 +1,421 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/El-menú41-(poster).jpg" group-title="Pagina 1" tvg-id="el menu", el menu
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/El-menú41-(poster).jpg" group-title="Pelicula" tvg-id="el menu", el menu
 https://files.grantorrent.fi/torrents/peliculas/El-Menu-(2022).avi87.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Reno-911:-Qué-bello-es-delinquir4-(poster).jpg" group-title="Pagina 1" tvg-id="reno 911 que bello es delinquir", reno 911 que bello es delinquir
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Reno-911:-Qué-bello-es-delinquir4-(poster).jpg" group-title="Pelicula" tvg-id="reno 911 que bello es delinquir", reno 911 que bello es delinquir
 https://files.grantorrent.fi/torrents/peliculas/Reno-911-Que-bello-es-delinquir-(2022)).avi60.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/La-huérfana:-Primer-asesinato43-(poster).jpg" group-title="Pagina 1" tvg-id="la huerfana primer asesinato", la huerfana primer asesinato
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/La-huérfana:-Primer-asesinato43-(poster).jpg" group-title="Pelicula" tvg-id="la huerfana primer asesinato", la huerfana primer asesinato
 https://files.grantorrent.fi/torrents/peliculas/La-huerfana-Primer-asesinato-(2022).avi12.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/La-generación-del-mal6-(poster).jpg" group-title="Pagina 1" tvg-id="la generacion del mal", la generacion del mal
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/La-generación-del-mal6-(poster).jpg" group-title="Pelicula" tvg-id="la generacion del mal", la generacion del mal
 https://files.grantorrent.fi/torrents/peliculas/La-Generacion-del-Mal-(2021).avi28.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/La-chica-de-la-ventana16-(poster).jpg" group-title="Pagina 1" tvg-id="la chica de la ventana", la chica de la ventana
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/La-chica-de-la-ventana16-(poster).jpg" group-title="Pelicula" tvg-id="la chica de la ventana", la chica de la ventana
 https://files.grantorrent.fi/torrents/peliculas/La-chica-de-la-ventana-(2022)).avi29.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Viviendo-juntos59-(poster).jpg" group-title="Pagina 1" tvg-id="viviendo juntos", viviendo juntos
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Viviendo-juntos59-(poster).jpg" group-title="Pelicula" tvg-id="viviendo juntos", viviendo juntos
 https://files.grantorrent.fi/torrents/peliculas/Bromates-(2022).avi15.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/After:-Amor-infinito32-(poster).jpg" group-title="Pagina 1" tvg-id="after amor infinito", after amor infinito
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/After:-Amor-infinito32-(poster).jpg" group-title="Pelicula" tvg-id="after amor infinito", after amor infinito
 https://files.grantorrent.fi/torrents/peliculas/After-amor-infinito-(2022).avi42.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Abandoned19-(poster).jpg" group-title="Pagina 1" tvg-id="abandoned", abandoned
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Abandoned19-(poster).jpg" group-title="Pelicula" tvg-id="abandoned", abandoned
 https://files.grantorrent.fi/torrents/peliculas/Abandonada-(2022).avi4.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/7-mujeres-y-un-misterio5-(poster).jpg" group-title="Pagina 1" tvg-id="7 mujeres y un misterio", 7 mujeres y un misterio
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/7-mujeres-y-un-misterio5-(poster).jpg" group-title="Pelicula" tvg-id="7 mujeres y un misterio", 7 mujeres y un misterio
 https://files.grantorrent.fi/torrents/peliculas/7-mujeres-y-un-misterio-(2022).mkv91.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Fall69-(poster).jpg" group-title="Pagina 1" tvg-id="fall", fall
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Fall69-(poster).jpg" group-title="Pelicula" tvg-id="fall", fall
 https://files.grantorrent.fi/torrents/peliculas/Fall-(2022).avi13.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Una-noche-en-la-escuela18-(poster).jpg" group-title="Pagina 1" tvg-id="una noche en la escuela", una noche en la escuela
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Una-noche-en-la-escuela18-(poster).jpg" group-title="Pelicula" tvg-id="una noche en la escuela", una noche en la escuela
 https://files.grantorrent.fi/torrents/peliculas/Noche-en-la-escuela-(2022).avi29.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/La-piel-del-tambor45-(poster).jpg" group-title="Pagina 1" tvg-id="la piel del tambor", la piel del tambor
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/La-piel-del-tambor45-(poster).jpg" group-title="Pelicula" tvg-id="la piel del tambor", la piel del tambor
 https://files.grantorrent.fi/torrents/peliculas/La-piel-del-tambor-(2022).avi91.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/En-las-nubes82-(poster).jpg" group-title="Pagina 1" tvg-id="en las nubes", en las nubes
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/En-las-nubes82-(poster).jpg" group-title="Pelicula" tvg-id="en las nubes", en las nubes
 https://files.grantorrent.fi/torrents/peliculas/En-las-nubes-(Sulle-nuvole)-(2022).avi30.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/El-último-paciente37-(poster).jpg" group-title="Pagina 1" tvg-id="el ultimo paciente", el ultimo paciente
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/El-último-paciente37-(poster).jpg" group-title="Pelicula" tvg-id="el ultimo paciente", el ultimo paciente
 https://files.grantorrent.fi/torrents/peliculas/El-ultimo-paciente-(2022).avi39.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Dos-son-multitud59-(poster).jpg" group-title="Pagina 1" tvg-id="dos son multitud", dos son multitud
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Dos-son-multitud59-(poster).jpg" group-title="Pelicula" tvg-id="dos son multitud", dos son multitud
 https://files.grantorrent.fi/torrents/peliculas/Dos-son-multitud-(2022).avi56.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Colorea-mi-mundo-con-amor39-(poster).jpg" group-title="Pagina 1" tvg-id="colorea mi mundo con amor", colorea mi mundo con amor
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Colorea-mi-mundo-con-amor39-(poster).jpg" group-title="Pelicula" tvg-id="colorea mi mundo con amor", colorea mi mundo con amor
 https://files.grantorrent.fi/torrents/peliculas/Colorea-mi-mundo-con-amor-(2022).avi67.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Ascenso-al-límite88-(poster).jpg" group-title="Pagina 1" tvg-id="ascenso al limite", ascenso al limite
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Ascenso-al-límite88-(poster).jpg" group-title="Pelicula" tvg-id="ascenso al limite", ascenso al limite
 https://files.grantorrent.fi/torrents/peliculas/Ascenso-al-limite-(2022).avi30.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Ruido-de-fondo15-(poster).jpg" group-title="Pagina 1" tvg-id="ruido de fondo", ruido de fondo
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Ruido-de-fondo15-(poster).jpg" group-title="Pelicula" tvg-id="ruido de fondo", ruido de fondo
 https://files.grantorrent.fi/torrents/peliculas/Ruido-de-fondo-(White-Noise)-(2022).mkv71.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Weird:-La-Historia-de-Al-Yankovic35-(poster).jpg" group-title="Pagina 1" tvg-id="weird la historia de al yankovic", weird la historia de al yankovic
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Weird:-La-Historia-de-Al-Yankovic35-(poster).jpg" group-title="Pelicula" tvg-id="weird la historia de al yankovic", weird la historia de al yankovic
 https://files.grantorrent.fi/torrents/peliculas/Weird-la-historia-de-Al-Yankovic-(2022).avi85.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Vengeance30-(poster).jpg" group-title="Pagina 1" tvg-id="vengeance", vengeance
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Vengeance30-(poster).jpg" group-title="Pelicula" tvg-id="vengeance", vengeance
 https://files.grantorrent.fi/torrents/peliculas/Venganza-(Vengeance)-(2022).avi96.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Hasta-los-huesos:-Bones-and-All20-(poster).jpg" group-title="Pagina 1" tvg-id="hasta los huesos bones and all", hasta los huesos bones and all
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Hasta-los-huesos:-Bones-and-All20-(poster).jpg" group-title="Pelicula" tvg-id="hasta los huesos bones and all", hasta los huesos bones and all
 https://files.grantorrent.fi/torrents/peliculas/Hasta-los-huesos-Bones-and-All-(2022).avi85.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Hacia-la-libertad37-(poster).jpg" group-title="Pagina 1" tvg-id="hacia la libertad", hacia la libertad
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Hacia-la-libertad37-(poster).jpg" group-title="Pelicula" tvg-id="hacia la libertad", hacia la libertad
 https://files.grantorrent.fi/torrents/peliculas/Hacia-la-libertad-(Emancipation)-(2022).avi29.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/El-juicio-Deventer44-(poster).jpg" group-title="Pagina 1" tvg-id="el juicio deventer", el juicio deventer
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/El-juicio-Deventer44-(poster).jpg" group-title="Pelicula" tvg-id="el juicio deventer", el juicio deventer
 https://files.grantorrent.fi/torrents/peliculas/El-juicio-Deventer-(2022).avi70.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Desfase-en-Navidad64-(poster).jpg" group-title="Pagina 1" tvg-id="desfase en navidad", desfase en navidad
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Desfase-en-Navidad64-(poster).jpg" group-title="Pelicula" tvg-id="desfase en navidad", desfase en navidad
 https://files.grantorrent.fi/torrents/peliculas/Desfase-en-Navidad-(2022).avi94.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Dentro-del-campo77-(poster).jpg" group-title="Pagina 1" tvg-id="dentro del campo", dentro del campo
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Dentro-del-campo77-(poster).jpg" group-title="Pelicula" tvg-id="dentro del campo", dentro del campo
 https://files.grantorrent.fi/torrents/peliculas/Dentro-del-campo-(2022).avi65.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/De-caza22-(poster).jpg" group-title="Pagina 1" tvg-id="de caza", de caza
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/De-caza22-(poster).jpg" group-title="Pelicula" tvg-id="de caza", de caza
 https://files.grantorrent.fi/torrents/peliculas/De-caza-(2022).avi59.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Atropello-salvador53-(poster).jpg" group-title="Pagina 1" tvg-id="atropello salvador", atropello salvador
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Atropello-salvador53-(poster).jpg" group-title="Pelicula" tvg-id="atropello salvador", atropello salvador
 https://files.grantorrent.fi/torrents/peliculas/Atropello-salvador-(Big-Gold-Brick)-(2022).mkv31.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Combustión-instantánea95-(poster).jpg" group-title="Pagina 1" tvg-id="combustion instantanea", combustion instantanea
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Combustión-instantánea95-(poster).jpg" group-title="Pelicula" tvg-id="combustion instantanea", combustion instantanea
 https://files.grantorrent.fi/torrents/peliculas/Combustion-instantanea-(2022).avi32.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Clases-particulares56-(poster).jpg" group-title="Pagina 1" tvg-id="clases particulares", clases particulares
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Clases-particulares56-(poster).jpg" group-title="Pelicula" tvg-id="clases particulares", clases particulares
 https://files.grantorrent.fi/torrents/peliculas/Clases-particulares-(2022).avi69.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Atrapa-la-Bala1-(poster).jpg" group-title="Pagina 1" tvg-id="atrapa la bala", atrapa la bala
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Atrapa-la-Bala1-(poster).jpg" group-title="Pelicula" tvg-id="atrapa la bala", atrapa la bala
 https://files.grantorrent.fi/torrents/peliculas/Catch-the-Bullet-(2022).avi22.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Bros:-Más-que-amigos26-(poster).jpg" group-title="Pagina 2" tvg-id="bros mas que amigos", bros mas que amigos
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Bros:-Más-que-amigos26-(poster).jpg" group-title="Pelicula" tvg-id="bros mas que amigos", bros mas que amigos
 https://files.grantorrent.fi/torrents/peliculas/Bros-Mas-que-amigos-(2022).avi3.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Polvo-y-cenizas57-(poster).jpg" group-title="Pagina 2" tvg-id="polvo y cenizas", polvo y cenizas
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Polvo-y-cenizas57-(poster).jpg" group-title="Pelicula" tvg-id="polvo y cenizas", polvo y cenizas
 https://files.grantorrent.fi/torrents/peliculas/Ash-and-Dust-(2022).avi72.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Almas-en-pena-de-Inisherin14-(poster).jpg" group-title="Pagina 2" tvg-id="almas en pena de inisherin", almas en pena de inisherin
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Almas-en-pena-de-Inisherin14-(poster).jpg" group-title="Pelicula" tvg-id="almas en pena de inisherin", almas en pena de inisherin
 https://files.grantorrent.fi/torrents/peliculas/Almas-en-pena-de-Inisherin-(2022).avi63.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/ali-ava.jpg" group-title="Pagina 2" tvg-id="ali ava", ali ava
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/ali-ava.jpg" group-title="Pelicula" tvg-id="ali ava", ali ava
 https://files.grantorrent.fi/torrents/peliculas/Ali-y-Ava-(2022).avi48.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Algo-de-Tiffany’s16-(poster).jpg" group-title="Pagina 2" tvg-id="algo de tiffanys", algo de tiffanys
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Algo-de-Tiffany’s16-(poster).jpg" group-title="Pelicula" tvg-id="algo de tiffanys", algo de tiffanys
 https://files.grantorrent.fi/torrents/peliculas/Algo-de-Tiffanys-(2022).avi24.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Matilda,-de-Roald-Dahl:-El-musical58-(poster).jpg" group-title="Pagina 2" tvg-id="matilda de roald dahl el musical", matilda de roald dahl el musical
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Matilda,-de-Roald-Dahl:-El-musical58-(poster).jpg" group-title="Pelicula" tvg-id="matilda de roald dahl el musical", matilda de roald dahl el musical
 https://files.grantorrent.fi/torrents/peliculas/Matilda-de-Roald-Dahl-El-musical-(2022).mkv39.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Halloween:-El-final100-(poster).jpg" group-title="Pagina 2" tvg-id="halloween el final", halloween el final
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Halloween:-El-final100-(poster).jpg" group-title="Pelicula" tvg-id="halloween el final", halloween el final
 https://files.grantorrent.fi/torrents/peliculas/Halloween-El-final-(2022).avi65.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Varsovia-83.-Un-asunto-de-estado60-(poster).jpg" group-title="Pagina 2" tvg-id="varsovia 83 un asunto de estado", varsovia 83 un asunto de estado
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Varsovia-83.-Un-asunto-de-estado60-(poster).jpg" group-title="Pelicula" tvg-id="varsovia 83 un asunto de estado", varsovia 83 un asunto de estado
 https://files.grantorrent.fi/torrents/peliculas/Varsovia-83-Un-asunto-de-estado-(2021).avi36.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Valentina32-(poster).jpg" group-title="Pagina 2" tvg-id="valentina", valentina
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Valentina32-(poster).jpg" group-title="Pelicula" tvg-id="valentina", valentina
 https://files.grantorrent.fi/torrents/peliculas/Valentina-(2022).avi32.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Una-Navidad-a-medida42-(poster).jpg" group-title="Pagina 2" tvg-id="una navidad a medida", una navidad a medida
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Una-Navidad-a-medida42-(poster).jpg" group-title="Pelicula" tvg-id="una navidad a medida", una navidad a medida
 https://files.grantorrent.fi/torrents/peliculas/Una-navidad-a-medida-(2022).avi58.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Todo-el-mundo-odia-a-Johan96-(poster).jpg" group-title="Pagina 2" tvg-id="todo el mundo odia a johan", todo el mundo odia a johan
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Todo-el-mundo-odia-a-Johan96-(poster).jpg" group-title="Pelicula" tvg-id="todo el mundo odia a johan", todo el mundo odia a johan
 https://files.grantorrent.fi/torrents/peliculas/Todo-el-mundo-odia-a-Johan-(2022).avi79.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Puñales-por-la-espalda:-El-misterio-de-Glass-Onion4-(poster).jpg" group-title="Pagina 2" tvg-id="punales por la espalda el misterio de glass onion", punales por la espalda el misterio de glass onion
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Puñales-por-la-espalda:-El-misterio-de-Glass-Onion4-(poster).jpg" group-title="Pelicula" tvg-id="punales por la espalda el misterio de glass onion", punales por la espalda el misterio de glass onion
 https://files.grantorrent.fi/torrents/peliculas/Punales-por-la-espalda-El-misterio-de-Glass-Onion-(2022).avi94.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Nadia,-mariposa48-(poster).jpg" group-title="Pagina 2" tvg-id="nadia mariposa", nadia mariposa
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Nadia,-mariposa48-(poster).jpg" group-title="Pelicula" tvg-id="nadia mariposa", nadia mariposa
 https://files.grantorrent.fi/torrents/peliculas/Nadia-mariposa-(2022).avi42.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Mundo-extraño74-(poster).jpg" group-title="Pagina 2" tvg-id="mundo extrano", mundo extrano
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Mundo-extraño74-(poster).jpg" group-title="Pelicula" tvg-id="mundo extrano", mundo extrano
 https://files.grantorrent.fi/torrents/peliculas/Mundo-extrano-(2022).avi21.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Mickey-y-Minnie-y-el-deseo-de-Navidad61-(poster).jpg" group-title="Pagina 2" tvg-id="mickey y minnie y el deseo de navidad", mickey y minnie y el deseo de navidad
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Mickey-y-Minnie-y-el-deseo-de-Navidad61-(poster).jpg" group-title="Pelicula" tvg-id="mickey y minnie y el deseo de navidad", mickey y minnie y el deseo de navidad
 https://files.grantorrent.fi/torrents/peliculas/Mickey-y-Minnie-y-el-deseo-de-Navidad-(2022).avi49.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Una-Noche-En-Bangkok56-(poster).jpg" group-title="Pagina 2" tvg-id="una noche en bangkok", una noche en bangkok
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Una-Noche-En-Bangkok56-(poster).jpg" group-title="Pelicula" tvg-id="una noche en bangkok", una noche en bangkok
 https://files.grantorrent.fi/torrents/peliculas/Una-noche-en-Bangkok-(2022).avi37.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/El-cuartel-secreto89-(poster).jpg" group-title="Pagina 2" tvg-id="el cuartel secreto", el cuartel secreto
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/El-cuartel-secreto89-(poster).jpg" group-title="Pelicula" tvg-id="el cuartel secreto", el cuartel secreto
 https://files.grantorrent.fi/torrents/peliculas/Secret-Headquarters-(2022).avi65.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Reyes-contra-Santa23-(poster).jpg" group-title="Pagina 2" tvg-id="reyes contra santa", reyes contra santa
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Reyes-contra-Santa23-(poster).jpg" group-title="Pelicula" tvg-id="reyes contra santa", reyes contra santa
 https://files.grantorrent.fi/torrents/peliculas/Reyes-contra-Santa-(2022).avi100.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Ramona86-(poster).jpg" group-title="Pagina 2" tvg-id="ramona", ramona
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Ramona86-(poster).jpg" group-title="Pelicula" tvg-id="ramona", ramona
 https://files.grantorrent.fi/torrents/peliculas/Ramona-(2022).avi33.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Mi-pequeño-león-blanco58-(poster).jpg" group-title="Pagina 2" tvg-id="mi pequeno leon blanco", mi pequeno leon blanco
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Mi-pequeño-león-blanco58-(poster).jpg" group-title="Pelicula" tvg-id="mi pequeno leon blanco", mi pequeno leon blanco
 https://files.grantorrent.fi/torrents/peliculas/Mi-pequeno-leon-blanco-(2021).avi82.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/La-traición-de-Huda76-(poster).jpg" group-title="Pagina 2" tvg-id="la traicion de huda", la traicion de huda
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/La-traición-de-Huda76-(poster).jpg" group-title="Pelicula" tvg-id="la traicion de huda", la traicion de huda
 https://files.grantorrent.fi/torrents/peliculas/La-traicion-de-Huda-(2021).avi11.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/La-Mancha-Negra26-(poster).jpg" group-title="Pagina 2" tvg-id="la mancha negra", la mancha negra
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/La-Mancha-Negra26-(poster).jpg" group-title="Pelicula" tvg-id="la mancha negra", la mancha negra
 https://files.grantorrent.fi/torrents/peliculas/La-mancha-negra-(2022).avi66.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Hawa12-(poster).jpg" group-title="Pagina 2" tvg-id="hawa", hawa
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Hawa12-(poster).jpg" group-title="Pelicula" tvg-id="hawa", hawa
 https://files.grantorrent.fi/torrents/peliculas/Hawa-(2022).avi57.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/...-Y-muere-porque-te-toca34-(poster).jpg" group-title="Pagina 2" tvg-id="y muere porque te toca", y muere porque te toca
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/...-Y-muere-porque-te-toca34-(poster).jpg" group-title="Pelicula" tvg-id="y muere porque te toca", y muere porque te toca
 https://files.grantorrent.fi/torrents/peliculas/Y-muere-porque-te-toca-(2022).mkv61.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Acerca-del-destino100-(poster).jpg" group-title="Pagina 2" tvg-id="acerca del destino", acerca del destino
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Acerca-del-destino100-(poster).jpg" group-title="Pelicula" tvg-id="acerca del destino", acerca del destino
 https://files.grantorrent.fi/torrents/peliculas/Acerca-del-destino-(About-Fate)-(2022).mkv20.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Todavía-creo-en-Santa90-(poster).jpg" group-title="Pagina 2" tvg-id="todavia creo en santa", todavia creo en santa
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Todavía-creo-en-Santa90-(poster).jpg" group-title="Pelicula" tvg-id="todavia creo en santa", todavia creo en santa
 https://files.grantorrent.fi/torrents/peliculas/Yo-creo-en-Papa-Noel-(2022).avi79.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Trayecto-Infernal9-(poster).jpg" group-title="Pagina 2" tvg-id="trayecto infernal", trayecto infernal
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Trayecto-Infernal9-(poster).jpg" group-title="Pelicula" tvg-id="trayecto infernal", trayecto infernal
 https://files.grantorrent.fi/torrents/peliculas/Trayecto-infernal-(2022).avi5.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/they.jpg" group-title="Pagina 2" tvg-id="they them", they them
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/they.jpg" group-title="Pelicula" tvg-id="they them", they them
 https://files.grantorrent.fi/torrents/peliculas/They-Them-(2022).avi85.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Lobos-de-guerra2-(poster).jpg" group-title="Pagina 2" tvg-id="lobos de guerra", lobos de guerra
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Lobos-de-guerra2-(poster).jpg" group-title="Pelicula" tvg-id="lobos de guerra", lobos de guerra
 https://files.grantorrent.fi/torrents/peliculas/Lobos-de-guerra-(Wolves-of-War)-(2022).mkv73.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Mighty-Express:-Carrera-de-megatrenes92-(poster).jpg" group-title="Pagina 2" tvg-id="mighty express carrera de megatrenes", mighty express carrera de megatrenes
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Mighty-Express:-Carrera-de-megatrenes92-(poster).jpg" group-title="Pelicula" tvg-id="mighty express carrera de megatrenes", mighty express carrera de megatrenes
 https://files.grantorrent.fi/torrents/peliculas/Mighty-Express-Carrera-de-megatrenes-(2022).avi21.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Me-llamo-Venganza74-(poster).jpg" group-title="Pagina 3" tvg-id="me llamo venganza", me llamo venganza
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Me-llamo-Venganza74-(poster).jpg" group-title="Pelicula" tvg-id="me llamo venganza", me llamo venganza
 https://files.grantorrent.fi/torrents/peliculas/Me-llamo-Venganza-(2022).avi18.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Matando-el-tiempo18-(poster).jpg" group-title="Pagina 3" tvg-id="matando el tiempo", matando el tiempo
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Matando-el-tiempo18-(poster).jpg" group-title="Pelicula" tvg-id="matando el tiempo", matando el tiempo
 https://files.grantorrent.fi/torrents/peliculas/Matando-el-tiempo-(2022).avi58.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Mañana-es-hoy35-(poster).jpg" group-title="Pagina 3" tvg-id="manana es hoy", manana es hoy
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Mañana-es-hoy35-(poster).jpg" group-title="Pelicula" tvg-id="manana es hoy", manana es hoy
 https://files.grantorrent.fi/torrents/peliculas/Manana-es-hoy-(2022).avi89.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/La-vida-padre3-(poster).jpg" group-title="Pagina 3" tvg-id="la vida padre", la vida padre
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/La-vida-padre3-(poster).jpg" group-title="Pelicula" tvg-id="la vida padre", la vida padre
 https://files.grantorrent.fi/torrents/peliculas/La-vida-padre-(2022).avi78.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/La-mensajera-de-la-Navidad62-(poster).jpg" group-title="Pagina 3" tvg-id="la mensajera de la navidad", la mensajera de la navidad
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/La-mensajera-de-la-Navidad62-(poster).jpg" group-title="Pelicula" tvg-id="la mensajera de la navidad", la mensajera de la navidad
 https://files.grantorrent.fi/torrents/peliculas/La-mensajera-de-la-Navidad-(2022).avi72.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/La-Belle-Époque38-(poster).jpg" group-title="Pagina 3" tvg-id="la belle epoque", la belle epoque
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/La-Belle-Époque38-(poster).jpg" group-title="Pelicula" tvg-id="la belle epoque", la belle epoque
 https://files.grantorrent.fi/torrents/peliculas/La-Belle-Epoque-(2022).avi68.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Fuerza-bruta12-(poster).jpg" group-title="Pagina 3" tvg-id="fuerza bruta", fuerza bruta
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Fuerza-bruta12-(poster).jpg" group-title="Pelicula" tvg-id="fuerza bruta", fuerza bruta
 https://files.grantorrent.fi/torrents/peliculas/Fuerza-bruta-(The-Roundup)-(2022).avi48.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Una-nueva-historia-de-Navidad28-(poster).jpg" group-title="Pagina 3" tvg-id="una nueva historia de navidad", una nueva historia de navidad
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Una-nueva-historia-de-Navidad28-(poster).jpg" group-title="Pelicula" tvg-id="una nueva historia de navidad", una nueva historia de navidad
 https://files.grantorrent.fi/torrents/peliculas/Una-navidad-en-Nueva-York-(2022).mkv18.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/El-amante-de-Lady-Chatterley55-(poster).jpg" group-title="Pagina 3" tvg-id="el amante de lady chatterley", el amante de lady chatterley
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/El-amante-de-Lady-Chatterley55-(poster).jpg" group-title="Pelicula" tvg-id="el amante de lady chatterley", el amante de lady chatterley
 https://files.grantorrent.fi/torrents/peliculas/El-amante-de-Lady-Chatterley-(2022).mkv40.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Fly61-(poster).jpg" group-title="Pagina 3" tvg-id="fly", fly
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Fly61-(poster).jpg" group-title="Pelicula" tvg-id="fly", fly
 https://files.grantorrent.fi/torrents/peliculas/Fly-(2021).avi81.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Confiesa,-Fletch74-(poster).jpg" group-title="Pagina 3" tvg-id="confiesa fletch", confiesa fletch
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Confiesa,-Fletch74-(poster).jpg" group-title="Pelicula" tvg-id="confiesa fletch", confiesa fletch
 https://files.grantorrent.fi/torrents/peliculas/Confess-Fletch-(2022).avi73.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/El-diario-de-Greg-2:-La-ley-de-Rodrick52-(poster).jpg" group-title="Pagina 3" tvg-id="el diario de greg 2 la ley de rodrick", el diario de greg 2 la ley de rodrick
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/El-diario-de-Greg-2:-La-ley-de-Rodrick52-(poster).jpg" group-title="Pelicula" tvg-id="el diario de greg 2 la ley de rodrick", el diario de greg 2 la ley de rodrick
 https://files.grantorrent.fi/torrents/peliculas/El-diario-de-Greg-La-ley-de-Rodrick-(2022).avi42.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Detective-Knight:-Sin-piedad100-(poster).jpg" group-title="Pagina 3" tvg-id="detective knight sin piedad", detective knight sin piedad
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Detective-Knight:-Sin-piedad100-(poster).jpg" group-title="Pelicula" tvg-id="detective knight sin piedad", detective knight sin piedad
 https://files.grantorrent.fi/torrents/peliculas/Detective-Knight-Rogue-(2022).avi27.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Confess,-Fletch43-(poster).jpg" group-title="Pagina 3" tvg-id="confess fletch", confess fletch
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Confess,-Fletch43-(poster).jpg" group-title="Pelicula" tvg-id="confess fletch", confess fletch
 https://files.grantorrent.fi/torrents/peliculas/Confess-Fletch-(2022).avi40.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Confesiones-del-estafador-Félix-Krull90-(poster).jpg" group-title="Pagina 3" tvg-id="confesiones del estafador felix krull", confesiones del estafador felix krull
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Confesiones-del-estafador-Félix-Krull90-(poster).jpg" group-title="Pelicula" tvg-id="confesiones del estafador felix krull", confesiones del estafador felix krull
 https://files.grantorrent.fi/torrents/peliculas/Confesiones-del-estafador-Felix-Krull-(2022).avi59.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Con-canas-y-a-lo-loco61-(poster).jpg" group-title="Pagina 3" tvg-id="con canas y a lo loco", con canas y a lo loco
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Con-canas-y-a-lo-loco61-(poster).jpg" group-title="Pelicula" tvg-id="con canas y a lo loco", con canas y a lo loco
 https://files.grantorrent.fi/torrents/peliculas/Con-canas-y-a-lo-loco-(2022).avi58.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Commitment-Phobia81-(poster).jpg" group-title="Pagina 3" tvg-id="commitment phobia", commitment phobia
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Commitment-Phobia81-(poster).jpg" group-title="Pelicula" tvg-id="commitment phobia", commitment phobia
 https://files.grantorrent.fi/torrents/peliculas/Commitment-Phobia-(2022).avi10.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Ámsterdam24-(poster).jpg" group-title="Pagina 3" tvg-id="amsterdam", amsterdam
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Ámsterdam24-(poster).jpg" group-title="Pelicula" tvg-id="amsterdam", amsterdam
 https://files.grantorrent.fi/torrents/peliculas/Amsterdam-(2022).avi3.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Abandonada34-(poster).jpg" group-title="Pagina 3" tvg-id="abandonada", abandonada
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Abandonada34-(poster).jpg" group-title="Pelicula" tvg-id="abandonada", abandonada
 https://files.grantorrent.fi/torrents/peliculas/Abandoned-(2022).avi2.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Una-Navidad-llena-de-Gracia33-(poster).jpg" group-title="Pagina 3" tvg-id="una navidad llena de gracia", una navidad llena de gracia
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Una-Navidad-llena-de-Gracia33-(poster).jpg" group-title="Pelicula" tvg-id="una navidad llena de gracia", una navidad llena de gracia
 https://files.grantorrent.fi/torrents/peliculas/Una-Navidad-llena-de-Gracia-(2022).mkv73.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Un-hombre-de-acción39-(poster).jpg" group-title="Pagina 3" tvg-id="un hombre de accion", un hombre de accion
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Un-hombre-de-acción39-(poster).jpg" group-title="Pelicula" tvg-id="un hombre de accion", un hombre de accion
 https://files.grantorrent.fi/torrents/peliculas/Un-hombre-de-accion-(2022).mkv65.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/¿Tu-Navidad-o-la-mía?21-(poster).jpg" group-title="Pagina 3" tvg-id="tu navidad o la mia", tu navidad o la mia
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/¿Tu-Navidad-o-la-mía?21-(poster).jpg" group-title="Pelicula" tvg-id="tu navidad o la mia", tu navidad o la mia
 https://files.grantorrent.fi/torrents/peliculas/Tu-navidad-o-la-mia-(2022).mkv24.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Tres-mil-años-esperándote10-(poster).jpg" group-title="Pagina 3" tvg-id="tres mil anos esperandote", tres mil anos esperandote
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Tres-mil-años-esperándote10-(poster).jpg" group-title="Pelicula" tvg-id="tres mil anos esperandote", tres mil anos esperandote
 https://files.grantorrent.fi/torrents/peliculas/Tres-mil-anos-esperandote-(2022).mkv32.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/The-Red-Book-Ritual30-(poster).jpg" group-title="Pagina 3" tvg-id="the red book ritual", the red book ritual
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/The-Red-Book-Ritual30-(poster).jpg" group-title="Pelicula" tvg-id="the red book ritual", the red book ritual
 https://files.grantorrent.fi/torrents/peliculas/The-Red-Book-Ritual-(2022).mkv64.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Tengamos-la-fiesta-en-paz43-(poster).jpg" group-title="Pagina 3" tvg-id="tengamos la fiesta en paz", tengamos la fiesta en paz
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Tengamos-la-fiesta-en-paz43-(poster).jpg" group-title="Pelicula" tvg-id="tengamos la fiesta en paz", tengamos la fiesta en paz
 https://files.grantorrent.fi/torrents/peliculas/Tengamos-la-fiesta-en-paz-(2021).mkv94.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Mighty-Express:-Mighty-Trains-Race95-(poster).jpg" group-title="Pagina 3" tvg-id="mighty express mighty trains race", mighty express mighty trains race
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Mighty-Express:-Mighty-Trains-Race95-(poster).jpg" group-title="Pelicula" tvg-id="mighty express mighty trains race", mighty express mighty trains race
 https://files.grantorrent.fi/torrents/peliculas/Mighty-Express-Carrera-de-megatrenes-(2022).mkv29.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Zona-prohibida1-(poster).jpg" group-title="Pagina 3" tvg-id="zona prohibida", zona prohibida
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Zona-prohibida1-(poster).jpg" group-title="Pelicula" tvg-id="zona prohibida", zona prohibida
 https://files.grantorrent.fi/torrents/peliculas/Zona-prohibida-(2022).avi88.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Trol57-(poster).jpg" group-title="Pagina 3" tvg-id="trol", trol
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Trol57-(poster).jpg" group-title="Pelicula" tvg-id="trol", trol
 https://files.grantorrent.fi/torrents/peliculas/Trol-(2022).avi9.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Scrooge:-Cuento-de-Navidad1-(poster).jpg" group-title="Pagina 3" tvg-id="scrooge cuento de navidad", scrooge cuento de navidad
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Scrooge:-Cuento-de-Navidad1-(poster).jpg" group-title="Pelicula" tvg-id="scrooge cuento de navidad", scrooge cuento de navidad
 https://files.grantorrent.fi/torrents/peliculas/Scrooge-Cuento-de-Navidad-(2022).avi79.torrent
-#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/La-guerra-del-futuro66-(poster).jpg" group-title="Pagina 3" tvg-id="la guerra del futuro", la guerra del futuro
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/La-guerra-del-futuro66-(poster).jpg" group-title="Pelicula" tvg-id="la guerra del futuro", la guerra del futuro
 https://files.grantorrent.fi/torrents/peliculas/La-guerra-del-futuro-(2022).avi42.torrent
-
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/El-niño-delfín41-(poster).jpg" group-title="Animación" tvg-id="el nino delfin", el nino delfin
+https://files.grantorrent.fi/torrents/peliculas/El-nino-delfin.avi26.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/El-Regreso-de-Gulliver39-(poster).jpg" group-title="Animación" tvg-id="el regreso de gulliver", el regreso de gulliver
+https://files.grantorrent.fi/torrents/peliculas/Las-nuevas-aventuras-de-Gulliver-(2022).avi55.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Mundo-extraño74-(poster).jpg" group-title="Animación" tvg-id="mundo extrano", mundo extrano
+https://files.grantorrent.fi/torrents/peliculas/Mundo-extrano-(2022).avi21.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2023/01/Mickey-y-Minnie-y-el-deseo-de-Navidad61-(poster).jpg" group-title="Animación" tvg-id="mickey y minnie y el deseo de navidad", mickey y minnie y el deseo de navidad
+https://files.grantorrent.fi/torrents/peliculas/Mickey-y-Minnie-y-el-deseo-de-Navidad-(2022).avi49.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Mighty-Express:-Carrera-de-megatrenes92-(poster).jpg" group-title="Animación" tvg-id="mighty express carrera de megatrenes", mighty express carrera de megatrenes
+https://files.grantorrent.fi/torrents/peliculas/Mighty-Express-Carrera-de-megatrenes-(2022).avi21.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/El-diario-de-Greg-2:-La-ley-de-Rodrick52-(poster).jpg" group-title="Animación" tvg-id="el diario de greg 2 la ley de rodrick", el diario de greg 2 la ley de rodrick
+https://files.grantorrent.fi/torrents/peliculas/El-diario-de-Greg-La-ley-de-Rodrick-(2022).avi42.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Mighty-Express:-Mighty-Trains-Race95-(poster).jpg" group-title="Animación" tvg-id="mighty express mighty trains race", mighty express mighty trains race
+https://files.grantorrent.fi/torrents/peliculas/Mighty-Express-Carrera-de-megatrenes-(2022).mkv29.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/12/Scrooge:-Cuento-de-Navidad1-(poster).jpg" group-title="Animación" tvg-id="scrooge cuento de navidad", scrooge cuento de navidad
+https://files.grantorrent.fi/torrents/peliculas/Scrooge-Cuento-de-Navidad-(2022).avi79.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/11/Tadeo-Jones-3:-La-Tabla-Esmeralda92-(poster).jpg" group-title="Animación" tvg-id="tadeo jones 3 la tabla esmeralda", tadeo jones 3 la tabla esmeralda
+https://files.grantorrent.fi/torrents/peliculas/Tadeo-Jones-3-(2022).avi32.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/11/El-Dragón-de-Papá11-(poster).jpg" group-title="Animación" tvg-id="el dragon de papa", el dragon de papa
+https://files.grantorrent.fi/torrents/peliculas/El-dragon-de-papa-(2022).avi77.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/11/La-peli-del-fútbol57-(poster).jpg" group-title="Animación" tvg-id="la peli del futbol", la peli del futbol
+https://files.grantorrent.fi/torrents/peliculas/La-peli-del-futbol-(2022).avi18.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/10/Minions:-El-origen-de-Gru43-(poster).jpg" group-title="Animación" tvg-id="minions el origen de gru", minions el origen de gru
+https://files.grantorrent.fi/torrents/peliculas/Minions-El-origen-de-Gru-(2022).avi47.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/10/Green-Lantern:-Cuidado-con-mi-poder82-(poster).jpg" group-title="Animación" tvg-id="green lantern cuidado con mi poder", green lantern cuidado con mi poder
+https://files.grantorrent.fi/torrents/peliculas/Green-Lantern-Cuidado-con-mi-poder-(2022).avi20.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/09/Hogar-a-la-deriva33-(poster).jpg" group-title="Animación" tvg-id="hogar a la deriva", hogar a la deriva
+https://files.grantorrent.fi/torrents/peliculas/Hogar-a-la-deriva-(2022).avi13.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/09/La-princesa-y-el-monstruo30-(poster).jpg" group-title="Animación" tvg-id="la princesa y el monstruo", la princesa y el monstruo
+https://files.grantorrent.fi/torrents/peliculas/La-princesa-y-el-monstruo-(2021).mkv50.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/08/Vivo29-(poster).jpg" group-title="Animación" tvg-id="vivo", vivo
+https://files.grantorrent.fi/torrents/peliculas/Vivo-(2022).avi81.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/08/¿Dónde-está-Anne-Frank?47-(poster).jpg" group-title="Animación" tvg-id="donde esta anne frank", donde esta anne frank
+https://files.grantorrent.fi/torrents/peliculas/Donde-esta-Anne-Frank-(2021).mkv29.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/08/Luck91-(poster).jpg" group-title="Animación" tvg-id="luck", luck
+https://files.grantorrent.fi/torrents/peliculas/Luck-(2022).avi13.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/08/Lightyear99-(poster).jpg" group-title="Animación" tvg-id="lightyear", lightyear
+https://files.grantorrent.fi/torrents/peliculas/Lightyear-(2022).avi48.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/08/El-ascenso-de-las-Tortugas-Ninja:-La-película83-(poster).jpg" group-title="Animación" tvg-id="el ascenso de las tortugas ninja la pelicula", el ascenso de las tortugas ninja la pelicula
+https://files.grantorrent.fi/torrents/peliculas/El-ascenso-de-las-Tortugas-Ninja-La-pelicula-(2022).avi30.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/08/Lunáticos71-(poster).jpg" group-title="Animación" tvg-id="lunaticos", lunaticos
+https://files.grantorrent.fi/torrents/peliculas/Moonbound.2021.hdrip.720p.castellano.mp492.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/07/El-monstruo-marino8-(poster).jpg" group-title="Animación" tvg-id="el monstruo marino", el monstruo marino
+https://files.grantorrent.fi/torrents/peliculas/El-monstruo-marino-(2022).avi76.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/07/Bob's-Burgers:-La-película86-(poster).jpg" group-title="Animación" tvg-id="bobs burgers la pelicula", bobs burgers la pelicula
+https://files.grantorrent.fi/torrents/peliculas/Bobs-Burgers-La-Pelicula-(2022).avi100.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/06/Ghost-in-the-Shell:-SAC_2045:-Guerra-sostenible82-(poster).jpg" group-title="Animación" tvg-id="ghost in the shell sac_2045 guerra sostenible", ghost in the shell sac_2045 guerra sostenible
+https://files.grantorrent.fi/torrents/peliculas/Ghost-in-the-Shell-SAC_2045-Guerra-sostenible-(2021).avi43.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/05/Chip-y-Chop:-Los-guardianes-rescatadores94-(poster).jpg" group-title="Animación" tvg-id="chip y chop los guardianes rescatadores", chip y chop los guardianes rescatadores
+https://files.grantorrent.fi/torrents/peliculas/Chip-y-Chop-(2022).mkv41.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/05/Una-familia-feliz-230-(poster).jpg" group-title="Animación" tvg-id="una familia feliz 2", una familia feliz 2
+https://files.grantorrent.fi/torrents/peliculas/Una-Familia-Feliz-2-(2021).avi26.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/05/Chico-mocoso23-(poster).jpg" group-title="Animación" tvg-id="chico mocoso", chico mocoso
+https://files.grantorrent.fi/torrents/peliculas/Chico-mocoso-(2022).avi92.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/05/Salvar-el-árbol30-(poster).jpg" group-title="Animación" tvg-id="salvar el arbol", salvar el arbol
+https://files.grantorrent.fi/torrents/peliculas/Salvar-El-Arbol-(2021).avi81.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/05/Kanna-y-los-dioses-de-octubre17-(poster).jpg" group-title="Animación" tvg-id="kanna y los dioses de octubre", kanna y los dioses de octubre
+https://files.grantorrent.fi/torrents/peliculas/Kanna-Y-Los-Dioses-De-Octubre-(2021).avi24.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2017/02/Red-925904662-large.jpg" group-title="Animación" tvg-id="red", red
+https://files.grantorrent.fi/torrents/peliculas/RED_HDRip.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/04/Apolo-10-Y-Medio:-Una-Infancia-Espacial75-(poster).jpg" group-title="Animación" tvg-id="apolo 10 y medio una infancia espacial", apolo 10 y medio una infancia espacial
+https://files.grantorrent.fi/torrents/peliculas/Apolo-10-y-medio-Una-infancia-espacial-(2022).avi96.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/02/LEGO-DC-Comics-Super-Heroes:-La-Liga-de-la-Justicia---El-ataque-de-la-Legión-del-Mal41-(poster).jpg" group-title="Animación" tvg-id="lego dc comics super heroes la liga de la justicia el ataque de la legion del mal", lego dc comics super heroes la liga de la justicia el ataque de la legion del mal
+https://files.grantorrent.fi/torrents/peliculas/LEGO-DC-Comics-Super-Heroes.mkv85.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/02/Clifford,-el-gran-perro-rojo35-(poster).jpg" group-title="Animación" tvg-id="clifford el gran perro rojo", clifford el gran perro rojo
+https://files.grantorrent.fi/torrents/peliculas/Clifford-el-gran-perro-rojo-(2021).avi94.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/01/Ice-Age:-Las-aventuras-de-Buck62-(poster).jpg" group-title="Animación" tvg-id="ice age las aventuras de buck", ice age las aventuras de buck
+https://files.grantorrent.fi/torrents/peliculas/Ice-Age-Las-aventuras-de-Buck-(2022).avi19.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2017/02/Shaun-Pelicula-dvdrip.jpg" group-title="Animación" tvg-id="la oveja shaun la pelicula", la oveja shaun la pelicula
+https://files.grantorrent.fi/torrents/peliculas/La_oveja_shaun_la_pelicula_HDRip.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/01/Riverdance---La-aventura-animada73-(poster).jpg" group-title="Animación" tvg-id="riverdance la aventura animada", riverdance la aventura animada
+https://files.grantorrent.fi/torrents/peliculas/Riverdance-La-aventura-animada-(2021).avi64.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/01/Hotel-Transilvania:-Transformanía5-(poster).jpg" group-title="Animación" tvg-id="hotel transilvania transformania", hotel transilvania transformania
+https://files.grantorrent.fi/torrents/peliculas/Hotel-Transilvania-Transformania-(2022).avi48.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/01/La-familia-Addams-2:-La-gran-escapada92-(poster).jpg" group-title="Animación" tvg-id="la familia addams 2 la gran escapada", la familia addams 2 la gran escapada
+https://files.grantorrent.fi/torrents/peliculas/La-Familia-Adamns-2-(2021).avi54.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/01/Hilda-y-el-Rey-de-la-montaña67-(poster).jpg" group-title="Animación" tvg-id="hilda y el rey de la montana", hilda y el rey de la montana
+https://files.grantorrent.fi/torrents/peliculas/Hilda-y-el-rey-de-la-montana-(2021).avi85.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/01/Stand-by-Me,-Doraemon-223-(poster).jpg" group-title="Animación" tvg-id="stand by me doraemon 2", stand by me doraemon 2
+https://files.grantorrent.fi/torrents/peliculas/Stand-By-Me-Doraemon-2.avi39.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2022/01/La-noche-del-fin-de-los-tiempos35-(poster).jpg" group-title="Animación" tvg-id="la noche del fin de los tiempos", la noche del fin de los tiempos
+https://files.grantorrent.fi/torrents/peliculas/La-noche-del-fin-de-los-tiempos-(2021).avi45.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/12/Encanto95-(poster).jpg" group-title="Animación" tvg-id="encanto", encanto
+https://files.grantorrent.fi/torrents/peliculas/Encanto-(2021).avi30.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/12/D'Artacán-y-los-tres-mosqueperros14-(poster).jpg" group-title="Animación" tvg-id="dartacan y los tres mosqueperros", dartacan y los tres mosqueperros
+https://files.grantorrent.fi/torrents/peliculas/DArtacan-y-los-tres-mosqueperros-(2021).avi46.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/12/Los-Mitchell-contra-las-máquinas74-(poster).jpg" group-title="Animación" tvg-id="los mitchell contra las maquinas", los mitchell contra las maquinas
+https://files.grantorrent.fi/torrents/peliculas/Los-Mitchell-Contra-Las-Maquinas-(2021).avi29.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/12/LOL-Surprise:-The-Movie99-(poster).jpg" group-title="Animación" tvg-id="lol surprise the movie", lol surprise the movie
+https://files.grantorrent.fi/torrents/peliculas/LOL-Surprise-La-pelicula-(2021).avi85.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/12/Ron-da-error87-(poster).jpg" group-title="Animación" tvg-id="ron da error", ron da error
+https://files.grantorrent.fi/torrents/peliculas/Ron-da-error-(2021).avi95.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/12/¡Nos-hemos-extinguido!12-(poster).jpg" group-title="Animación" tvg-id="nos hemos extinguido", nos hemos extinguido
+https://files.grantorrent.fi/torrents/peliculas/Nos-hemos-extinguido-(2021).avi78.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/12/¡Nos-Volvemos-a-Casa!83-(poster).jpg" group-title="Animación" tvg-id="nos volvemos a casa", nos volvemos a casa
+https://files.grantorrent.fi/torrents/peliculas/Nos-Volvemos-a-Casa-(2021).avi32.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/12/Ciao,-Alberto17-(poster).jpg" group-title="Animación" tvg-id="ciao alberto 2", ciao alberto 2
+https://blazing.network/torrents/peliculas/168359_-1644912461-El-sustituto-(2021)--BluRayRip-AC3-5-1.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2017/02/diary_of_a_wimpy_kid-864970792-large.jpg" group-title="Animación" tvg-id="el diario de greg", el diario de greg
+https://files.grantorrent.fi/torrents/peliculas/diario-de-greg-dvdrip.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/12/Ciao-Alberto83-(poster).jpg" group-title="Animación" tvg-id="ciao alberto", ciao alberto
+https://files.grantorrent.fi/torrents/peliculas/Ciao-Alberto-(2021).avi95.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/12/Los-Simpson-en-Plusniversario78-(poster).jpg" group-title="Animación" tvg-id="los simpson en plusniversario", los simpson en plusniversario
+https://files.grantorrent.fi/torrents/peliculas/Los-Simpson-en-Plusniversario-(2021).avi50.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/12/Los-Descendientes:-La-Boda-Real90-(poster).jpg" group-title="Animación" tvg-id="los descendientes la boda real", los descendientes la boda real
+https://files.grantorrent.fi/torrents/peliculas/Los-descendientes-La-boda-real-(2021).avi53.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/11/Klara-y-el-ladrón-de-manzanas62-(poster).jpg" group-title="Animación" tvg-id="klara y el ladron de manzanas", klara y el ladron de manzanas
+https://files.grantorrent.fi/torrents/peliculas/Klara-y-el-ladron-de-manzanas-(2019).mkv24.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/11/El-bebé-jefazo:-Negocios-de-familia85-(poster).jpg" group-title="Animación" tvg-id="el bebe jefazo negocios de familia", el bebe jefazo negocios de familia
+https://files.grantorrent.fi/torrents/peliculas/El-bebe-jefazo-Negocios-de-familia-(2021).avi47.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/11/LEGO-Star-Wars-Cuentos-escalofriantes43-(poster).jpg" group-title="Animación" tvg-id="lego star wars cuentos escalofriantes", lego star wars cuentos escalofriantes
+https://files.grantorrent.fi/torrents/peliculas/LEGO-Star-Wars-Cuentos-escalofriantes-(2021).mkv56.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/11/Bright:-Samurai-Soul84-(poster).jpg" group-title="Animación" tvg-id="bright samurai soul", bright samurai soul
+https://files.grantorrent.fi/torrents/peliculas/Bright--Alma-de-samurai-(2021).mkv45.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/10/Spirit---Indomable78-(poster).jpg" group-title="Animación" tvg-id="spirit indomable", spirit indomable
+https://files.grantorrent.fi/torrents/peliculas/Spirit-Indomable-(2021).avi59.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/10/0531955.jpg" group-title="Animación" tvg-id="upsss 2 y ahora donde esta noe", upsss 2 y ahora donde esta noe
+https://files.grantorrent.fi/torrents/peliculas/Upsss-2-Y-ahora-donde-esta-Noe-(2021)-[BluRay-Screener].mkv16.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/10/Hotel-Transilvania66-(poster).jpg" group-title="Animación" tvg-id="hotel transilvania", hotel transilvania
+https://files.grantorrent.fi/torrents/peliculas/Hotel-Transilvania-(2012).mkv82.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/10/Ninja-a-cuadros-2:-Misión-Tailandia36-(poster).jpg" group-title="Animación" tvg-id="ninja a cuadros 2 mision tailandia", ninja a cuadros 2 mision tailandia
+https://files.grantorrent.fi/torrents/peliculas/Ternet-Ninja-2-(2021)-[TS-Screener].avi52.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/09/Evangelion:-3.0+1.011-(poster).jpg" group-title="Animación" tvg-id="evangelion 3 01 0", evangelion 3 01 0
+https://files.grantorrent.fi/torrents/peliculas/Evangelion-3010-(2021).avi4.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/09/Deathstroke:-Caballeros-y-Dragones24-(poster).jpg" group-title="Animación" tvg-id="deathstroke caballeros y dragones", deathstroke caballeros y dragones
+https://files.grantorrent.fi/torrents/peliculas/Deathstroke-Caballeros-y-Dragones-(2020).avi72.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/08/The-Witcher:-La-pesadilla-del-lobo93-(poster).jpg" group-title="Animación" tvg-id="the witcher la pesadilla del lobo", the witcher la pesadilla del lobo
+https://files.grantorrent.fi/torrents/peliculas/The-Witcher-La-pesadilla-del-lobo-(2021).avi77.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/08/Earwig-y-la-bruja35-(poster).jpg" group-title="Animación" tvg-id="earwig y la bruja", earwig y la bruja
+https://files.grantorrent.fi/torrents/peliculas/Earwig-y-la-bruja-(2020).avi19.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/08/Space-Jam:-Nuevas-leyendas90-(poster).jpg" group-title="Animación" tvg-id="space jam nuevas leyendas", space jam nuevas leyendas
+https://files.grantorrent.fi/torrents/peliculas/Space-Jam-Nuevas-leyendas-(2021).avi58.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/08/Guardianes-de-la-Noche:-Tren-infinito82-(poster).jpg" group-title="Animación" tvg-id="guardianes de la noche tren infinito", guardianes de la noche tren infinito
+https://files.grantorrent.fi/torrents/peliculas/Guardianes-de-la-noche-Tren-infinito-(2020).avi96.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/08/Monster-Hunter:-Leyendas-del-gremio77-(poster).jpg" group-title="Animación" tvg-id="monster hunter leyendas del gremio", monster hunter leyendas del gremio
+https://files.grantorrent.fi/torrents/peliculas/Monster-Hunter-Leyendas-del-gremio-(2021).avi56.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/08/Mortal-Kombat-Legends:-La-venganza-de-Scorpion7-(poster).jpg" group-title="Animación" tvg-id="mortal kombat legends la venganza de scorpion", mortal kombat legends la venganza de scorpion
+https://files.grantorrent.fi/torrents/peliculas/Mortal-Kombat-Legends-(2020).avi6.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/08/Penguin-Highway60-(poster).jpg" group-title="Animación" tvg-id="penguin highway", penguin highway
+https://files.grantorrent.fi/torrents/peliculas/Penguin-Highway-El-misterio-de-los-pinguinos.avi8.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/08/¡Scooby-Doo!-La-Leyenda-de-Scoobydur99-(poster).jpg" group-title="Animación" tvg-id="scooby doo la leyenda de scoobydur", scooby doo la leyenda de scoobydur
+https://files.grantorrent.fi/torrents/peliculas/Scooby-Doo--La-Leyenda-de-Scoobydur-(2021).avi80.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/08/Palabras-que-burbujean-como-un-refresco93-(poster).jpg" group-title="Animación" tvg-id="palabras que burbujean como un refresco", palabras que burbujean como un refresco
+https://files.grantorrent.fi/torrents/peliculas/Palabras-que-burbujean-como-un-refresco-(2021).avi6.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/07/Trollhunters:-El-despertar-de-los-titanes16-(poster).jpg" group-title="Animación" tvg-id="trollhunters el despertar de los titanes", trollhunters el despertar de los titanes
+https://files.grantorrent.fi/torrents/peliculas/Trollhunters--El-despertar-de-los-titanes-(2021).avi47.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/07/Peter-Rabbit-2:-A-la-fuga59-(poster).jpg" group-title="Animación" tvg-id="peter rabbit 2 a la fuga", peter rabbit 2 a la fuga
+https://files.grantorrent.fi/torrents/peliculas/Peter-Rabbit-2-A-la-fuga.2021.hdrip.720p.subesp.mp499.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/07/La-Gallina-Turuleca85-(poster).jpg" group-title="Animación" tvg-id="la gallina turuleca", la gallina turuleca
+https://files.grantorrent.fi/torrents/peliculas/La.Gallina.Turuleca.2020.DVD.CUSTOM.HD.Spanish.5.174.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/07/Los-Simpson:-La-buena,-el-malo-y-Loki83-(poster).jpg" group-title="Animación" tvg-id="los simpson la buena el malo y loki", los simpson la buena el malo y loki
+https://files.grantorrent.fi/torrents/peliculas/Los.Simpson.La.Buena.El.Malo.Y.Loki.avi79.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/07/Estados-Unidos:-La-Película79-(poster).jpg" group-title="Animación" tvg-id="estados unidos la pelicula", estados unidos la pelicula
+https://files.grantorrent.fi/torrents/peliculas/Estados-Unidos-El-peliculion-(2021).avi53.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/07/El-dragón-de-los-deseos31-(poster).jpg" group-title="Animación" tvg-id="el dragon de los deseos", el dragon de los deseos
+https://files.grantorrent.fi/torrents/peliculas/Wish-Dragon.2021.hdrip.720p.castellano.mp442.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/07/El-caracol-y-la-ballena1-(poster).jpg" group-title="Animación" tvg-id="el caracol y la ballena", el caracol y la ballena
+https://files.grantorrent.fi/torrents/peliculas/El-caracol-y-la-ballena-(2021).avi43.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/06/Luca36-(poster).jpg" group-title="Animación" tvg-id="luca", luca
+https://files.grantorrent.fi/torrents/peliculas/Luca-(2021).avi60.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2021/06/Mascotas-monstruosas:-Un-corto-de-Hotel-Transilvania1-(poster).jpg" group-title="Animación" tvg-id="mascotas monstruosas un corto de hotel transilvania", mascotas monstruosas un corto de hotel transilvania
+https://files.grantorrent.fi/torrents/peliculas/Monster Pets A Hotel Transylvania Short Film (2021).mp490.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2020/03/one_piece_stampede-255097694-large.jpg" group-title="Animación" tvg-id="one piece estampida", one piece estampida
+https://files.grantorrent.fi/torrents/peliculas/One_Piece_Estampida_BluRay720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2020/03/altered_carbon_resleeved-149158018-large.jpg" group-title="Animación" tvg-id="altered carbon reenfundados", altered carbon reenfundados
+https://files.grantorrent.fi/torrents/peliculas/Altered_Carbon_Reefundados_BluRay720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2020/03/onward-464150296-large.jpg" group-title="Animación" tvg-id="onward", onward
+https://files.grantorrent.fi/torrents/peliculas/Onward_Screener720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2020/03/evolution-741466354-large.jpg" group-title="Animación" tvg-id="pokemon mewtwo vs mew la evolucion", pokemon mewtwo vs mew la evolucion
+https://files.grantorrent.fi/torrents/peliculas/Pokemon_Mewtwo_Contraataca_Evolucion_BluRay720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2020/02/the_addams_family-839137722-large.jpg" group-title="Animación" tvg-id="la familia addams 2", la familia addams 2
+https://files.grantorrent.fi/torrents/peliculas/La_Familia_Addams_BDremux1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2020/02/dragon_quest_your_story-824236609-large.jpg" group-title="Animación" tvg-id="dragon quest your story", dragon quest your story
+https://files.grantorrent.fi/torrents/peliculas/Dragon_Quest_Your_Story_BluRay720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2020/01/reign_of_the_supermen-103200027-large.jpg" group-title="Animación" tvg-id="la muerte de superman parte 2 el reinado de los superhombres", la muerte de superman parte 2 el reinado de los superhombres
+https://files.grantorrent.fi/torrents/peliculas/La_Muerte_De_Superman_Parte_2_BluRay720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/12/MV5BMGNlMjY2Y2MtNWVjZS00NDY5LTkwNzYtOTAxODg3Y2ZiY2Q3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006481000_AL_.jpg" group-title="Animación" tvg-id="playmobil la pelicula", playmobil la pelicula
+https://files.grantorrent.fi/torrents/peliculas/Playmobil_BluRay720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/12/elcano_y_magallanes_la_primera_vuelta_al_mundo-847257374-large.jpg" group-title="Animación" tvg-id="elcano y magallanes la primera vuelta al mundo", elcano y magallanes la primera vuelta al mundo
+https://files.grantorrent.fi/torrents/peliculas/Elcano_Y_Magallanes_BluRay720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/12/the_secret_life_of_pets_2-281399627-large.jpg" group-title="Animación" tvg-id="mascotas 2", mascotas 2
+https://files.grantorrent.fi/torrents/peliculas/Mascotas_2_4K_BDremux.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/12/MV5BMTYzY2U0NjctNDJkNS00MmE3LWFiZGQtZjllZTIzYTQ4ODJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR006311000_AL_.jpg" group-title="Animación" tvg-id="abominable", abominable
+https://files.grantorrent.fi/torrents/peliculas/Abominable_4K_UHDremux.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/11/MV5BYzdkNGJhNzQtMjY1OC00MDI3LTk0ZDUtNzU0MGZiY2YwZGUxXkEyXkFqcGdeQXVyNzMxNjQxMTk@._V1_.jpg" group-title="Animación" tvg-id="angry birds 2 la pelicula", angry birds 2 la pelicula
+https://files.grantorrent.fi/torrents/peliculas/Angry_Birds_2_BluRay720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/10/MV5BYjJkNjM4ODUtNDJlYy00ZGI1LTk1OTctODc2OWJlNmM1YTM3L2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="Animación" tvg-id="locos por el surf 2 olamania", locos por el surf 2 olamania
+https://files.grantorrent.fi/torrents/peliculas/Locos_Por_El_Surf_2_BluRay720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/10/MV5BMjE4NDE3NzcwM15BMl5BanBnXkFtZTcwMTI0ODYzMw@@._V1_SY1000_CR006731000_AL_.jpg" group-title="Animación" tvg-id="locos por el surf", locos por el surf
+https://files.grantorrent.fi/torrents/peliculas/Mentes_Brillantes_HDRip.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/10/missing_link-775790879-large.jpg" group-title="Animación" tvg-id="mr link el origen perdido", mr link el origen perdido
+https://files.grantorrent.fi/torrents/peliculas/Mr_Link_Origen_Perdido_BluRay720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/10/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SY1000_CR006741000_AL_.jpg" group-title="Animación" tvg-id="el rey leon 2019", el rey leon 2019
+https://files.grantorrent.fi/torrents/peliculas/El_Rey_Leon_4K_BDremux.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/10/MV5BZGQyMWMwZjItNTAyZS00ZmMxLWI4N2UtMzM4MzQ2NzBhNmI2XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SX749_CR00749999_AL_.jpg" group-title="Animación" tvg-id="terra willy planeta desconocido", terra willy planeta desconocido
+https://files.grantorrent.fi/torrents/peliculas/Terra_Willy_Planeta_Desconocido_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/10/ponoc_tanpen_gekijo_chiisana_eiyu_kani_to_tamago_to_tomei_ningen-464138472-large.jpg" group-title="Animación" tvg-id="heroes humildes", heroes humildes
+https://files.grantorrent.fi/torrents/peliculas/Heroes_Humildes_BluRay_720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/09/MV5BMTg5ODA4MTY1OV5BMl5BanBnXkFtZTcwODYwMzAzMQ@@._V1_.jpg" group-title="Animación" tvg-id="el lugar que nos prometimos 2", el lugar que nos prometimos 2
+https://files.grantorrent.fi/torrents/peliculas/El_Lugar_Que_Nos_Prometimos_HDRip.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/09/MV5BZmQzNzZkZmEtYzhjMS00Y2RjLWE3MmYtZmU2MjlkMDU2ODRhXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SY1000_CR007061000_AL_.jpg" group-title="Animación" tvg-id="corgi las mascotas de la reina", corgi las mascotas de la reina
+https://files.grantorrent.fi/torrents/peliculas/Corgi_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/09/modest_heroes_kani_no_kanino_s-712125016-large.jpg" group-title="Animación" tvg-id="heroes humildes kanini kanino", heroes humildes kanini kanino
+https://files.grantorrent.fi/torrents/peliculas/Modest_Heroes_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/09/MV5BMzA5MTQyMzUtYjY5Yy00NDk5LWI5YWEtNzgxNGEwNTQyZDY0XkEyXkFqcGdeQXVyNTA2MTE3MDA@._V1_SY1000_CR007141000_AL_.jpg" group-title="Animación" tvg-id="memorias de un hombre en pijama", memorias de un hombre en pijama
+https://files.grantorrent.fi/torrents/peliculas/Memorias_De_Un_Hombre_En_Pijama_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/08/MV5BZDNlYjMyN2YtYWI5OC00MTY0LTgxZWQtZDAwZWFjNzhlOGVjXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_SY1000_CR007061000_AL_.jpg" group-title="Animación" tvg-id="okko el hostal y sus fantasmas", okko el hostal y sus fantasmas
+https://files.grantorrent.fi/torrents/peliculas/Okko_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/08/MV5BZjc4NGJiOWUtOWNjOS00M2QzLWFlMmMtMTU3ODMzNWU5ODk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR006841000_AL_.jpg" group-title="Animación" tvg-id="mirai mi hermana pequena", mirai mi hermana pequena
+https://files.grantorrent.fi/torrents/peliculas/Mirai_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/08/MV5BMjI5MTQ5NzE4Nl5BMl5BanBnXkFtZTgwNTk2MDA5NjM@._V1_SY1000_CR006401000_AL_.jpg" group-title="Animación" tvg-id="el parque magico", el parque magico
+https://files.grantorrent.fi/torrents/peliculas/El_Parque_Magico_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/08/MV5BZDlmNmE5NDAtYTIzZi00ZGE3LWIzNmItMmNmYTM0NjVhYTNjXkEyXkFqcGdeQXVyNjk4MzY1MTk@._V1_SX707_CR00707999_AL_.jpg" group-title="Animación" tvg-id="la alfombra magica", la alfombra magica
+https://files.grantorrent.fi/torrents/peliculas/La_Alfombra_Magica_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/07/kimi_no_suizo_wo_tabetai-287102864-large.jpg" group-title="Animación" tvg-id="quiero comerme tu pancreas", quiero comerme tu pancreas
+https://files.grantorrent.fi/torrents/peliculas/Quiero_Comerme_Tu_Pancreas_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/07/MV5BMTY5NzEwNDczMl5BMl5BanBnXkFtZTgwMjY1MTY4NDM@._V1_SY1000_CR006781000_AL_.jpg" group-title="Animación" tvg-id="stubby un heroe muy especial", stubby un heroe muy especial
+https://files.grantorrent.fi/torrents/peliculas/Sargento_Stubby_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/05/MV5BYWUxNzlmNGUtMWJjNi00N2RmLTkwZmEtNTg1ODRlM2MwOWY2XkEyXkFqcGdeQXVyMjM5OTYzMTY@._V1_SY1000_CR007361000_AL_.jpg" group-title="Animación" tvg-id="minuscule 2 mandibulas del fin del mundo", minuscule 2 mandibulas del fin del mundo
+https://files.grantorrent.fi/torrents/peliculas/Minuscule2_BluRay720p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/05/MV5BYjc1YWQ5NWEtODYwYy00ZTkxLTg4YzEtMWEzNGM1N2YzOGQ2XkEyXkFqcGdeQXVyNTkxMzEwMzU@._V1_SY1000_CR006761000_AL_.jpg" group-title="Animación" tvg-id="dragon ball super broly", dragon ball super broly
+https://files.grantorrent.fi/torrents/peliculas/Dragon_Ball_Super_Broly_HDRip.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/05/MV5BOTc3MTVjMDEtZDk4Zi00M2I2LTk4YzctZTkxNjVhNDI0OGRlXkEyXkFqcGdeQXVyNDA5NDYyNDY@._V1_SY1000_SX750_AL_.jpg" group-title="Animación" tvg-id="mutafukaz", mutafukaz
+https://files.grantorrent.fi/torrents/peliculas/Mutafukaz_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/05/ploey_you_never_fly_alone-338054592-large.jpg" group-title="Animación" tvg-id="ploey nunca volaras solo", ploey nunca volaras solo
+https://files.grantorrent.fi/torrents/peliculas/Ploey_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/05/la_gran_aventura_de_los_lunnis_y_el_libro_magico-730221755-large.jpg" group-title="Animación" tvg-id="la gran aventura de los lunnis y el libro magico", la gran aventura de los lunnis y el libro magico
+https://files.grantorrent.fi/torrents/peliculas/Lunnis_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/05/MV5BZDUyNzhjMTAtNGI5OC00MjYzLWFlNDUtMTQzYTdhZjliMDk0XkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg" group-title="Animación" tvg-id="asterix el secreto de la pocion magica", asterix el secreto de la pocion magica
+https://files.grantorrent.fi/torrents/peliculas/Asterix_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/05/MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM@._V1_SY1000_CR006741000_AL_.jpg" group-title="Animación" tvg-id="lego la pelicula 2", lego la pelicula 2
+https://files.grantorrent.fi/torrents/peliculas/Lego_2_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/05/ralph_breaks_the_internet-862794954-large.jpg" group-title="Animación" tvg-id="ralph rompe internet", ralph rompe internet
+https://files.grantorrent.fi/torrents/peliculas/Ralph_Rompe_Internet_MicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/05/spider_man_into_the_spider_verse-917347027-large.jpg" group-title="Animación" tvg-id="spiderman un nuevo universo", spiderman un nuevo universo
+https://files.grantorrent.fi/torrents/peliculas/Spiderman_Un_Nuevo_Universo_4K_UHDremux.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/05/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SY1000_CR006311000_AL_.jpg" group-title="Animación" tvg-id="como entrenar a tu dragon 3", como entrenar a tu dragon 3
+https://files.grantorrent.fi/torrents/peliculas/Como_Entrenar_A_Tu_DragonMicroHD1080p.torrent
+#EXTINF:-1 tvg-logo="https://grantorrent.fi/wp-content/uploads/2019/02/smallfoot-637626929-large.jpg" group-title="Animación" tvg-id="smallfoot", smallfoot
+https://files.grantorrent.fi/torrents/peliculas/Smallfoot_MicroHD.torrent
