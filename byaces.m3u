@@ -16,11 +16,11 @@ acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 1080
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080
-acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
+acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080
-acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720
-acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
+acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 multiaudio
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 multiaudio
@@ -151,6 +151,8 @@ acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 acestream://cbf281d5e481697aa4184fe1de5e069928c95057
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,Teledeporte 1080
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://i.postimg.cc/BbXFprF3/tennis.png" ,Tennis Channel
+acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
 #EXTINF:-1 group-title="Otros idiomas" tvg-id="SPORT TV1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" ,Sport TV 1 1080
 acestream://c95422bc904378be0b035eba721d5e6a004f7d79
 #EXTINF:-1 group-title="Otros idiomas" tvg-id="SPORT TV2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png" ,Sport TV 2 1080
