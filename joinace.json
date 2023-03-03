@@ -1,0 +1,4872 @@
+{
+  "Users": {
+    "0NRTSMDsOWdsvXjdAhAw2VA02Lj2": {
+      "active": true,
+      "email": "dcnyhdg503@seek4wap.com",
+      "free": true,
+      "loginDate": 1660937945048,
+      "nick": "aaa",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "CT",
+          "uid": "Xv1Mes0IGVcLaQpTaV8y96FbTm72"
+        },
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "role": "client",
+      "uid": "0NRTSMDsOWdsvXjdAhAw2VA02Lj2"
+    },
+    "0fQXPfwgSMW9HBTM15YcmFYLZZF2": {
+      "active": true,
+      "email": "david_beni11@hotmail.com",
+      "free": true,
+      "loginDate": 1662198322511,
+      "nick": "Beni",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "requestsSent": [
+        "kuko",
+        "pirri_mori"
+      ],
+      "role": "client",
+      "uid": "0fQXPfwgSMW9HBTM15YcmFYLZZF2"
+    },
+    "0woVcVU1WXXCoQTX5WNlAN37FYv2": {
+      "active": true,
+      "deviceId": "6473e2d095225c9e",
+      "email": "ronovella77@gmail.com",
+      "free": true,
+      "loginDate": 1662068017709,
+      "nick": "ronovella",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "requestsSent": [
+        "kuko",
+        "pirri_mori"
+      ],
+      "role": "client",
+      "sessionTime": 1678746949562,
+      "token": "",
+      "uid": "0woVcVU1WXXCoQTX5WNlAN37FYv2"
+    },
+    "2pF4IbiEnJTNfzaweGYGYRcRrqB3": {
+      "active": true,
+      "email": "varaderotron@gmail.com",
+      "free": true,
+      "loginDate": 1670789755659,
+      "nick": "Gallus",
+      "privacity": true,
+      "requestsSent": [
+        "AlaTriste ",
+        "kuko"
+      ],
+      "role": "client",
+      "uid": "2pF4IbiEnJTNfzaweGYGYRcRrqB3"
+    },
+    "3THCsqMpuaUVhGAcWrsCZmr5VBv1": {
+      "active": true,
+      "deviceId": "",
+      "email": "AndresGarcia1759@gmail.com",
+      "free": true,
+      "loginDate": 1662811576465,
+      "nick": "Andres",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        },
+        {
+          "acepted": false,
+          "nick": "demojoinace",
+          "uid": "POFq9eqofHOWIlFzhQnXQ6OZi5z2"
+        }
+      ],
+      "role": "client",
+      "sessionTime": 0,
+      "token": "",
+      "uid": "3THCsqMpuaUVhGAcWrsCZmr5VBv1"
+    },
+    "3cnDXzrfBoXiKyRlK4AoweHwzBk2": {
+      "active": true,
+      "email": "ljhernando@gmail.com",
+      "free": true,
+      "loginDate": 1665530341625,
+      "nick": "LJhl",
+      "privacity": true,
+      "requestsSent": [
+        "kuko"
+      ],
+      "role": "client",
+      "uid": "3cnDXzrfBoXiKyRlK4AoweHwzBk2"
+    },
+    "4dyF8KaBizTOfjyyGJWbzBQcgRt1": {
+      "active": true,
+      "email": "rvelascoperez09@gmail.com",
+      "free": true,
+      "loginDate": 1661877834267,
+      "nick": "Rocio",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "JTR",
+          "uid": "pp8E4NVIHHNpFI8QdBWqr9EtvRi2"
+        },
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        },
+        {
+          "acepted": false,
+          "nick": "195050",
+          "uid": "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2"
+        }
+      ],
+      "requestsSent": [
+        "pirri_mori"
+      ],
+      "role": "client",
+      "uid": "4dyF8KaBizTOfjyyGJWbzBQcgRt1"
+    },
+    "5biTy8zDO5Qo1bg4XWqqh7wP4xn2": {
+      "active": true,
+      "email": "romero.ivn@outlook.com",
+      "free": true,
+      "loginDate": 1660459019228,
+      "nick": "White ",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "AlaTriste ",
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+        },
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "requestsSent": [
+        "pirri_mori",
+        "Eusebio ",
+        "AlaTriste ",
+        "fito",
+        "Laudrup "
+      ],
+      "role": "client",
+      "uid": "5biTy8zDO5Qo1bg4XWqqh7wP4xn2"
+    },
+    "5d7a0gNjWQadDnTp4HEH3bl2uJn2": {
+      "active": true,
+      "deviceId": "d105d877f243671b",
+      "email": "pelayov.perez@gmail.com",
+      "free": true,
+      "loginDate": 1661877790566,
+      "nick": "jwj",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "requestsSent": [
+        "pirri_mori"
+      ],
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "",
+      "uid": "5d7a0gNjWQadDnTp4HEH3bl2uJn2"
+    },
+    "6MnUirsyO2MftMi1AmWcBitov5g1": {
+      "active": true,
+      "email": "saritahlinde@hotmail.com",
+      "free": true,
+      "loginDate": 1665843323847,
+      "nick": "saritahlinde",
+      "privacity": true,
+      "role": "client",
+      "uid": "6MnUirsyO2MftMi1AmWcBitov5g1"
+    },
+    "6taKJVtA9vfTIPo8xWB6utaFxy43": {
+      "active": true,
+      "deviceId": "",
+      "email": "javigarrafa@hotmail.com",
+      "free": false,
+      "loginDate": 1650197914362,
+      "nick": "javigarrafa",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": true,
+          "nick": "pirri_mori",
+          "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+        }
+      ],
+      "requestsSent": [
+        "pirri_mori",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1679097857594,
+      "token": "cTjszf3YTxW40HXfiFlrnR:APA91bHUBq-ZXukAfjVwvTpIRZV1j8bETS0fZbTlyHXeyXAcUaV8-pqPBQcDiB5ofBT_SddEuJIemcnP3NIaq0a31-p7S_EaX-1LKXzeWor-iqt_g4PbK0bK0ZL4wsFeSyVDxiTrnCgQ",
+      "uid": "6taKJVtA9vfTIPo8xWB6utaFxy43"
+    },
+    "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2": {
+      "active": true,
+      "deviceId": "5727c8b6b2a3b7cc",
+      "email": "farrita2005@gmail.com",
+      "free": false,
+      "loginDate": 1651374819616,
+      "nick": "farra",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": true,
+          "nick": "pirri_mori",
+          "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+        },
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "requestsSent": [
+        "pirrimori6",
+        "pirri_mori",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "",
+      "uid": "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2"
+    },
+    "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+      "active": true,
+      "deviceId": "7d38dde34242d317",
+      "email": "lucaseldelatele@gmail.com",
+      "free": true,
+      "loginDate": 1660417770161,
+      "nick": "AlaTriste ",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "CT",
+          "uid": "Xv1Mes0IGVcLaQpTaV8y96FbTm72"
+        },
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        },
+        {
+          "acepted": true,
+          "nick": "195050",
+          "uid": "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2"
+        },
+        {
+          "acepted": true,
+          "nick": "Charly",
+          "uid": "gI6lQUY8qPT54G0LS93GlaO4Z0q2"
+        },
+        {
+          "acepted": true,
+          "nick": "Limocho",
+          "uid": "OWCB3pSCUbaj9pLpfbMqItyEk0u2"
+        },
+        {
+          "acepted": true,
+          "nick": "Elitmos",
+          "uid": "zg2Hl7QRzBZhDixUrSxcjmqED792"
+        },
+        {
+          "acepted": true,
+          "nick": "Avenida",
+          "uid": "dcurjio5ryUilyHjfNAxbuqWRPv1"
+        },
+        {
+          "acepted": true,
+          "nick": "Gallus",
+          "uid": "2pF4IbiEnJTNfzaweGYGYRcRrqB3"
+        },
+        {
+          "acepted": true,
+          "nick": "pepin",
+          "uid": "KP7D1d6fskfakS7KqUvjphpwzKE3"
+        }
+      ],
+      "requestsSent": [
+        "pirri_mori",
+        "kuko",
+        "White ",
+        "Limocho",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1678301655104,
+      "token": "dqUTxGF1SBur6yQnfFXYkd:APA91bFJO6DiNyDm9rbFCBuozUnr_OfMwVYbHgIq82Riph4rgjM2ntm1-EwtCS28bxmDAZ2GSzaQIEodhQN9jl_8Q71NWteWc6zNQ2C_ECbvR29ppdOQqfdNdiza5pkCdvRRhWZflnc5",
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2": {
+      "active": true,
+      "deviceId": "",
+      "email": "shaaermido@yahoo.com",
+      "free": true,
+      "loginDate": 1665081201073,
+      "nick": "195050",
+      "privacity": true,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "demojoinace",
+          "uid": "POFq9eqofHOWIlFzhQnXQ6OZi5z2"
+        }
+      ],
+      "requestsSent": [
+        "kuko",
+        "AlaTriste ",
+        "alfre",
+        "isra",
+        "Rocio"
+      ],
+      "role": "client",
+      "sessionTime": 0,
+      "token": "",
+      "uid": "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2"
+    },
+    "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+      "active": true,
+      "deviceId": "7543686640a01a80",
+      "email": "pirrimori6@gmail.com",
+      "free": true,
+      "loginDate": 1661875389131,
+      "nick": "kuko",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": true,
+          "nick": "farra",
+          "uid": "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2"
+        },
+        {
+          "acepted": false,
+          "nick": "demojoinace",
+          "uid": "POFq9eqofHOWIlFzhQnXQ6OZi5z2"
+        },
+        {
+          "acepted": true,
+          "nick": "pablotrillo98",
+          "uid": "ptm3YTZwOyO9u0ahBtXRPeZmgA42"
+        },
+        {
+          "acepted": true,
+          "nick": "djkokas",
+          "uid": "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3"
+        },
+        {
+          "acepted": true,
+          "nick": "javigarrafa",
+          "uid": "6taKJVtA9vfTIPo8xWB6utaFxy43"
+        },
+        {
+          "acepted": true,
+          "nick": "SCOOBY",
+          "uid": "Z3sgO6QgAWf9DCJzHJvJ3qgjIci1"
+        },
+        {
+          "acepted": true,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        },
+        {
+          "acepted": true,
+          "nick": "Edutrillo",
+          "uid": "MTRQS0vQUxYB30A0zxvI6Dy83XZ2"
+        },
+        {
+          "acepted": true,
+          "nick": "Beni",
+          "uid": "0fQXPfwgSMW9HBTM15YcmFYLZZF2"
+        },
+        {
+          "acepted": true,
+          "nick": "jcarrillo",
+          "uid": "z9dCe4zCBIalFsXXqyIuBvzPDq62"
+        },
+        {
+          "acepted": true,
+          "nick": "ronovella",
+          "uid": "0woVcVU1WXXCoQTX5WNlAN37FYv2"
+        },
+        {
+          "acepted": true,
+          "nick": "benji",
+          "uid": "Y5cbzOWiMfVR4CxJPVUNNi8ZwML2"
+        },
+        {
+          "acepted": true,
+          "nick": "KerryCaberga",
+          "uid": "rzxzwFFBY7ZjeCBu2JefXgSuWMQ2"
+        },
+        {
+          "acepted": true,
+          "nick": "hectoribio",
+          "uid": "Qdv6MYZ2TiXh6dxUXx5MoHBydMx2"
+        },
+        {
+          "acepted": true,
+          "nick": "AlaTriste ",
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+        },
+        {
+          "acepted": true,
+          "nick": "Crisp",
+          "uid": "RzssmjtzgJOvhjTByePGytjzXBp2"
+        },
+        {
+          "acepted": true,
+          "nick": "195050",
+          "uid": "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2"
+        },
+        {
+          "acepted": true,
+          "nick": "pitejo",
+          "uid": "Hrz8sGLNKBUdhPaEXXDg4PMBVBr2"
+        },
+        {
+          "acepted": true,
+          "nick": "marcel",
+          "uid": "i2kSCSaUWLduTs3qZ8atu5swkcn2"
+        },
+        {
+          "acepted": true,
+          "nick": "Charly",
+          "uid": "gI6lQUY8qPT54G0LS93GlaO4Z0q2"
+        },
+        {
+          "acepted": true,
+          "nick": "LJhl",
+          "uid": "3cnDXzrfBoXiKyRlK4AoweHwzBk2"
+        },
+        {
+          "acepted": true,
+          "nick": "pit",
+          "uid": "J4FVqx4Phee0iEEVsDXzCg7IVfp1"
+        },
+        {
+          "acepted": true,
+          "nick": "PEPEDELUXE",
+          "uid": "PCOmJSo2DqVokGP15uFXRiO4aEy1"
+        },
+        {
+          "acepted": true,
+          "nick": "rubenru",
+          "uid": "rnQvWp4aCPNciU44X7kp06VdlAp2"
+        },
+        {
+          "acepted": true,
+          "nick": "ub30216",
+          "uid": "r3zhdpjnVZWb6ER2Yczlar2OTcG2"
+        },
+        {
+          "acepted": true,
+          "nick": "hugotremen2",
+          "uid": "GK9JGffCjANaKEhIUBwBIfmpy1H2"
+        },
+        {
+          "acepted": true,
+          "nick": "Limocho",
+          "uid": "OWCB3pSCUbaj9pLpfbMqItyEk0u2"
+        },
+        {
+          "acepted": true,
+          "nick": "Elitmos",
+          "uid": "zg2Hl7QRzBZhDixUrSxcjmqED792"
+        },
+        {
+          "acepted": true,
+          "nick": "Avenida",
+          "uid": "dcurjio5ryUilyHjfNAxbuqWRPv1"
+        },
+        {
+          "acepted": true,
+          "nick": "Gallus",
+          "uid": "2pF4IbiEnJTNfzaweGYGYRcRrqB3"
+        },
+        {
+          "acepted": true,
+          "nick": "pepin",
+          "uid": "KP7D1d6fskfakS7KqUvjphpwzKE3"
+        },
+        {
+          "acepted": true,
+          "nick": "pirri_mori",
+          "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+        },
+        {
+          "acepted": true,
+          "nick": "Mota",
+          "uid": "yJa6aBVf3vXoYG7GcAuFKcFb3h52"
+        }
+      ],
+      "requestsSent": [
+        "pirri_mori",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1678711463736,
+      "token": "dp2RcQ8cQuKc7sUnm0Karu:APA91bHGBGCmcfYbNU_Su-CQ7qaYepoGd2OogHCdUxXwC8Ps08CvbU4DuDmrTwi3t_YGfgZluKBafA-SA1bVh-q6On06VG-dAqrCKH9mI57RNKTo259KwZLmbuVeGAMOXagiqm2EjDO3",
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "FXr5QHvnoid22M9GnReQNAKVKdf1": {
+      "active": true,
+      "email": "asycar.alfredomoreno@gmail.com",
+      "free": false,
+      "loginDate": 1654352043098,
+      "nick": "alfre",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        },
+        {
+          "acepted": false,
+          "nick": "195050",
+          "uid": "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2"
+        }
+      ],
+      "role": "client",
+      "uid": "FXr5QHvnoid22M9GnReQNAKVKdf1"
+    },
+    "GK9JGffCjANaKEhIUBwBIfmpy1H2": {
+      "active": true,
+      "deviceId": "9f0ac6d68f0a9a79",
+      "email": "hugo.perez@trillo.es",
+      "free": false,
+      "loginDate": 1652625081332,
+      "nick": "hugotremen2",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "requestsSent": [
+        "pirri_mori",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "",
+      "uid": "GK9JGffCjANaKEhIUBwBIfmpy1H2"
+    },
+    "HhH5EzRV5zdWFDb7mK5mUpGgZyp1": {
+      "active": true,
+      "email": "runnid@mbox.re",
+      "free": true,
+      "loginDate": 1660910854706,
+      "nick": "juan",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "CT",
+          "uid": "Xv1Mes0IGVcLaQpTaV8y96FbTm72"
+        },
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "role": "client",
+      "uid": "HhH5EzRV5zdWFDb7mK5mUpGgZyp1"
+    },
+    "Hrz8sGLNKBUdhPaEXXDg4PMBVBr2": {
+      "active": true,
+      "deviceId": "75828af3dab19d0a",
+      "email": "estoytoloquisimo@gmail.com",
+      "free": true,
+      "loginDate": 1665242595987,
+      "nick": "pitejo",
+      "privacity": true,
+      "requestsSent": [
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "",
+      "uid": "Hrz8sGLNKBUdhPaEXXDg4PMBVBr2"
+    },
+    "IBOEt8MV9lM8iH09G7jpCit46w93": {
+      "active": true,
+      "deviceId": "79bd9ded0dc2135e",
+      "email": "rlc_clooney@yahoo.es",
+      "free": true,
+      "loginDate": 1665072762519,
+      "nick": "rlc_clooney",
+      "privacity": true,
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "",
+      "uid": "IBOEt8MV9lM8iH09G7jpCit46w93"
+    },
+    "IHcipXltdMW3oU8uGLm97wso7N73": {
+      "active": true,
+      "email": "Israel1416@hotmail.com",
+      "free": true,
+      "loginDate": 1661025238840,
+      "nick": "isra",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        },
+        {
+          "acepted": false,
+          "nick": "195050",
+          "uid": "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2"
+        }
+      ],
+      "role": "client",
+      "uid": "IHcipXltdMW3oU8uGLm97wso7N73"
+    },
+    "J4FVqx4Phee0iEEVsDXzCg7IVfp1": {
+      "active": true,
+      "email": "pedrotrillo_88@hotmail.com",
+      "free": true,
+      "loginDate": 1665712604147,
+      "nick": "pit",
+      "privacity": true,
+      "requestsSent": [
+        "kuko"
+      ],
+      "role": "client",
+      "uid": "J4FVqx4Phee0iEEVsDXzCg7IVfp1"
+    },
+    "KJQYwY4b0CRVVVoKHZJVHb0ozol2": {
+      "active": true,
+      "email": "pablobodega98@gmail.com",
+      "free": true,
+      "loginDate": 1662164666437,
+      "nick": "Pablobodega",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "role": "client",
+      "uid": "KJQYwY4b0CRVVVoKHZJVHb0ozol2"
+    },
+    "KP7D1d6fskfakS7KqUvjphpwzKE3": {
+      "active": true,
+      "deviceId": "c2876c7170debeb7",
+      "email": "sanmartin949@gmail.com",
+      "free": true,
+      "loginDate": 1671227050784,
+      "nick": "pepin",
+      "privacity": true,
+      "requestsSent": [
+        "AlaTriste ",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "d8HErgKgSAOLdPFcdrAfVl:APA91bFJ5lgQBB4vL6NWev7Aq1XlZfq9sD7TlSU8BaWe9kCHpBLGuyHG9gK6z7DWczGb5bsG6W7hKzFn9uUX-_CJMsOykq_NMY9dvryM2XTNJ_Qsg7iPHgKvD5xhFeitvmVfi4H_HDAB",
+      "uid": "KP7D1d6fskfakS7KqUvjphpwzKE3"
+    },
+    "MTRQS0vQUxYB30A0zxvI6Dy83XZ2": {
+      "active": true,
+      "deviceId": "ff83b289c14b64b7",
+      "email": "edutrillo4@hotmail.com",
+      "free": true,
+      "loginDate": 1663945119974,
+      "nick": "Edutrillo",
+      "privacity": true,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "requestsSent": [
+        "kuko",
+        "pirri_mori"
+      ],
+      "role": "client",
+      "sessionTime": 1679161790819,
+      "token": "",
+      "uid": "MTRQS0vQUxYB30A0zxvI6Dy83XZ2"
+    },
+    "OWCB3pSCUbaj9pLpfbMqItyEk0u2": {
+      "active": true,
+      "deviceId": "915e70132996d1f1",
+      "email": "xoqidoqi@gmail.com",
+      "free": true,
+      "loginDate": 1660854923218,
+      "nick": "Limocho",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": true,
+          "nick": "AlaTriste ",
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+        }
+      ],
+      "requestsSent": [
+        "pirri_mori",
+        "AlaTriste ",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1679940018476,
+      "token": "",
+      "uid": "OWCB3pSCUbaj9pLpfbMqItyEk0u2"
+    },
+    "PCOmJSo2DqVokGP15uFXRiO4aEy1": {
+      "active": true,
+      "email": "pepedeluxe@hotmail.com",
+      "free": true,
+      "loginDate": 1665928416541,
+      "nick": "PEPEDELUXE",
+      "privacity": true,
+      "requestsSent": [
+        "kuko"
+      ],
+      "role": "client",
+      "uid": "PCOmJSo2DqVokGP15uFXRiO4aEy1"
+    },
+    "PvUw1DYBsbdJD0O7Wct8SFsy7XW2": {
+      "active": true,
+      "email": "tokenss@hotmail.com",
+      "free": true,
+      "loginDate": 1662283309882,
+      "nick": "Tokenss",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "role": "client",
+      "uid": "PvUw1DYBsbdJD0O7Wct8SFsy7XW2"
+    },
+    "QNMOZ202FAhmjkw8LWgbR2Okra13": {
+      "active": true,
+      "email": "jesusfleteatleti@gmail.com",
+      "free": true,
+      "loginDate": 1661327336252,
+      "nick": "jesus",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "role": "client",
+      "uid": "QNMOZ202FAhmjkw8LWgbR2Okra13"
+    },
+    "Qdv6MYZ2TiXh6dxUXx5MoHBydMx2": {
+      "active": true,
+      "email": "hectortopo.1@gmail.com",
+      "free": true,
+      "loginDate": 1663968718045,
+      "nick": "hectoribio",
+      "privacity": true,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "requestsSent": [
+        "pirri_mori",
+        "kuko"
+      ],
+      "role": "client",
+      "uid": "Qdv6MYZ2TiXh6dxUXx5MoHBydMx2"
+    },
+    "RzssmjtzgJOvhjTByePGytjzXBp2": {
+      "active": true,
+      "deviceId": "f7887ef1fe1bcf20",
+      "email": "cperezhenche77@gmail.com",
+      "free": true,
+      "loginDate": 1661876966088,
+      "nick": "Crisp",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": true,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "requestsSent": [
+        "pirri_mori",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "",
+      "uid": "RzssmjtzgJOvhjTByePGytjzXBp2"
+    },
+    "UZQLRCVaqpfRlbqlpeOWSiFbtKg2": {
+      "active": true,
+      "email": "patinho_pablo@hotmail.com",
+      "free": true,
+      "loginDate": 1669727684158,
+      "nick": "150894",
+      "privacity": true,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "demojoinace",
+          "uid": "POFq9eqofHOWIlFzhQnXQ6OZi5z2"
+        }
+      ],
+      "requestsSent": [
+        "pirri_mori"
+      ],
+      "role": "client",
+      "uid": "UZQLRCVaqpfRlbqlpeOWSiFbtKg2"
+    },
+    "X8NQdD9cF0b9EzHhnZXF9XQHB6F3": {
+      "active": true,
+      "email": "pabloasensio98@gmail.com",
+      "free": true,
+      "loginDate": 1663095223926,
+      "nick": "TrilloTrillao",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "role": "client",
+      "uid": "X8NQdD9cF0b9EzHhnZXF9XQHB6F3"
+    },
+    "Xv1Mes0IGVcLaQpTaV8y96FbTm72": {
+      "active": true,
+      "email": "cheem74486@w3boats.com",
+      "free": true,
+      "loginDate": 1660773310482,
+      "nick": "CT",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "requestsSent": [
+        "aaa",
+        "juan",
+        "AlaTriste "
+      ],
+      "role": "client",
+      "uid": "Xv1Mes0IGVcLaQpTaV8y96FbTm72"
+    },
+    "Y5cbzOWiMfVR4CxJPVUNNi8ZwML2": {
+      "active": true,
+      "deviceId": "b418d96e33f038b0",
+      "email": "benjaminbenitomartinez@hotmail.com",
+      "free": true,
+      "loginDate": 1663952309511,
+      "nick": "benji",
+      "privacity": true,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        }
+      ],
+      "requestsSent": [
+        "kuko",
+        "pirri_mori"
+      ],
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "",
+      "uid": "Y5cbzOWiMfVR4CxJPVUNNi8ZwML2"
+    },
+    "Z3sgO6QgAWf9DCJzHJvJ3qgjIci1": {
+      "active": true,
+      "email": "monge.javier@hotmail.com",
+      "free": true,
+      "loginDate": 1663776992024,
+      "nick": "SCOOBY",
+      "privacity": true,
+      "requestsSent": [
+        "kuko",
+        "pirri_mori"
+      ],
+      "role": "client",
+      "uid": "Z3sgO6QgAWf9DCJzHJvJ3qgjIci1"
+    },
+    "ajUsnntRIYbRQOBVao0ufL7dTqA3": {
+      "active": true,
+      "email": "badulake65@gmail.com",
+      "free": true,
+      "loginDate": 1661950658467,
+      "nick": "samu",
+      "privacity": false,
+      "requestsSent": [
+        "pirri_mori"
+      ],
+      "role": "client",
+      "uid": "ajUsnntRIYbRQOBVao0ufL7dTqA3"
+    },
+    "aosfNu4EiwPaOsD9d982wJLMP5r2": {
+      "active": true,
+      "email": "ivanicarbonell@gmail.com",
+      "free": true,
+      "loginDate": 1660477500733,
+      "nick": "Laudrup ",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "White ",
+          "uid": "5biTy8zDO5Qo1bg4XWqqh7wP4xn2"
+        }
+      ],
+      "role": "client",
+      "uid": "aosfNu4EiwPaOsD9d982wJLMP5r2"
+    },
+    "cyvDGh9TkRgtGXzIIG0jKyxIqCR2": {
+      "active": true,
+      "email": "adrianalonso13a@gmail.com",
+      "free": true,
+      "loginDate": 1662619168015,
+      "nick": "Loncho",
+      "privacity": false,
+      "role": "client",
+      "uid": "cyvDGh9TkRgtGXzIIG0jKyxIqCR2"
+    },
+    "dcurjio5ryUilyHjfNAxbuqWRPv1": {
+      "active": true,
+      "deviceId": "08ef0e81be144ce9",
+      "email": "Cafeteriaavenida72@gmail.com",
+      "free": true,
+      "loginDate": 1669203201256,
+      "nick": "Avenida",
+      "privacity": true,
+      "requestsSent": [
+        "AlaTriste ",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "",
+      "uid": "dcurjio5ryUilyHjfNAxbuqWRPv1"
+    },
+    "dy50tiRLRPbHUCyfQ5MQHc3hgTv1": {
+      "active": true,
+      "email": "lorena.alvarez.delgado@gmail.com",
+      "free": true,
+      "loginDate": 1661972588005,
+      "nick": "lade",
+      "privacity": false,
+      "requestsSent": [
+        "pirri_mori",
+        "C24Henche"
+      ],
+      "role": "client",
+      "uid": "dy50tiRLRPbHUCyfQ5MQHc3hgTv1"
+    },
+    "dzhhUIQtLgWZLNjbUh1VEldo7Ju1": {
+      "active": true,
+      "email": "wigwewee@mofu.be",
+      "free": true,
+      "loginDate": 1662713462492,
+      "nick": "kam",
+      "privacity": false,
+      "role": "client",
+      "uid": "dzhhUIQtLgWZLNjbUh1VEldo7Ju1"
+    },
+    "fQd3bfuCo5Q1K1lWqSSEtUfS2c73": {
+      "active": true,
+      "email": "chencheeee@gmail.com",
+      "free": true,
+      "loginDate": 1662158936019,
+      "nick": "C24Henche",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "lade",
+          "uid": "dy50tiRLRPbHUCyfQ5MQHc3hgTv1"
+        }
+      ],
+      "role": "client",
+      "uid": "fQd3bfuCo5Q1K1lWqSSEtUfS2c73"
+    },
+    "fidTF6qmOgMHQRm2l5m0WdudqwE2": {
+      "active": true,
+      "email": "davidflete@hotmail.com",
+      "free": true,
+      "loginDate": 1660814663757,
+      "nick": "David",
+      "privacity": false,
+      "role": "client",
+      "uid": "fidTF6qmOgMHQRm2l5m0WdudqwE2"
+    },
+    "fjWf6qwSf6ORcL1wRURRck4RsOn2": {
+      "active": true,
+      "email": "parravelascoruben1@gmail.com",
+      "free": true,
+      "loginDate": 1662215579825,
+      "nick": "Rubenparra02",
+      "privacity": false,
+      "role": "client",
+      "uid": "fjWf6qwSf6ORcL1wRURRck4RsOn2"
+    },
+    "gI6lQUY8qPT54G0LS93GlaO4Z0q2": {
+      "active": true,
+      "deviceId": "d4a32cd53d4dfcad",
+      "email": "carlosordorika@gmail.com",
+      "free": true,
+      "loginDate": 1665502481939,
+      "nick": "Charly",
+      "privacity": true,
+      "requestsSent": [
+        "AlaTriste ",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "djZYupVyTFOidLbMaiLTuA:APA91bEky8FaXNbToJYNm1FSrHSM7c4L-p6B2nxtjhZ51xYf9sfrgQVqdvlzUk3CuTjyuGWZmnOxtif--XDJNf4SHeiUC5JlqTA2lCGyVcX-suoPeFew6iZ5Qw5p9OSW9WgEW1-RmpxL",
+      "uid": "gI6lQUY8qPT54G0LS93GlaO4Z0q2"
+    },
+    "h9zgR51KlQRrNO4zEp6MgRHxWd92": {
+      "active": true,
+      "email": "eugarnu@hotmail.es",
+      "free": true,
+      "loginDate": 1660772349695,
+      "nick": "Eusebio ",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "White ",
+          "uid": "5biTy8zDO5Qo1bg4XWqqh7wP4xn2"
+        }
+      ],
+      "role": "client",
+      "uid": "h9zgR51KlQRrNO4zEp6MgRHxWd92"
+    },
+    "heTSZvL88hdgFlLbA5qawbpClyt1": {
+      "active": true,
+      "email": "ericale3775@yahoo.es",
+      "free": true,
+      "loginDate": 1661008299485,
+      "nick": "blata",
+      "privacity": false,
+      "role": "client",
+      "uid": "heTSZvL88hdgFlLbA5qawbpClyt1"
+    },
+    "i2kSCSaUWLduTs3qZ8atu5swkcn2": {
+      "active": true,
+      "deviceId": "00a62c7f14545e0f",
+      "email": "raduioanmarcel@gmail.com",
+      "free": false,
+      "loginDate": 1653505247774,
+      "nick": "marcel",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "pirri_mori",
+          "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+        }
+      ],
+      "requestsSent": [
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1679076290108,
+      "token": "",
+      "uid": "i2kSCSaUWLduTs3qZ8atu5swkcn2"
+    },
+    "iM4PHjYy5AfLBItoZldIesatkGW2": {
+      "active": true,
+      "email": "pepino@hotmail.com",
+      "free": true,
+      "loginDate": 1660856860266,
+      "nick": "vitvader",
+      "privacity": false,
+      "role": "client",
+      "uid": "iM4PHjYy5AfLBItoZldIesatkGW2"
+    },
+    "kG5qzwmyV5Xj9XD2YYL0chwJazu2": {
+      "active": true,
+      "email": "vega.palma.mario@gmail.com",
+      "free": true,
+      "loginDate": 1660776894072,
+      "nick": "mvp",
+      "privacity": false,
+      "role": "client",
+      "uid": "kG5qzwmyV5Xj9XD2YYL0chwJazu2"
+    },
+    "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+      "active": true,
+      "deviceId": "fe188433286ad618",
+      "email": "pirri_mori@yahoo.es",
+      "free": true,
+      "loginDate": 1649526076498,
+      "nick": "pirri_mori",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": true,
+          "nick": "White ",
+          "uid": "5biTy8zDO5Qo1bg4XWqqh7wP4xn2"
+        },
+        {
+          "acepted": true,
+          "nick": "javigarrafa",
+          "uid": "6taKJVtA9vfTIPo8xWB6utaFxy43"
+        },
+        {
+          "acepted": true,
+          "nick": "farra",
+          "uid": "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2"
+        },
+        {
+          "acepted": true,
+          "nick": "AlaTriste ",
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+        },
+        {
+          "acepted": true,
+          "nick": "Limocho",
+          "uid": "OWCB3pSCUbaj9pLpfbMqItyEk0u2"
+        },
+        {
+          "acepted": true,
+          "nick": "hugotremen2",
+          "uid": "GK9JGffCjANaKEhIUBwBIfmpy1H2"
+        },
+        {
+          "acepted": true,
+          "nick": "djkokas",
+          "uid": "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3"
+        },
+        {
+          "acepted": true,
+          "nick": "samu",
+          "uid": "ajUsnntRIYbRQOBVao0ufL7dTqA3"
+        },
+        {
+          "acepted": true,
+          "nick": "Rocio",
+          "uid": "4dyF8KaBizTOfjyyGJWbzBQcgRt1"
+        },
+        {
+          "acepted": true,
+          "nick": "pablotrillo98",
+          "uid": "ptm3YTZwOyO9u0ahBtXRPeZmgA42"
+        },
+        {
+          "acepted": true,
+          "nick": "jwj",
+          "uid": "5d7a0gNjWQadDnTp4HEH3bl2uJn2"
+        },
+        {
+          "acepted": true,
+          "nick": "Crisp",
+          "uid": "RzssmjtzgJOvhjTByePGytjzXBp2"
+        },
+        {
+          "acepted": true,
+          "nick": "SCOOBY",
+          "uid": "Z3sgO6QgAWf9DCJzHJvJ3qgjIci1"
+        },
+        {
+          "acepted": true,
+          "nick": "tito",
+          "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+        },
+        {
+          "acepted": true,
+          "nick": "Edutrillo",
+          "uid": "MTRQS0vQUxYB30A0zxvI6Dy83XZ2"
+        },
+        {
+          "acepted": true,
+          "nick": "Beni",
+          "uid": "0fQXPfwgSMW9HBTM15YcmFYLZZF2"
+        },
+        {
+          "acepted": true,
+          "nick": "jcarrillo",
+          "uid": "z9dCe4zCBIalFsXXqyIuBvzPDq62"
+        },
+        {
+          "acepted": true,
+          "nick": "ronovella",
+          "uid": "0woVcVU1WXXCoQTX5WNlAN37FYv2"
+        },
+        {
+          "acepted": true,
+          "nick": "benji",
+          "uid": "Y5cbzOWiMfVR4CxJPVUNNi8ZwML2"
+        },
+        {
+          "acepted": true,
+          "nick": "KerryCaberga",
+          "uid": "rzxzwFFBY7ZjeCBu2JefXgSuWMQ2"
+        },
+        {
+          "acepted": true,
+          "nick": "hectoribio",
+          "uid": "Qdv6MYZ2TiXh6dxUXx5MoHBydMx2"
+        },
+        {
+          "acepted": true,
+          "nick": "150894",
+          "uid": "UZQLRCVaqpfRlbqlpeOWSiFbtKg2"
+        },
+        {
+          "acepted": true,
+          "nick": "lade",
+          "uid": "dy50tiRLRPbHUCyfQ5MQHc3hgTv1"
+        },
+        {
+          "acepted": true,
+          "nick": "kuko",
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+        }
+      ],
+      "requestsSent": [
+        null,
+        "farra",
+        "marcel",
+        "kuko",
+        "kuko",
+        "kuko",
+        "kuko",
+        "kuko",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1678752408675,
+      "token": "eSr0TJ4JQcuqp7VxcKMmZS:APA91bEGOx0PluIySLepUfVJLiCDj1dYYFemdvfryGqwA0U6Rs4IiTi150fcf7DhvMZlO56Sv62T-GcZH8fAMEPkJSBLxoB-Fq1YYoO9U06_Vy0JUX6JYvjmb3SqStxcMuGVTxbpFMUn",
+      "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+    },
+    "pPBpZaNktiUohSyAjyjc86AEjDp1": {
+      "active": true,
+      "email": "windamnor@neko2.net",
+      "free": true,
+      "loginDate": 1660492393293,
+      "nick": "fito",
+      "privacity": false,
+      "requestsRecibed": [
+        {
+          "acepted": false,
+          "nick": "White ",
+          "uid": "5biTy8zDO5Qo1bg4XWqqh7wP4xn2"
+        }
+      ],
+      "role": "client",
+      "uid": "pPBpZaNktiUohSyAjyjc86AEjDp1"
+    },
+    "pp8E4NVIHHNpFI8QdBWqr9EtvRi2": {
+      "active": true,
+      "email": "jtr72K@gmail.com",
+      "free": true,
+      "loginDate": 1664221528414,
+      "nick": "JTR",
+      "privacity": true,
+      "requestsSent": [
+        "Rocio"
+      ],
+      "role": "client",
+      "uid": "pp8E4NVIHHNpFI8QdBWqr9EtvRi2"
+    },
+    "ptm3YTZwOyO9u0ahBtXRPeZmgA42": {
+      "active": true,
+      "deviceId": "dff58755961f0d8f",
+      "email": "psancho1998@gmail.com",
+      "free": true,
+      "loginDate": 1662158903901,
+      "nick": "pablotrillo98",
+      "privacity": false,
+      "requestsSent": [
+        "pirri_mori",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1679603856742,
+      "token": "",
+      "uid": "ptm3YTZwOyO9u0ahBtXRPeZmgA42"
+    },
+    "r3zhdpjnVZWb6ER2Yczlar2OTcG2": {
+      "active": true,
+      "deviceId": "4fe38b44603e62ba",
+      "email": "ub30216@yahoo.es",
+      "free": true,
+      "loginDate": 1666448578057,
+      "nick": "ub30216",
+      "privacity": true,
+      "requestsSent": [
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "",
+      "uid": "r3zhdpjnVZWb6ER2Yczlar2OTcG2"
+    },
+    "riHV1zOe3FcdgB2aMayawFJa5NE3": {
+      "active": true,
+      "email": "a.lazaroalg@gmail.com",
+      "free": true,
+      "loginDate": 1661877439925,
+      "nick": "alazarog",
+      "privacity": false,
+      "role": "client",
+      "uid": "riHV1zOe3FcdgB2aMayawFJa5NE3"
+    },
+    "rnQvWp4aCPNciU44X7kp06VdlAp2": {
+      "active": true,
+      "email": "rubenru3590@gmail.com",
+      "free": true,
+      "loginDate": 1666098482952,
+      "nick": "rubenru",
+      "privacity": true,
+      "requestsSent": [
+        "kuko"
+      ],
+      "role": "client",
+      "uid": "rnQvWp4aCPNciU44X7kp06VdlAp2"
+    },
+    "rzxzwFFBY7ZjeCBu2JefXgSuWMQ2": {
+      "active": true,
+      "email": "carloshenares44@gmail.com",
+      "free": true,
+      "loginDate": 1662161132474,
+      "nick": "KerryCaberga",
+      "privacity": false,
+      "requestsSent": [
+        "kuko",
+        "pirri_mori"
+      ],
+      "role": "client",
+      "uid": "rzxzwFFBY7ZjeCBu2JefXgSuWMQ2"
+    },
+    "tAnO7M2dGTh1D2jPOffD642S2VN2": {
+      "active": true,
+      "deviceId": "267d4d8d2cdf2272",
+      "email": "Alfrebabu@gmail.com",
+      "free": true,
+      "loginDate": 1663098763817,
+      "nick": "Alfrebabu",
+      "privacity": false,
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "c9Jj15AsRQ2lPiHDxmTSuJ:APA91bE8bM9xjlFrgdsG36Dm__fK5j0rKfvegDKWYtDY22IGzcFOpB_33SbdIGXjgLSqPdXzkis6U-6TVRqlMzfJZ-z0RG4esBgfJY4UqAElVxsioMOy8avPl2wZD8Y2aqtKmasZVouT",
+      "uid": "tAnO7M2dGTh1D2jPOffD642S2VN2"
+    },
+    "tIS80rWn4rafQsSg9tzvZZwYRAG3": {
+      "active": true,
+      "email": "sally.dominio@gmail.com",
+      "free": true,
+      "loginDate": 1664219859536,
+      "nick": "Mafalda",
+      "privacity": true,
+      "role": "client",
+      "uid": "tIS80rWn4rafQsSg9tzvZZwYRAG3"
+    },
+    "tPgd3ZTB4nONWO7w0OXlWtS2G2F3": {
+      "active": true,
+      "email": "boracay.gpt12021@gmail.com",
+      "free": true,
+      "loginDate": 1671381086879,
+      "nick": "john",
+      "privacity": true,
+      "role": "client",
+      "uid": "tPgd3ZTB4nONWO7w0OXlWtS2G2F3"
+    },
+    "u2uqfLieN3RkhlgDY2K3N22uUA03": {
+      "active": true,
+      "email": "jlindeto@gmail.com",
+      "free": true,
+      "loginDate": 1665843420401,
+      "nick": "Pepe",
+      "privacity": true,
+      "role": "client",
+      "uid": "u2uqfLieN3RkhlgDY2K3N22uUA03"
+    },
+    "v5UzboKEG9c15yHB6jqAEEaU0mG3": {
+      "active": true,
+      "deviceId": "5ac2b477d02b5246",
+      "email": "titovago@yahoo.es",
+      "free": true,
+      "loginDate": 1662208989590,
+      "nick": "tito",
+      "privacity": false,
+      "requestsSent": [
+        "kuko",
+        "pirri_mori",
+        "aaa",
+        "Beni",
+        "ronovella",
+        "Andres",
+        "Rocio",
+        "White ",
+        "jwj",
+        "farra",
+        "AlaTriste ",
+        "alfre",
+        "hugotremen2",
+        "juan",
+        "djkokas",
+        "isra",
+        "Pablobodega",
+        "Edutrillo",
+        "Limocho",
+        "demojoinace",
+        "Tokenss",
+        "jesus",
+        "hectoribio",
+        "Crisp",
+        "TrilloTrillao",
+        "CT",
+        "benji"
+      ],
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "",
+      "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+    },
+    "wDwMoXN8PYWHRvrEEVmcEoeZiU72": {
+      "active": true,
+      "email": "pablocacho10@gmail.com",
+      "free": true,
+      "loginDate": 1662214328583,
+      "nick": "Pablocacho10",
+      "privacity": false,
+      "role": "client",
+      "uid": "wDwMoXN8PYWHRvrEEVmcEoeZiU72"
+    },
+    "yJa6aBVf3vXoYG7GcAuFKcFb3h52": {
+      "active": true,
+      "deviceId": "65138042dc6ce6f2",
+      "email": "antoniomoralesmarco66@gmail.com",
+      "free": true,
+      "loginDate": 1676570365005,
+      "nick": "Mota",
+      "privacity": true,
+      "requestsSent": [
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1679162459348,
+      "token": "cEIlWlohSr2N9uPiC4n3Cd:APA91bGQzZaC-kmWffzvDZbIAQaeG7X3dHrQTl278bdyrSs_UxTAPhggiMfFONdGFZXy_MbN_dhJyhvqhsqulegLFVxKbKK_pJRJBQ8d6VN0YRgKBd6E75YbXFQO8s1xKyinVJZF4Png",
+      "uid": "yJa6aBVf3vXoYG7GcAuFKcFb3h52"
+    },
+    "z9dCe4zCBIalFsXXqyIuBvzPDq62": {
+      "active": true,
+      "deviceId": "fba326e2562bcc21",
+      "email": "jorge.carrillo3k@gmail.com",
+      "free": true,
+      "loginDate": 1662206638790,
+      "nick": "jcarrillo",
+      "privacity": false,
+      "requestsSent": [
+        "kuko",
+        "pirri_mori"
+      ],
+      "role": "client",
+      "sessionTime": 1677616033673,
+      "token": "eQDxttgqTOyJRkADdy2KiI:APA91bGUWAKuQtAFPVzU3bdriBGnVmt5VSkjE18hApA7jKZNGEbvXoVqVR0D80y3txBbKdsvL7Vbvx27BMbqoiV90bcoqrzVk5IqcZ-ixXj-MiXITm_eYDWg2X2dfgtvFT5Zt-cctBke",
+      "uid": "z9dCe4zCBIalFsXXqyIuBvzPDq62"
+    },
+    "zg2Hl7QRzBZhDixUrSxcjmqED792": {
+      "active": true,
+      "deviceId": "e06f3fbb0dfb1795",
+      "email": "elisabeth.casm@gmail.com",
+      "free": true,
+      "loginDate": 1669034498676,
+      "nick": "Elitmos",
+      "privacity": true,
+      "requestsSent": [
+        "AlaTriste ",
+        "kuko"
+      ],
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "token": "",
+      "uid": "zg2Hl7QRzBZhDixUrSxcjmqED792"
+    }
+  },
+  "devices": {
+    "0woVcVU1WXXCoQTX5WNlAN37FYv2": {
+      "6473e2d095225c9e": {
+        "id": "6473e2d095225c9e",
+        "model": "samsung SM-T820"
+      }
+    },
+    "6taKJVtA9vfTIPo8xWB6utaFxy43": {
+      "7543686640a01a80": {
+        "id": "7543686640a01a80",
+        "model": "realme RMX2001"
+      }
+    },
+    "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2": {
+      "5727c8b6b2a3b7cc": {
+        "id": "5727c8b6b2a3b7cc",
+        "model": "realme RMX2170"
+      }
+    },
+    "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+      "7d38dde34242d317": {
+        "id": "7d38dde34242d317",
+        "model": "samsung SM-N986B"
+      }
+    },
+    "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+      "36eb16d76b5d25a5": {
+        "id": "36eb16d76b5d25a5",
+        "model": "Google sdk_gphone64_x86_64"
+      },
+      "7543686640a01a80": {
+        "id": "7543686640a01a80",
+        "model": "realme RMX2001"
+      }
+    },
+    "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3": {
+      "25abc6f0bde809e1": {
+        "id": "25abc6f0bde809e1",
+        "model": "Xiaomi M2010J19SY"
+      }
+    },
+    "POFq9eqofHOWIlFzhQnXQ6OZi5z2": {
+      "29312137e299da1e": {
+        "id": "29312137e299da1e",
+        "model": "samsung SM-A528B"
+      },
+      "80d834663c2628d4": {
+        "id": "80d834663c2628d4",
+        "model": "samsung SM-A226B"
+      },
+      "eed2d358224b2ada": {
+        "id": "eed2d358224b2ada",
+        "model": "samsung SM-A715F"
+      }
+    },
+    "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+      "412bc7bb9784930e": {
+        "id": "412bc7bb9784930e",
+        "model": "Google Android SDK built for x86"
+      }
+    },
+    "v5UzboKEG9c15yHB6jqAEEaU0mG3": {
+      "5ac2b477d02b5246": {
+        "id": "5ac2b477d02b5246",
+        "model": "samsung SM-S901B"
+      }
+    }
+  },
+  "epg": {
+    "-NLNGkfTvIOqQ8kkPOrq": {
+      "days": 3,
+      "id": 0,
+      "key": "-NLNGkfTvIOqQ8kkPOrq",
+      "name": "TDT",
+      "nickUid": "kuko",
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "4HP/KibaaKklrm9WIvgsGKJVa1OOi6iBgI+tLUOrT6ybdui5ZBehdyOK3/L6BV7E\n"
+    },
+    "-NL_70eJYW_U-jTBF-IE": {
+      "days": 0,
+      "id": 0,
+      "key": "-NL_70eJYW_U-jTBF-IE",
+      "name": "ZEROTOER",
+      "nickUid": "kuko",
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "IuvBUoTsQhNoR+5NBWnOMmZPKK40/yOdwuYOBUePiywSRp2Wx0RcigVGToD4x0e1+yIHcG86b8f+\nJr8qAbgfYA==\n"
+    },
+    "-NL_7E9qECi2sZ4NyAn6": {
+      "days": 1,
+      "id": 0,
+      "key": "-NL_7E9qECi2sZ4NyAn6",
+      "name": "ZEROTIER",
+      "nickUid": "kuko",
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "IuvBUoTsQhNoR+5NBWnOMmZPKK40/yOdwuYOBUePiywSRp2Wx0RcigVGToD4x0e1+yIHcG86b8f+\nJr8qAbgfYA==\n"
+    },
+    "-NL_AKPVNC1xOKagIgK3": {
+      "days": 5,
+      "id": 0,
+      "key": "-NL_AKPVNC1xOKagIgK3",
+      "name": "Koala 7",
+      "nickUid": "kuko",
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "7OfrZcdPoztroWanFGPewiDNZlScrXskxnGsZp0rN3dcNBzKTjjoO0mErIjmGF8vgJFeKpmTRCKG\nAUv6Ukyugw==\n"
+    },
+    "-NL_C_94PgMnPGc57E5r": {
+      "days": 1,
+      "id": 0,
+      "key": "-NL_C_94PgMnPGc57E5r",
+      "name": "Vayamoto",
+      "nickUid": "kuko",
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "FrNrXg6DT2Jgc5dCx6u0/a2QiXvxGMdZGhyrjdvXpc68+NnBPCQz7dDTelILcWmbHnFEmKXE1eAP\nO+htsvGQhdlQTKeaKFl9pbHIpIpTDU0=\n"
+    },
+    "-NMONNJk8VB3ZFowJm1A": {
+      "days": 1,
+      "id": 0,
+      "key": "-NMONNJk8VB3ZFowJm1A",
+      "name": "koala 3",
+      "nickUid": "kuko",
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "7OfrZcdPoztroWanFGPewiDNZlScrXskxnGsZp0rN3fuiXZOxYlQctJRaLFyGp9ljYQEw4uaxxit\n4R1el4JzuQ==\n",
+      "utc": 2
+    }
+  },
+  "followers": {
+    "0woVcVU1WXXCoQTX5WNlAN37FYv2": {
+      "v5UzboKEG9c15yHB6jqAEEaU0mG3": {
+        "group": "Todos",
+        "nick": "tito",
+        "status": "Esperando",
+        "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+      }
+    },
+    "6taKJVtA9vfTIPo8xWB6utaFxy43": {
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "group": "Todos",
+        "nick": "pirri_mori",
+        "status": "Aceptado",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2": {
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "group": "Todos",
+        "nick": "pirri_mori",
+        "status": "Aceptado",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      },
+      "v5UzboKEG9c15yHB6jqAEEaU0mG3": {
+        "group": "Todos",
+        "nick": "tito",
+        "status": "Esperando",
+        "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+      }
+    },
+    "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+      "2pF4IbiEnJTNfzaweGYGYRcRrqB3": {
+        "group": "Todos",
+        "nick": "Gallus",
+        "status": "Aceptado",
+        "uid": "2pF4IbiEnJTNfzaweGYGYRcRrqB3"
+      },
+      "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2": {
+        "group": "Todos",
+        "nick": "195050",
+        "status": "Aceptado",
+        "uid": "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2"
+      },
+      "KP7D1d6fskfakS7KqUvjphpwzKE3": {
+        "group": "Todos",
+        "nick": "pepin",
+        "status": "Aceptado",
+        "uid": "KP7D1d6fskfakS7KqUvjphpwzKE3"
+      },
+      "OWCB3pSCUbaj9pLpfbMqItyEk0u2": {
+        "group": "Todos",
+        "nick": "Limocho",
+        "status": "Aceptado",
+        "uid": "OWCB3pSCUbaj9pLpfbMqItyEk0u2"
+      },
+      "Xv1Mes0IGVcLaQpTaV8y96FbTm72": {
+        "group": "Todos",
+        "nick": "CT",
+        "status": "Esperando",
+        "uid": "Xv1Mes0IGVcLaQpTaV8y96FbTm72"
+      },
+      "dcurjio5ryUilyHjfNAxbuqWRPv1": {
+        "group": "Todos",
+        "nick": "Avenida",
+        "status": "Aceptado",
+        "uid": "dcurjio5ryUilyHjfNAxbuqWRPv1"
+      },
+      "gI6lQUY8qPT54G0LS93GlaO4Z0q2": {
+        "group": "Todos",
+        "nick": "Charly",
+        "status": "Aceptado",
+        "uid": "gI6lQUY8qPT54G0LS93GlaO4Z0q2"
+      },
+      "v5UzboKEG9c15yHB6jqAEEaU0mG3": {
+        "group": "Todos",
+        "nick": "tito",
+        "status": "Esperando",
+        "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+      },
+      "zg2Hl7QRzBZhDixUrSxcjmqED792": {
+        "group": "Todos",
+        "nick": "Elitmos",
+        "status": "Aceptado",
+        "uid": "zg2Hl7QRzBZhDixUrSxcjmqED792"
+      }
+    },
+    "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+      "0fQXPfwgSMW9HBTM15YcmFYLZZF2": {
+        "group": "Todos",
+        "nick": "Beni",
+        "status": "Aceptado",
+        "uid": "0fQXPfwgSMW9HBTM15YcmFYLZZF2"
+      },
+      "0woVcVU1WXXCoQTX5WNlAN37FYv2": {
+        "group": "Todos",
+        "nick": "ronovella",
+        "status": "Aceptado",
+        "uid": "0woVcVU1WXXCoQTX5WNlAN37FYv2"
+      },
+      "2pF4IbiEnJTNfzaweGYGYRcRrqB3": {
+        "group": "Todos",
+        "nick": "Gallus",
+        "status": "Aceptado",
+        "uid": "2pF4IbiEnJTNfzaweGYGYRcRrqB3"
+      },
+      "3cnDXzrfBoXiKyRlK4AoweHwzBk2": {
+        "group": "Todos",
+        "nick": "LJhl",
+        "status": "Aceptado",
+        "uid": "3cnDXzrfBoXiKyRlK4AoweHwzBk2"
+      },
+      "6taKJVtA9vfTIPo8xWB6utaFxy43": {
+        "group": "Todos",
+        "nick": "javigarrafa",
+        "status": "Aceptado",
+        "uid": "6taKJVtA9vfTIPo8xWB6utaFxy43"
+      },
+      "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2": {
+        "group": "Todos",
+        "nick": "farra",
+        "status": "Aceptado",
+        "uid": "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2"
+      },
+      "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+        "group": "Todos",
+        "nick": "AlaTriste ",
+        "status": "Aceptado",
+        "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+      },
+      "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2": {
+        "group": "Todos",
+        "nick": "195050",
+        "status": "Aceptado",
+        "uid": "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2"
+      },
+      "GK9JGffCjANaKEhIUBwBIfmpy1H2": {
+        "group": "Todos",
+        "nick": "hugotremen2",
+        "status": "Aceptado",
+        "uid": "GK9JGffCjANaKEhIUBwBIfmpy1H2"
+      },
+      "Hrz8sGLNKBUdhPaEXXDg4PMBVBr2": {
+        "group": "Todos",
+        "nick": "pitejo",
+        "status": "Aceptado",
+        "uid": "Hrz8sGLNKBUdhPaEXXDg4PMBVBr2"
+      },
+      "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3": {
+        "group": "Todos",
+        "nick": "djkokas",
+        "status": "Aceptado",
+        "uid": "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3"
+      },
+      "J4FVqx4Phee0iEEVsDXzCg7IVfp1": {
+        "group": "Todos",
+        "nick": "pit",
+        "status": "Aceptado",
+        "uid": "J4FVqx4Phee0iEEVsDXzCg7IVfp1"
+      },
+      "KP7D1d6fskfakS7KqUvjphpwzKE3": {
+        "group": "Todos",
+        "nick": "pepin",
+        "status": "Aceptado",
+        "uid": "KP7D1d6fskfakS7KqUvjphpwzKE3"
+      },
+      "MTRQS0vQUxYB30A0zxvI6Dy83XZ2": {
+        "group": "Todos",
+        "nick": "Edutrillo",
+        "status": "Aceptado",
+        "uid": "MTRQS0vQUxYB30A0zxvI6Dy83XZ2"
+      },
+      "OWCB3pSCUbaj9pLpfbMqItyEk0u2": {
+        "group": "Todos",
+        "nick": "Limocho",
+        "status": "Aceptado",
+        "uid": "OWCB3pSCUbaj9pLpfbMqItyEk0u2"
+      },
+      "PCOmJSo2DqVokGP15uFXRiO4aEy1": {
+        "group": "Todos",
+        "nick": "PEPEDELUXE",
+        "status": "Aceptado",
+        "uid": "PCOmJSo2DqVokGP15uFXRiO4aEy1"
+      },
+      "POFq9eqofHOWIlFzhQnXQ6OZi5z2": {
+        "group": "Todos",
+        "nick": "demojoinace",
+        "status": "Esperando",
+        "uid": "POFq9eqofHOWIlFzhQnXQ6OZi5z2"
+      },
+      "Qdv6MYZ2TiXh6dxUXx5MoHBydMx2": {
+        "group": "Todos",
+        "nick": "hectoribio",
+        "status": "Aceptado",
+        "uid": "Qdv6MYZ2TiXh6dxUXx5MoHBydMx2"
+      },
+      "RzssmjtzgJOvhjTByePGytjzXBp2": {
+        "group": "Todos",
+        "nick": "Crisp",
+        "status": "Aceptado",
+        "uid": "RzssmjtzgJOvhjTByePGytjzXBp2"
+      },
+      "Y5cbzOWiMfVR4CxJPVUNNi8ZwML2": {
+        "group": "Todos",
+        "nick": "benji",
+        "status": "Aceptado",
+        "uid": "Y5cbzOWiMfVR4CxJPVUNNi8ZwML2"
+      },
+      "Z3sgO6QgAWf9DCJzHJvJ3qgjIci1": {
+        "group": "Todos",
+        "nick": "SCOOBY",
+        "status": "Aceptado",
+        "uid": "Z3sgO6QgAWf9DCJzHJvJ3qgjIci1"
+      },
+      "dcurjio5ryUilyHjfNAxbuqWRPv1": {
+        "group": "Todos",
+        "nick": "Avenida",
+        "status": "Aceptado",
+        "uid": "dcurjio5ryUilyHjfNAxbuqWRPv1"
+      },
+      "gI6lQUY8qPT54G0LS93GlaO4Z0q2": {
+        "group": "Todos",
+        "nick": "Charly",
+        "status": "Aceptado",
+        "uid": "gI6lQUY8qPT54G0LS93GlaO4Z0q2"
+      },
+      "i2kSCSaUWLduTs3qZ8atu5swkcn2": {
+        "group": "Todos",
+        "nick": "marcel",
+        "status": "Aceptado",
+        "uid": "i2kSCSaUWLduTs3qZ8atu5swkcn2"
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "group": "Todos",
+        "nick": "pirri_mori",
+        "status": "Aceptado",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      },
+      "ptm3YTZwOyO9u0ahBtXRPeZmgA42": {
+        "group": "Todos",
+        "nick": "pablotrillo98",
+        "status": "Aceptado",
+        "uid": "ptm3YTZwOyO9u0ahBtXRPeZmgA42"
+      },
+      "r3zhdpjnVZWb6ER2Yczlar2OTcG2": {
+        "group": "Todos",
+        "nick": "ub30216",
+        "status": "Aceptado",
+        "uid": "r3zhdpjnVZWb6ER2Yczlar2OTcG2"
+      },
+      "rnQvWp4aCPNciU44X7kp06VdlAp2": {
+        "group": "Todos",
+        "nick": "rubenru",
+        "status": "Aceptado",
+        "uid": "rnQvWp4aCPNciU44X7kp06VdlAp2"
+      },
+      "rzxzwFFBY7ZjeCBu2JefXgSuWMQ2": {
+        "group": "Todos",
+        "nick": "KerryCaberga",
+        "status": "Aceptado",
+        "uid": "rzxzwFFBY7ZjeCBu2JefXgSuWMQ2"
+      },
+      "v5UzboKEG9c15yHB6jqAEEaU0mG3": {
+        "group": "Todos",
+        "nick": "tito",
+        "status": "Aceptado",
+        "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+      },
+      "yJa6aBVf3vXoYG7GcAuFKcFb3h52": {
+        "group": "Todos",
+        "nick": "Mota",
+        "status": "Aceptado",
+        "uid": "yJa6aBVf3vXoYG7GcAuFKcFb3h52"
+      },
+      "z9dCe4zCBIalFsXXqyIuBvzPDq62": {
+        "group": "Todos",
+        "nick": "jcarrillo",
+        "status": "Aceptado",
+        "uid": "z9dCe4zCBIalFsXXqyIuBvzPDq62"
+      },
+      "zg2Hl7QRzBZhDixUrSxcjmqED792": {
+        "group": "Todos",
+        "nick": "Elitmos",
+        "status": "Aceptado",
+        "uid": "zg2Hl7QRzBZhDixUrSxcjmqED792"
+      }
+    },
+    "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3": {
+      "v5UzboKEG9c15yHB6jqAEEaU0mG3": {
+        "group": "Todos",
+        "nick": "tito",
+        "status": "Esperando",
+        "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+      }
+    },
+    "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+      "0fQXPfwgSMW9HBTM15YcmFYLZZF2": {
+        "nick": "Beni",
+        "status": "Aceptado",
+        "uid": "0fQXPfwgSMW9HBTM15YcmFYLZZF2"
+      },
+      "0woVcVU1WXXCoQTX5WNlAN37FYv2": {
+        "nick": "ronovella",
+        "status": "Aceptado",
+        "uid": "0woVcVU1WXXCoQTX5WNlAN37FYv2"
+      },
+      "4dyF8KaBizTOfjyyGJWbzBQcgRt1": {
+        "nick": "Rocio",
+        "status": "Aceptado",
+        "uid": "4dyF8KaBizTOfjyyGJWbzBQcgRt1"
+      },
+      "5biTy8zDO5Qo1bg4XWqqh7wP4xn2": {
+        "nick": "White ",
+        "status": "Aceptado",
+        "uid": "5biTy8zDO5Qo1bg4XWqqh7wP4xn2"
+      },
+      "5d7a0gNjWQadDnTp4HEH3bl2uJn2": {
+        "nick": "jwj",
+        "status": "Aceptado",
+        "uid": "5d7a0gNjWQadDnTp4HEH3bl2uJn2"
+      },
+      "6taKJVtA9vfTIPo8xWB6utaFxy43": {
+        "nick": "javigarrafa",
+        "status": "Aceptado",
+        "uid": "6taKJVtA9vfTIPo8xWB6utaFxy43"
+      },
+      "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2": {
+        "nick": "farra",
+        "status": "Aceptado",
+        "uid": "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2"
+      },
+      "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+        "nick": "AlaTriste ",
+        "status": "Aceptado",
+        "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+      },
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Aceptado",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+      },
+      "GK9JGffCjANaKEhIUBwBIfmpy1H2": {
+        "nick": "hugotremen2",
+        "status": "Aceptado",
+        "uid": "GK9JGffCjANaKEhIUBwBIfmpy1H2"
+      },
+      "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3": {
+        "nick": "djkokas",
+        "status": "Aceptado",
+        "uid": "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3"
+      },
+      "MTRQS0vQUxYB30A0zxvI6Dy83XZ2": {
+        "nick": "Edutrillo",
+        "status": "Aceptado",
+        "uid": "MTRQS0vQUxYB30A0zxvI6Dy83XZ2"
+      },
+      "OWCB3pSCUbaj9pLpfbMqItyEk0u2": {
+        "nick": "Limocho",
+        "status": "Aceptado",
+        "uid": "OWCB3pSCUbaj9pLpfbMqItyEk0u2"
+      },
+      "Qdv6MYZ2TiXh6dxUXx5MoHBydMx2": {
+        "nick": "hectoribio",
+        "status": "Aceptado",
+        "uid": "Qdv6MYZ2TiXh6dxUXx5MoHBydMx2"
+      },
+      "RzssmjtzgJOvhjTByePGytjzXBp2": {
+        "nick": "Crisp",
+        "status": "Aceptado",
+        "uid": "RzssmjtzgJOvhjTByePGytjzXBp2"
+      },
+      "UZQLRCVaqpfRlbqlpeOWSiFbtKg2": {
+        "nick": "150894",
+        "status": "Aceptado",
+        "uid": "UZQLRCVaqpfRlbqlpeOWSiFbtKg2"
+      },
+      "Y5cbzOWiMfVR4CxJPVUNNi8ZwML2": {
+        "nick": "benji",
+        "status": "Aceptado",
+        "uid": "Y5cbzOWiMfVR4CxJPVUNNi8ZwML2"
+      },
+      "Z3sgO6QgAWf9DCJzHJvJ3qgjIci1": {
+        "nick": "SCOOBY",
+        "status": "Aceptado",
+        "uid": "Z3sgO6QgAWf9DCJzHJvJ3qgjIci1"
+      },
+      "ajUsnntRIYbRQOBVao0ufL7dTqA3": {
+        "nick": "samu",
+        "status": "Aceptado",
+        "uid": "ajUsnntRIYbRQOBVao0ufL7dTqA3"
+      },
+      "dy50tiRLRPbHUCyfQ5MQHc3hgTv1": {
+        "nick": "lade",
+        "status": "Aceptado",
+        "uid": "dy50tiRLRPbHUCyfQ5MQHc3hgTv1"
+      },
+      "ptm3YTZwOyO9u0ahBtXRPeZmgA42": {
+        "nick": "pablotrillo98",
+        "status": "Aceptado",
+        "uid": "ptm3YTZwOyO9u0ahBtXRPeZmgA42"
+      },
+      "rzxzwFFBY7ZjeCBu2JefXgSuWMQ2": {
+        "nick": "KerryCaberga",
+        "status": "Aceptado",
+        "uid": "rzxzwFFBY7ZjeCBu2JefXgSuWMQ2"
+      },
+      "v5UzboKEG9c15yHB6jqAEEaU0mG3": {
+        "nick": "tito",
+        "status": "Aceptado",
+        "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+      },
+      "z9dCe4zCBIalFsXXqyIuBvzPDq62": {
+        "nick": "jcarrillo",
+        "status": "Aceptado",
+        "uid": "z9dCe4zCBIalFsXXqyIuBvzPDq62"
+      }
+    }
+  },
+  "follows": {
+    "0fQXPfwgSMW9HBTM15YcmFYLZZF2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243610
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "0woVcVU1WXXCoQTX5WNlAN37FYv2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677872354187
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "2pF4IbiEnJTNfzaweGYGYRcRrqB3": {
+      "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+        "nick": "AlaTriste ",
+        "status": "Siguiendo",
+        "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+        "updated": 1677866506602
+      },
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243717
+      }
+    },
+    "3cnDXzrfBoXiKyRlK4AoweHwzBk2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243663
+      }
+    },
+    "4dyF8KaBizTOfjyyGJWbzBQcgRt1": {
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "5biTy8zDO5Qo1bg4XWqqh7wP4xn2": {
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "5d7a0gNjWQadDnTp4HEH3bl2uJn2": {
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "6taKJVtA9vfTIPo8xWB6utaFxy43": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243580
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243509
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243627
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2": {
+      "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+        "nick": "AlaTriste ",
+        "status": "Siguiendo",
+        "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+        "updated": 1677866506600
+      },
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243630
+      }
+    },
+    "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "GK9JGffCjANaKEhIUBwBIfmpy1H2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243712
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "Hrz8sGLNKBUdhPaEXXDg4PMBVBr2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243647
+      }
+    },
+    "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243564
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "J4FVqx4Phee0iEEVsDXzCg7IVfp1": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243678
+      }
+    },
+    "KP7D1d6fskfakS7KqUvjphpwzKE3": {
+      "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+        "nick": "AlaTriste ",
+        "status": "Siguiendo",
+        "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+        "updated": 1677866506607
+      },
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243733
+      }
+    },
+    "MTRQS0vQUxYB30A0zxvI6Dy83XZ2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243596
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "OWCB3pSCUbaj9pLpfbMqItyEk0u2": {
+      "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+        "nick": "AlaTriste ",
+        "status": "Siguiendo",
+        "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+        "updated": 1677866506601
+      },
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243713
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "PCOmJSo2DqVokGP15uFXRiO4aEy1": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243679
+      }
+    },
+    "POFq9eqofHOWIlFzhQnXQ6OZi5z2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "En curso...",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243526
+      }
+    },
+    "Qdv6MYZ2TiXh6dxUXx5MoHBydMx2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243617
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "RzssmjtzgJOvhjTByePGytjzXBp2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243629
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "UZQLRCVaqpfRlbqlpeOWSiFbtKg2": {
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "Xv1Mes0IGVcLaQpTaV8y96FbTm72": {
+      "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+        "nick": "AlaTriste ",
+        "status": "En curso...",
+        "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+        "updated": 1677866506595
+      }
+    },
+    "Y5cbzOWiMfVR4CxJPVUNNi8ZwML2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243614
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "Z3sgO6QgAWf9DCJzHJvJ3qgjIci1": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243594
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "ajUsnntRIYbRQOBVao0ufL7dTqA3": {
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "dcurjio5ryUilyHjfNAxbuqWRPv1": {
+      "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+        "nick": "AlaTriste ",
+        "status": "Siguiendo",
+        "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+        "updated": 1677866506602
+      },
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243715
+      }
+    },
+    "dy50tiRLRPbHUCyfQ5MQHc3hgTv1": {
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "gI6lQUY8qPT54G0LS93GlaO4Z0q2": {
+      "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+        "nick": "AlaTriste ",
+        "status": "Siguiendo",
+        "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+        "updated": 1677866506600
+      },
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243662
+      }
+    },
+    "i2kSCSaUWLduTs3qZ8atu5swkcn2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243661
+      }
+    },
+    "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+      "6taKJVtA9vfTIPo8xWB6utaFxy43": {
+        "nick": "javigarrafa",
+        "status": "Siguiendo",
+        "uid": "6taKJVtA9vfTIPo8xWB6utaFxy43",
+        "updated": 1677879163888
+      },
+      "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2": {
+        "nick": "farra",
+        "status": "Siguiendo",
+        "uid": "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2",
+        "updated": 1677882194386
+      },
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243747
+      }
+    },
+    "ptm3YTZwOyO9u0ahBtXRPeZmgA42": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243542
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "r3zhdpjnVZWb6ER2Yczlar2OTcG2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243700
+      }
+    },
+    "rnQvWp4aCPNciU44X7kp06VdlAp2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243680
+      }
+    },
+    "rzxzwFFBY7ZjeCBu2JefXgSuWMQ2": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243615
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "v5UzboKEG9c15yHB6jqAEEaU0mG3": {
+      "0woVcVU1WXXCoQTX5WNlAN37FYv2": {
+        "nick": "ronovella",
+        "status": "En curso...",
+        "uid": "0woVcVU1WXXCoQTX5WNlAN37FYv2",
+        "updated": 1677872231559
+      },
+      "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2": {
+        "nick": "farra",
+        "status": "En curso...",
+        "uid": "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2",
+        "updated": 1677882194390
+      },
+      "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+        "nick": "AlaTriste ",
+        "status": "En curso...",
+        "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+        "updated": 1677866506599
+      },
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243595
+      },
+      "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3": {
+        "nick": "djkokas",
+        "status": "En curso...",
+        "uid": "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3",
+        "updated": 1677856611498
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "yJa6aBVf3vXoYG7GcAuFKcFb3h52": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243764
+      }
+    },
+    "z9dCe4zCBIalFsXXqyIuBvzPDq62": {
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243611
+      },
+      "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+        "nick": "pirri_mori",
+        "status": "Siguiendo",
+        "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+      }
+    },
+    "zg2Hl7QRzBZhDixUrSxcjmqED792": {
+      "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+        "nick": "AlaTriste ",
+        "status": "Siguiendo",
+        "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+        "updated": 1677866506601
+      },
+      "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+        "nick": "kuko",
+        "status": "Siguiendo",
+        "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+        "updated": 1677863243714
+      }
+    }
+  },
+  "iptv": {
+    "-NCvK_At6oldWhL_77aB": {
+      "key": "-NCvK_At6oldWhL_77aB",
+      "name": "lucky",
+      "nickUid": "JTR",
+      "privacity": true,
+      "uid": "pp8E4NVIHHNpFI8QdBWqr9EtvRi2",
+      "url": "5FW23PHq8ao+DdmtyErj2XTfMmA3VuLfryoMrm8iUD4szHnrGp0NshXaHZ203jOq\n"
+    },
+    "-NDZ2HSZc2kOd26YPEWC": {
+      "epg": "",
+      "key": "-NDZ2HSZc2kOd26YPEWC",
+      "name": "Ivi",
+      "nickUid": "White ",
+      "privacity": true,
+      "uid": "5biTy8zDO5Qo1bg4XWqqh7wP4xn2",
+      "url": "ARzOXxlgEJWiCNmWW6WQjPNRBr0lr6rLAQPlSll0xW+weqPW9EdYkB0I92FA0L5nkFvhobPhf6nw\n5D4L8xbS/HQDTFsN5bUi65fQh6XXaRBq48RzO2dFN6WLzyB0nF94+4uSJ7rnp1Nb9CokAEOp6+ws\nF/34R+fXFHsDUHxv/lX4j5kiTzbKsUnGKK3ge4ht\n"
+    },
+    "-NDic8P8A1Gxy8f10jCf": {
+      "epg": "",
+      "key": "-NDic8P8A1Gxy8f10jCf",
+      "name": "Gangas",
+      "nickUid": "rlc_clooney",
+      "privacity": true,
+      "uid": "IBOEt8MV9lM8iH09G7jpCit46w93",
+      "url": "3sqXoKFkpeO4PxGJDd0ldEu/8LdZTx0xM0iyDBNbu7o/GdGGNHjAedc8ttJO67Kr4T9J2hiEKO5T\n8J1e22dtWjKIqBwAQlxlm+z3t7ieow8xIORuo+mnWDtbv4SjaBTHnLNG5SW51JGNhh/Jh7y+zeO0\n6/M5PN8He9oD1ATnKHy/qcG4J2TdZnkJfoXDwaDs\n"
+    },
+    "-NElWSICkSIltMchZ1QR": {
+      "epg": "",
+      "key": "-NElWSICkSIltMchZ1QR",
+      "name": "ramses zeronet",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "iGQb9GNLEfpxaExh+R4t5hgTujI4zFK7JqAbWi0+ZAzY0o8QtXufZmYrg5ZvBgskkNaHcKNtVGji\nHICLl390Rr8EE93qGoskA5/VQApjzhCj+FRVyzjLCYU2ka+MTdi+\n"
+    },
+    "-NH5bllbV6_B-ExVIu57": {
+      "epg": "http://epg.tvparanosotros.ru/epg/guide_flores.xml",
+      "key": "-NH5bllbV6_B-ExVIu57",
+      "name": "Hugo",
+      "nickUid": "hugotremen2",
+      "privacity": true,
+      "uid": "GK9JGffCjANaKEhIUBwBIfmpy1H2",
+      "url": "hOWwYsMQyx0329nyIubviPsnSCzb1G7IPg9W/pvyMDVUr4sRLIkF1aTSYJeQWajvHKEfmleehNdG\nv59k8FCzXLMaWCGhIK+Jp36zWZ2eIRXrzus8eibx2wjQB7mTHh6CsKToPFoF7f2EaARaZiacnu8y\nLJ0lf8JdcTqxd+tPgysLpZsXzTSnOcIHgWNIB5qpOeJ4lAznXCDaopfWaV0HSA==\n"
+    },
+    "-NHUgF_ISAH0brqnnFRR": {
+      "epg": "248982315325&type=m3u_plus/davidmuma/EPG_dobleM/master/guiatv_sincolor1",
+      "key": "-NHUgF_ISAH0brqnnFRR",
+      "name": "cabuemirs",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "VgsqlS680cNSesDQGTk2uPWEvXGsez87hp6cWQCQDL91Bw9AXzSfm9FR12KlmE7pqCVFnbTSROaF\nDzEzmzRUiYp1C9ttnaZ1EjNGqtOv0MSTTtMSkxUmzOI/Zyr67RRkhN+iMKIsD4ibn/jK1PFrZA==\n"
+    },
+    "-NHYlyrQKdMl_qn0Y9Nk": {
+      "id": 0,
+      "key": "-NHYlyrQKdMl_qn0Y9Nk",
+      "name": "JOINACE",
+      "nickUid": "kuko",
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "WRYwcRaDJAsZ49pA+cpDhzH/ygjSQZtu7JMFvCg8ElyZalP9YHgIRv2W2DmsXy78hYRvZUAXRw6G\n4Ls2NkdrDKlseTl6SdQXWeNqZsCsT0Y=\n"
+    },
+    "-NKKirOLBaFXLS0Ta_8B": {
+      "id": 0,
+      "key": "-NKKirOLBaFXLS0Ta_8B",
+      "name": "electro",
+      "nameEpg": "Default",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "iGQb9GNLEfpxaExh+R4t5sguYYE0exFSjAurhGpIyW6w5pSzDB3gzCUiloMJUGgm96fg+LPk1smP\n/27+R0uG1DQWfveyfryakrf0ReSTcAA=\n"
+    },
+    "-NKdEKqrkUPyhPHctKLQ": {
+      "id": 0,
+      "key": "-NKdEKqrkUPyhPHctKLQ",
+      "name": "BichoRamses",
+      "nameEpg": "Default",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "XurPFJ0aVvlXWLOHN85C+UEBnDE19Q3RrVswVsmiX2Z04DloZw1BY4dVKWDeH041yHV6XwxUK1uP\nHWy6Dt0E9wOtITJCG09AkxTV38oQmuY=\n"
+    },
+    "-NLNGWPCdWrniodgg2hE": {
+      "id": 0,
+      "key": "-NLNGWPCdWrniodgg2hE",
+      "name": "TDT",
+      "nickUid": "kuko",
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "4HP/KibaaKklrm9WIvgsGLw2XmEvTwltK4NzVXN65ekZfzrMQWdlN+8ZMFgMG12e\n"
+    },
+    "-NLhCvcrIfVrPIqiRW8_": {
+      "id": 0,
+      "key": "-NLhCvcrIfVrPIqiRW8_",
+      "name": "mxu(1)",
+      "nameEpg": "Default",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "EAUlQwJc9UnxcC9il5WjBW7+4/Wt5ZtTKKIhwTjih5BlPryEM+wQRPWaJVXV7kDlJMnKNa8F1xMo\npTwpJrgRzyYeSx9cag/hRTYjzICd+a2e6AyJtOD7CGEArnvcpz4Wm8gvNCanZNh9/fGQBuWrKrdO\nanTZkKuDi/y5XIEKXZE=\n"
+    },
+    "-NMZa45cDNhJQNsIUzoA": {
+      "id": 0,
+      "key": "-NMZa45cDNhJQNsIUzoA",
+      "name": "Deportes Acestream",
+      "nickUid": "kuko",
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "WRYwcRaDJAsZ49pA+cpDhzH/ygjSQZtu7JMFvCg8ElyZalP9YHgIRv2W2DmsXy78elHA1xYHwimU\nhyM9kA+yw/sZ5Y8Thiet3yWlAXueQ1g=\n"
+    },
+    "-NM_qDhmTXWXTdkFys3x": {
+      "id": 0,
+      "key": "-NM_qDhmTXWXTdkFys3x",
+      "name": "Movistar wise",
+      "nickUid": "kuko",
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "WRYwcRaDJAsZ49pA+cpDhzH/ygjSQZtu7JMFvCg8ElxM10I0OBfqETsnl/3SoL8xxFysrFUBbJQu\nZ4ao1+dtCw==\n"
+    },
+    "-NMc7hdIWad2_Ht8nYsl": {
+      "id": 0,
+      "key": "-NMc7hdIWad2_Ht8nYsl",
+      "name": "Tenis",
+      "nickUid": "kuko",
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "WRYwcRaDJAsZ49pA+cpDhzH/ygjSQZtu7JMFvCg8ElxM10I0OBfqETsnl/3SoL8x2+eNMLDocD3n\ny1dzznZytg==\n"
+    },
+    "-NMc8788mclQ1Yfn0K0r": {
+      "id": 0,
+      "key": "-NMc8788mclQ1Yfn0K0r",
+      "name": "Deporte español",
+      "nickUid": "kuko",
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "WRYwcRaDJAsZ49pA+cpDhzH/ygjSQZtu7JMFvCg8ElxM10I0OBfqETsnl/3SoL8xHRUC8OArlrIo\nmuq96SomGw==\n"
+    },
+    "-NMebVnSMdK5v9cwR6U0": {
+      "id": 0,
+      "key": "-NMebVnSMdK5v9cwR6U0",
+      "name": "kuchino",
+      "nameEpg": "Default",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "sBZSO0hnRdcqQt8O3fhgnivXEETu3YebKQhectfXLhwoByJjIkijM8+UzrcAJbuAD9LX5qyJNeWe\n5h0DL8zKs1BOeOEDGGlEkQusCObbfXNrjIm7q23GezT8vv6PU1Wp/JPuEtztYYCoeSozLI9UTLx4\n3j7A+6hoIQM15QBhlTtmMjTVpIKnqq+8BNjBEQik\n"
+    },
+    "-NNSk_BMybhMY40Bvh4T": {
+      "id": 0,
+      "key": "-NNSk_BMybhMY40Bvh4T",
+      "name": "Peliculas Torrent",
+      "nameEpg": "Default",
+      "nickUid": "kuko",
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "WRYwcRaDJAsZ49pA+cpDhzH/ygjSQZtu7JMFvCg8ElyZalP9YHgIRv2W2DmsXy78ZWmd24NO3es/\ngrXCPQC/xAIBq0o64EgLdXTQ4JXJEl8=\n"
+    },
+    "-NNrdKVTJcIKkUcDT47e": {
+      "id": 0,
+      "key": "-NNrdKVTJcIKkUcDT47e",
+      "name": "cabuemirs2",
+      "nameEpg": "Default",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "VgsqlS680cNSesDQGTk2uPWEvXGsez87hp6cWQCQDL91Bw9AXzSfm9FR12KlmE7plZJ7UINdErCe\nTkSJqSRZe0CRuNwW6Vrym6CXKnh1i7MLkJ9xuj7dfAbaDUc4zXqeYb6OccJ/4i2h7tC1D4dp9w==\n"
+    },
+    "-NO1OV8b7yhjQd9pPXQf": {
+      "id": 0,
+      "key": "-NO1OV8b7yhjQd9pPXQf",
+      "name": "leyenda",
+      "nameEpg": "Default",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "OY8p1ZTVc7RZWrwMVTPpHzjmUFuFqhsaQ+wJ/358/kxSC0A9O5qiENPDcbYORcZcMTOupkq3FVpK\nYYZqZ+13FEfuMyKFlKZsCqN6D7+CqZ22msoUkVlgMxNwmXL8YGHd\n"
+    },
+    "-NOEtiEEnYiBt6846TY0": {
+      "id": 0,
+      "key": "-NOEtiEEnYiBt6846TY0",
+      "name": "Movistar ts",
+      "nameEpg": "Default",
+      "nickUid": "kuko",
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "WRYwcRaDJAsZ49pA+cpDhzH/ygjSQZtu7JMFvCg8ElxM10I0OBfqETsnl/3SoL8xlY3ADA+EL/Cx\np4SrIWf0jw==\n"
+    },
+    "-NOF1D4GDoeiPD06ZtOt": {
+      "id": 0,
+      "key": "-NOF1D4GDoeiPD06ZtOt",
+      "name": "Pelis acestream",
+      "nameEpg": "Default",
+      "nickUid": "kuko",
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "WRYwcRaDJAsZ49pA+cpDhzH/ygjSQZtu7JMFvCg8ElyhQjwOUC/VVBKab/0ffDOrwdQ6MC5tg1Pz\n38rAcI9p7A==\n"
+    },
+    "-NOPe3rgZEcfXY1kvNTf": {
+      "id": 0,
+      "key": "-NOPe3rgZEcfXY1kvNTf",
+      "name": "restreamicos ",
+      "nameEpg": "Default",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "7WQhWiCmS7tpyeWL8iV3F/17CbVhR4eRCCUAEhfkwP1GZZ7t9+8w98IKLfLG0OBt00QhvfXyu7a7\nYoVcOwSJy5tSHVVxYxrwa1yAZVCp09fH32erjqSlYAsb8+B5DdvJiAKKec+1Qpa/PXWKaLAPcKoh\n65ChoCyTsHhpU+eNiLqBLJmXEUO1L3lZVRSDwjaU\n"
+    },
+    "-NORAP7TfeiL65KfMdA2": {
+      "id": 0,
+      "key": "-NORAP7TfeiL65KfMdA2",
+      "name": "nmstreaming",
+      "nameEpg": "Default",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "UUYIar4mgupTKHpOYaKOmsFEV2FtoK0lAy6Kg2PI+EFxkWfxA2nbBSofoVFaUZPmvSB+zNKIaUbH\nCZmVrSJNKFqspnM9upOjP6m3wFPOwC9HjdMxipo4m6WOEFdvVuwlKiLle+4SoeQHVz1OPM4OUF0y\nzLT82CQjy3EEv/dysvI=\n"
+    },
+    "-NOtoRxwrnmLiruwYY4N": {
+      "id": 0,
+      "key": "-NOtoRxwrnmLiruwYY4N",
+      "name": "laondatv",
+      "nameEpg": "Default",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "LixN/FCoc3LSZNlHFI6o7xYf3FR8Q2GE8C8c+XvGUdy6lGla2d0xGCoduNc4TN+5V/AgFxiGu4l/\nCJnYu6O+hpduxAMftG0LYXOGoTj1nxwmdcHvTxYbPt0MdeYM2Snw68rtFxH+O84Tf5MM5iV47HL1\n4GNmYlTcTPA+S+MtrxXi5Zm246P/B/rTRBYJ+7I4uRh5wWm+yjfF81mxzuZImA==\n"
+    },
+    "-NPNtOUW3CaX8OO62bin": {
+      "id": 0,
+      "key": "-NPNtOUW3CaX8OO62bin",
+      "name": "futbolonline",
+      "nameEpg": "Default",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "ZrzLPxhCIG0mHPZ+TF5QLYLl8iGKP3cKO/UNcetADP7r0JcTrftPZCo9tYiwH2KQFrCtWHLTwJAy\n8nGfXC8wy3M/55ga0YzLxsku2xzczy0+Jq9vsp9+dzyY7Kv/ISb5czTt9ybbPpoDpLJ7FvDh3N6k\n9ZOMPd9DROQjiBnGn9U=\n"
+    },
+    "-NPaZ6sAQjUy3dTQhpN5": {
+      "group": "Familia",
+      "id": 0,
+      "key": "-NPaZ6sAQjUy3dTQhpN5",
+      "name": "Gangas",
+      "nickUid": "kuko",
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+      "url": "0P9nfoMSzYizQgmmrKFMqYAQdFJufqucn8YSEqwXYvhWIueAK2+tnPdKVd0q2TM4vlmLsi3H3t9k\n6tjBFeFN7NPTrgva+0/YoYXWDMsSOun9Ti3tdJx4m0zG8uzvGcJq/PUgxPuHYH9CXdxxdC7i0gNJ\no+nTrmQkvbhA3Qxr8LhfeAyuA0WVZxUzLCeRwJ5X\n"
+    },
+    "-NPbuK_VG8B1FMtsht4x": {
+      "group": "Todos",
+      "id": 0,
+      "key": "-NPbuK_VG8B1FMtsht4x",
+      "name": "xtra",
+      "nickUid": "AlaTriste ",
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+      "url": "lwexwKrWfGWWLgTVEi+iMX7aueh8WBimig0GPXICLOLLCQX+rBHsLgBfihB0jqY+FtpJ/9dYzd8s\nYyVOx+mnYmbgY5621U7isfYtsQ63cTECLza9p9DstOZDu/KMQz81UV988mERwlfVOD5YY7JB73xG\n+eZjd96p8TcHpC3/6Xs=\n"
+    }
+  },
+  "logos": {
+    "-Mzdemelsjlsdkgjlkes": {
+      "name": "Espn",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png"
+    },
+    "-MzdmqeAcF1MZsOTRrkb": {
+      "name": "LA 1",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png"
+    },
+    "-MzdmqeC_A9zhcnwsggD": {
+      "name": "LA 2",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png"
+    },
+    "-MzdmqeDwgMAeEkqvIw-": {
+      "name": "Antena 3",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png"
+    },
+    "-MzdmqeDwgMAeEkqvIw0": {
+      "name": "Cuatro",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C4.png"
+    },
+    "-MzdmqeDwgMAeEkqvIw1": {
+      "name": "Telecinco",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png"
+    },
+    "-MzdmqeEztetnjiAUv0G": {
+      "name": "La Sexta",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SEXTA.png"
+    },
+    "-MzdmqeEztetnjiAUv0H": {
+      "name": "M+ #0",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png"
+    },
+    "-MzdmqeEztetnjiAUv0I": {
+      "name": "M+ #Vamos",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png"
+    },
+    "-MzdmqeF0m3-GqoK1kfF": {
+      "name": "Telemadrid",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TELMAD.png"
+    },
+    "-MzdmqeF0m3-GqoK1kfG": {
+      "name": "ETB 1",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB1.png"
+    },
+    "-MzdmqeF0m3-GqoK1kfH": {
+      "name": "TV Canaria",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CANAR.png"
+    },
+    "-MzdmqeF0m3-GqoK1kfI": {
+      "name": "Canal Sur",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CANSUR.png"
+    },
+    "-MzdmqeGD114UpT423i9": {
+      "name": "Castilla la Mancha TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CASMAN.png"
+    },
+    "-MzdmqeGD114UpT423iA": {
+      "name": "IB3",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IB3.png"
+    },
+    "-MzdmqeH2Jdlo2d-9Voq": {
+      "name": "7 TV Región Murcia",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/7TVMUR.png"
+    },
+    "-MzdmqeH2Jdlo2d-9Vor": {
+      "name": "TVG -TV Galicia",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVGAL.png"
+    },
+    "-MzdmqeH2Jdlo2d-9Vos": {
+      "name": "À Punt",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/APUNT.png"
+    },
+    "-MzdmqeIUi19x0r64yct": {
+      "name": "TV3",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TV3CAT.png"
+    },
+    "-MzdmqeIUi19x0r64ycu": {
+      "name": "Canal Extremadura",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/EXTRE.png"
+    },
+    "-MzdmqeIUi19x0r64ycv": {
+      "name": "Canal Sur HD",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CSURHD.png"
+    },
+    "-MzdmqeJPosTwUTU8_PK": {
+      "name": "La 7",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYLTV.png"
+    },
+    "-MzdmqeJPosTwUTU8_PL": {
+      "name": "TPA",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TPA.png"
+    },
+    "-MzdmqeJPosTwUTU8_PM": {
+      "name": "Aragón TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGTV.png"
+    },
+    "-MzdmqeKlpdI03YZ-pIc": {
+      "name": "TVG 2",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVG2.png"
+    },
+    "-MzdmqeKlpdI03YZ-pId": {
+      "name": "Andalucía TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ANDATV.png"
+    },
+    "-MzdmqeKlpdI03YZ-pIe": {
+      "name": "La Otra",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/OTRA.png"
+    },
+    "-MzdmqeL6JYueiguHPk3": {
+      "name": "La Ocho TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEDITE.png"
+    },
+    "-MzdmqeL6JYueiguHPk4": {
+      "name": "ETB 2",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB2.png"
+    },
+    "-MzdmqeL6JYueiguHPk5": {
+      "name": "M+ Series",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV2.png"
+    },
+    "-MzdmqeMv1aoWXH8gAow": {
+      "name": "M+ Series 2",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPSER.png"
+    },
+    "-MzdmqeMv1aoWXH8gAox": {
+      "name": "Fox",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png"
+    },
+    "-MzdmqeMv1aoWXH8gAoy": {
+      "name": "AXN",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png"
+    },
+    "-MzdmqeN6aJDqiuIzysH": {
+      "name": "TNT",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png"
+    },
+    "-MzdmqeN6aJDqiuIzysI": {
+      "name": "Comedy Central",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png"
+    },
+    "-MzdmqeN6aJDqiuIzysJ": {
+      "name": "Calle 13",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png"
+    },
+    "-MzdmqeOgF3guXZiLLjG": {
+      "name": "COSMO",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png"
+    },
+    "-MzdmqeOgF3guXZiLLjH": {
+      "name": "AMC",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png"
+    },
+    "-MzdmqeP21pEFUFooRQv": {
+      "name": "XTRM",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/XTRM.png"
+    },
+    "-MzdmqeP21pEFUFooRQw": {
+      "name": "AXN White",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SET.png"
+    },
+    "-MzdmqeP21pEFUFooRQx": {
+      "name": "SYFY",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png"
+    },
+    "-MzdmqeQBDzjMiikh-ko": {
+      "name": "Energy",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENERGY.png"
+    },
+    "-MzdmqeQBDzjMiikh-kp": {
+      "name": "La Resistencia",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/RESIST.png"
+    },
+    "-MzdmqeQBDzjMiikh-kq": {
+      "name": "Factoría de Ficción",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png"
+    },
+    "-MzdmqeRJ_QH2pYjpNUE": {
+      "name": "Neox",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NEOX.png"
+    },
+    "-MzdmqeRJ_QH2pYjpNUF": {
+      "name": "Atreseries",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ATRESS.png"
+    },
+    "-MzdmqeSKsRBOoTBpiE7": {
+      "name": "M+ Los Oscar",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MOSCAR.png"
+    },
+    "-MzdmqeSKsRBOoTBpiE8": {
+      "name": "M+ Estrenos",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png"
+    },
+    "-MzdmqeSKsRBOoTBpiE9": {
+      "name": "M+ Estrenos 2",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png"
+    },
+    "-MzdmqeTacbhIyivrfjo": {
+      "name": "M+ Clásicos",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png"
+    },
+    "-MzdmqeTacbhIyivrfjp": {
+      "name": "M+ Acción",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png"
+    },
+    "-MzdmqeUrzCOrDuLrcvI": {
+      "name": "M+ Comedia",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png"
+    },
+    "-MzdmqeUrzCOrDuLrcvJ": {
+      "name": "M+ Drama",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png"
+    },
+    "-MzdmqeUrzCOrDuLrcvK": {
+      "name": "M+ Cine Español",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png"
+    },
+    "-MzdmqeVFMgrrFH-yZqt": {
+      "name": "M+ Fest",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png"
+    },
+    "-MzdmqeVFMgrrFH-yZqu": {
+      "name": "TCM",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png"
+    },
+    "-MzdmqeVFMgrrFH-yZqv": {
+      "name": "Hollywood",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png"
+    },
+    "-MzdmqeVFMgrrFH-yZqw": {
+      "name": "Sundance",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SUNDAN.png"
+    },
+    "-MzdmqeWq-ePjAFtfjoB": {
+      "name": "DARK",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png"
+    },
+    "-MzdmqeWq-ePjAFtfjoC": {
+      "name": "13 TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/13TV.png"
+    },
+    "-MzdmqeXKAvlS11fk5lD": {
+      "name": "Paramount Channel",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PARCH.png"
+    },
+    "-MzdmqeXKAvlS11fk5lE": {
+      "name": "M+ LaLiga",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png"
+    },
+    "-MzdmqeXKAvlS11fk5lF": {
+      "name": "M+ LaLiga 1",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png"
+    },
+    "-MzdmqeXKAvlS11fk5lG": {
+      "name": "M+ LaLiga 2",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png"
+    },
+    "-MzdmqeY4dEL0UFX0yhB": {
+      "name": "M+ LaLiga 3",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png"
+    },
+    "-MzdmqeY4dEL0UFX0yhC": {
+      "name": "M+ Campeones",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png"
+    },
+    "-MzdmqeY4dEL0UFX0yhD": {
+      "name": "M+ Campeones 1",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png"
+    },
+    "-MzdmqeZKer5G89C3YRD": {
+      "name": "M+ Campeones 2",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png"
+    },
+    "-MzdmqeZKer5G89C3YRE": {
+      "name": "M+ Deportes",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png"
+    },
+    "-MzdmqeZKer5G89C3YRF": {
+      "name": "M+ Deportes 1",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png"
+    },
+    "-Mzdmqe_2R4xMApjcTri": {
+      "name": "M+ Deportes 2",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP2.png"
+    },
+    "-Mzdmqe_2R4xMApjcTrj": {
+      "name": "M+ Deportes 3",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP3.png"
+    },
+    "-Mzdmqe_2R4xMApjcTrk": {
+      "name": "M+ Golf",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png"
+    },
+    "-Mzdmqea4SNfn9H2C5oc": {
+      "name": "DAZN F1",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png"
+    },
+    "-Mzdmqea4SNfn9H2C5od": {
+      "name": "DAZN 1",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png"
+    },
+    "-Mzdmqea4SNfn9H2C5oe": {
+      "name": "DAZN 2",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png"
+    },
+    "-Mzdmqeby5S7N-lqHmfS": {
+      "name": "Eurosport 1",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png"
+    },
+    "-Mzdmqeby5S7N-lqHmfT": {
+      "name": "Eurosport 2",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png"
+    },
+    "-Mzdmqeby5S7N-lqHmfU": {
+      "name": "GOL TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOL.png"
+    },
+    "-Mzdmqeby5S7N-lqHmfV": {
+      "name": "Teledeporte",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TDEP.png"
+    },
+    "-MzdmqecR0-vV-ylkP9V": {
+      "name": "Caza y Pesca",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png"
+    },
+    "-MzdmqecR0-vV-ylkP9W": {
+      "name": "Iberalia TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png"
+    },
+    "-MzdmqecR0-vV-ylkP9X": {
+      "name": "Toros",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CFERIA.png"
+    },
+    "-MzdmqedGaz3l_k51KST": {
+      "name": "Real Madrid TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png"
+    },
+    "-MzdmqedGaz3l_k51KSU": {
+      "name": "Barça TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BARNA.png"
+    },
+    "-Mzdmqee3L-Gt4R18L3t": {
+      "name": "National Geographic",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png"
+    },
+    "-Mzdmqee3L-Gt4R18L3u": {
+      "name": "Nat Geo Wild",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png"
+    },
+    "-Mzdmqee3L-Gt4R18L3v": {
+      "name": "Historia",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png"
+    },
+    "-MzdmqefB2Pk_a0clRLa": {
+      "name": "Discovery",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png"
+    },
+    "-MzdmqefB2Pk_a0clRLb": {
+      "name": "Odisea",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png"
+    },
+    "-MzdmqeggG7PhVV-52n9": {
+      "name": "Blaze",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png"
+    },
+    "-MzdmqeggG7PhVV-52nA": {
+      "name": "Somos",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOMOS.png"
+    },
+    "-MzdmqeggG7PhVV-52nB": {
+      "name": "Discovery Max",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCRMAX.png"
+    },
+    "-MzdmqehoczrAZfz5mEV": {
+      "name": "Crimen + Investigación",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png"
+    },
+    "-MzdmqehoczrAZfz5mEW": {
+      "name": "Canal Decasa",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DECASA.png"
+    },
+    "-MzdmqeiYtXU3VwPwoPs": {
+      "name": "Canal Cocina",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CACOC.png"
+    },
+    "-MzdmqeiYtXU3VwPwoPt": {
+      "name": "Divinity",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DIVINI.png"
+    },
+    "-MzdmqeiYtXU3VwPwoPu": {
+      "name": "Nova",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NOVA.png"
+    },
+    "-MzdmqejBXxr438fPA8T": {
+      "name": "Mega",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEGA.png"
+    },
+    "-MzdmqejBXxr438fPA8U": {
+      "name": "BE MAD",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BEMAD.png"
+    },
+    "-MzdmqejBXxr438fPA8V": {
+      "name": "BOM Cine",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOMCIN.png"
+    },
+    "-MzdmqekYvlAJLXI3cPh": {
+      "name": "Horse TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HORSE.png"
+    },
+    "-MzdmqekYvlAJLXI3cPi": {
+      "name": "Nautical Channel",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NAUTIC.png"
+    },
+    "-MzdmqekYvlAJLXI3cPj": {
+      "name": "El Garage TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GARAGE.png"
+    },
+    "-Mzdmqelli8JYzhKC2Ws": {
+      "name": "Ubeat",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/UBEAT.png"
+    },
+    "-Mzdmqelli8JYzhKC2Wt": {
+      "name": "Baby TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png"
+    },
+    "-Mzdmqelli8JYzhKC2Wu": {
+      "name": "Disney Junior",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PLAYDC.png"
+    },
+    "-MzdmqembJdcIcThCESO": {
+      "name": "Canal Panda",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png"
+    },
+    "-MzdmqembJdcIcThCESP": {
+      "name": "NICK JR",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICKJR.png"
+    },
+    "-MzdmqembJdcIcThCESQ": {
+      "name": "Nickelodeon",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png"
+    },
+    "-MzdmqenyaUKUUARejGx": {
+      "name": "Dreamworks",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DWSP.png"
+    },
+    "-MzdmqenyaUKUUARejGy": {
+      "name": "Disney Channel",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCH.png"
+    },
+    "-MzdmqenyaUKUUARejGz": {
+      "name": "Boing",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOING.png"
+    },
+    "-Mzdmqeo5t9_R64dPUgY": {
+      "name": "Clan TVE",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLANTV.png"
+    },
+    "-Mzdmqeo5t9_R64dPUgZ": {
+      "name": "ETB 3",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB3.png"
+    },
+    "-Mzdmqeo5t9_R64dPUg_": {
+      "name": "MTV 00s",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VH1.png"
+    },
+    "-MzdmqepHoAqjE5nz_wx": {
+      "name": "MTV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MTV.png"
+    },
+    "-MzdmqepHoAqjE5nz_wy": {
+      "name": "Mezzo",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEZZO.png"
+    },
+    "-MzdmqeqDl3pPYU7oKkk": {
+      "name": "Mezzo Live HD",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEZOHD.png"
+    },
+    "-MzdmqeqDl3pPYU7oKkl": {
+      "name": "Classica",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLASSD.png"
+    },
+    "-MzdmqeqDl3pPYU7oKkm": {
+      "name": "Classica HD",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLASSI.png"
+    },
+    "-Mzdmqer_zKjIWGD-s2n": {
+      "name": "Sol Música",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOLMUS.png"
+    },
+    "-Mzdmqer_zKjIWGD-s2o": {
+      "name": "Playboy TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PBOY.png"
+    },
+    "-MzdmqeslQxuY5ITSfcQ": {
+      "name": "24 Horas",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/24H.png"
+    },
+    "-MzdmqeslQxuY5ITSfcR": {
+      "name": "BBC World",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BBC.png"
+    },
+    "-MzdmqeslQxuY5ITSfcS": {
+      "name": "CNN Int",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CNN.png"
+    },
+    "-MzdmqetC40ATgx6OAni": {
+      "name": "Fox News",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXNWS.png"
+    },
+    "-MzdmqetC40ATgx6OAnj": {
+      "name": "Euronews",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENW.png"
+    },
+    "-MzdmqeuwKTPca0PbpwV": {
+      "name": "Al Jazeera English",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ALJAZE.png"
+    },
+    "-MzdmqeuwKTPca0PbpwW": {
+      "name": "FRANCE24 (FR)",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FRANCE.png"
+    },
+    "-MzdmqeuwKTPca0PbpwX": {
+      "name": "CNBC",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NBC.png"
+    },
+    "-MzdmqeuwKTPca0PbpwY": {
+      "name": "1+1 Internacional",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTEUA.png"
+    },
+    "-Mzdmqevl0uxJ9cai001": {
+      "name": "TV5MONDE",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TV5.png"
+    },
+    "-Mzdmqevl0uxJ9cai002": {
+      "name": "Bloomberg",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BL.png"
+    },
+    "-Mzdmqevl0uxJ9cai003": {
+      "name": "Sky News",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SKYNW.png"
+    },
+    "-Mzdmqewo2ffAZ-CSImv": {
+      "name": "El Toro TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png"
+    },
+    "-Mzdmqewo2ffAZ-CSImw": {
+      "name": "Negocios TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NEGOTV.png"
+    },
+    "-Mzdmqewo2ffAZ-CSImx": {
+      "name": "DKISS",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DKISS.png"
+    },
+    "-Mzdmqewo2ffAZ-CSImy": {
+      "name": "Ten",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TEN.png"
+    },
+    "-MzdmqexCLkibyujBgoM": {
+      "name": "Canal Fútbol Replay",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FUTREP.png"
+    },
+    "-MzdmqexCLkibyujBgoN": {
+      "name": "CNC World",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CNCWOR.png"
+    },
+    "-MzdmqeynhV3xWxGwn3H": {
+      "name": "Arirang TV HD",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARIRHD.png"
+    },
+    "-MzdmqeynhV3xWxGwn3I": {
+      "name": "CGTN Español",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CCTV-E.png"
+    },
+    "-MzdmqeynhV3xWxGwn3J": {
+      "name": "Telefe Internacional",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TELEFE.png"
+    },
+    "-MzdmqezIsepp07p93aX": {
+      "name": "Canal de las Estrellas",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GALAV.png"
+    },
+    "-MzdmqezIsepp07p93aY": {
+      "name": "TV Chile",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHILE.png"
+    },
+    "-MzdmqezIsepp07p93aZ": {
+      "name": "TV Colombia",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COLOMB.png"
+    },
+    "-Mzdmqf-_l7kT8xm0XHJ": {
+      "name": "Cubavisión",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CUBAV.png"
+    },
+    "-Mzdmqf-_l7kT8xm0XHK": {
+      "name": "Telesur",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TLESUR.png"
+    },
+    "-Mzdmqf-_l7kT8xm0XHL": {
+      "name": "EWTN",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/EWTN.png"
+    },
+    "-Mzdmqf0S2ZoyUlVG68H": {
+      "name": "NHK World TV",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NHK.png"
+    },
+    "-Mzdmqf0S2ZoyUlVG68I": {
+      "name": "Canal Sur Andalucía",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ANTV.png"
+    },
+    "-Mzdmqf15dT7Pnqp0wKZ": {
+      "name": "TVG Europa",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVG.png"
+    },
+    "-Mzdmqf15dT7Pnqp0wK_": {
+      "name": "Canal Extremadura Sat",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/EXTREM.png"
+    },
+    "-Mzdmqf15dT7Pnqp0wKa": {
+      "name": "TV3 Cat",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVC.png"
+    },
+    "-Mzdmqf15dT7Pnqp0wKb": {
+      "name": "EITB Basque",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB.png"
+    },
+    "-Mzdmqf2uMdyFw-7UBBa": {
+      "name": "Aragón TV Int",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGON.png"
+    },
+    "-Mzdmqf2uMdyFw-7UBBb": {
+      "name": "Canal 33",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C33.png"
+    },
+    "-Mzdmqf2uMdyFw-7UBBc": {
+      "name": "Esport 3",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP3.png"
+    },
+    "-Mzdmqf3wAs0kJ93UjLP": {
+      "name": "3 24",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/3_24.png"
+    },
+    "-Mzdmqf3wAs0kJ93UjLQ": {
+      "name": "8 tv",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/8TV.png"
+    },
+    "-Mzdmqf3wAs0kJ93UjLR": {
+      "name": "Betevé",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BTV.png"
+    },
+    "-Mzdmqf4ZILPWymT4Gkx": {
+      "name": "Alquiler HD",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HDTQ10.png"
+    },
+    "-Mzdmqf4ZILPWymT4Gky": {
+      "name": "Alquiler  1",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TQ1.png"
+    },
+    "-Mzdmqf4ZILPWymT4Gkz": {
+      "name": "Telemadrid Int.",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TELMIN.png"
+    },
+    "-Mzdmqf5OzTAQiuyqvJq": {
+      "name": "M+ LaLiga 4",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG4.png"
+    },
+    "-Mzdmqf5OzTAQiuyqvJr": {
+      "name": "M+ LaLiga 5",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG5.png"
+    },
+    "-Mzdmqf5OzTAQiuyqvJs": {
+      "name": "M+ LaLiga 6",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG6.png"
+    },
+    "-Mzdmqf64PNW6Yx9q67W": {
+      "name": "M+ LaLiga 7",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG7.png"
+    },
+    "-Mzdmqf64PNW6Yx9q67X": {
+      "name": "M+ LaLiga 8",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG8.png"
+    },
+    "-Mzdmqf64PNW6Yx9q67Y": {
+      "name": "M+ LaLiga 9",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG9.png"
+    },
+    "-Mzdmqf7om7iPts43HmR": {
+      "name": "M+ LaLiga 10",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG10.png"
+    },
+    "-Mzdmqf7om7iPts43HmS": {
+      "name": "DAZN 3",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png"
+    },
+    "-Mzdmqf7om7iPts43HmT": {
+      "name": "DAZN 4",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png"
+    },
+    "-Mzdmqf8FNw7l01vqLTW": {
+      "name": "M+ Campeones 3",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png"
+    },
+    "-Mzdmqf8FNw7l01vqLTX": {
+      "name": "M+ Campeones 4",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP4.png"
+    },
+    "-Mzdmqf8FNw7l01vqLTY": {
+      "name": "M+ Campeones 5",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP5.png"
+    },
+    "-Mzdmqf9ol9u3nhl3z3m": {
+      "name": "M+ Campeones 6",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP6.png"
+    },
+    "-Mzdmqf9ol9u3nhl3z3n": {
+      "name": "M+ Campeones 7",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP7.png"
+    },
+    "-Mzdmqf9ol9u3nhl3z3o": {
+      "name": "M+ Campeones 8",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP8.png"
+    },
+    "-MzdmqfApFNzDAsrC3nz": {
+      "name": "M+ Campeones 9",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP9.png"
+    },
+    "-MzdmqfApFNzDAsrC3o-": {
+      "name": "M+ Campeones 10",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP10.png"
+    },
+    "-MzdmqfApFNzDAsrC3o0": {
+      "name": "M+ Campeones 11",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP11.png"
+    },
+    "-MzdmqfBV3ehuE4MYvs5": {
+      "name": "M+ Campeones 12",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP12.png"
+    },
+    "-MzdmqfBV3ehuE4MYvs6": {
+      "name": "M+ Deportes 4",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP11.png"
+    },
+    "-MzdmqfBV3ehuE4MYvs7": {
+      "name": "M+ Deportes 5",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI8.png"
+    },
+    "-MzdmqfBV3ehuE4MYvs8": {
+      "name": "M+ Deportes 6",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI6.png"
+    },
+    "-MzdmqfCFhKloetgLGO3": {
+      "name": "M+ Deportes 7",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI9.png"
+    },
+    "-MzdmqfCFhKloetgLGO4": {
+      "name": "M+ LaLiga UHD",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGUH.png"
+    },
+    "-MzdmqfDRy2vSnjNvym-": {
+      "name": "M+ Liga de Campeones UHD",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAUHD.png"
+    },
+    "-MzdmqfDRy2vSnjNvym0": {
+      "name": "DAZN F1 4K",
+      "url": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MF1UHD.png"
+    },
+    "MzdmqeAkdbdaJdjdjf": {
+      "name": "Dazn Laliga",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/490px-DAZN_LaLiga_logo.svg.png"
+    },
+    "liga bar": {
+      "name": "laliga tv bar",
+      "url": "https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg"
+    },
+    "liga smartbank": {
+      "name": "laliga smartbank",
+      "url": "https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg"
+    },
+    "sport tv": {
+      "name": "sport tv",
+      "url": "https://i.ibb.co/j6SBq77/sporttv.jpg"
+    },
+    "uefa": {
+      "name": "Uefa",
+      "url": "https://static.toiimg.com/thumb/msid-77874095,width-1200,height-900,resizemode-4/.jpg"
+    }
+  },
+  "nicks": {
+    "0NRTSMDsOWdsvXjdAhAw2VA02Lj2": {
+      "nick": "aaa"
+    },
+    "0fQXPfwgSMW9HBTM15YcmFYLZZF2": {
+      "nick": "Beni"
+    },
+    "0woVcVU1WXXCoQTX5WNlAN37FYv2": {
+      "nick": "ronovella"
+    },
+    "2pF4IbiEnJTNfzaweGYGYRcRrqB3": {
+      "nick": "Gallus"
+    },
+    "3THCsqMpuaUVhGAcWrsCZmr5VBv1": {
+      "nick": "Andres"
+    },
+    "3cnDXzrfBoXiKyRlK4AoweHwzBk2": {
+      "nick": "LJhl"
+    },
+    "4dyF8KaBizTOfjyyGJWbzBQcgRt1": {
+      "nick": "Rocio"
+    },
+    "5biTy8zDO5Qo1bg4XWqqh7wP4xn2": {
+      "nick": "White "
+    },
+    "5d7a0gNjWQadDnTp4HEH3bl2uJn2": {
+      "nick": "jwj"
+    },
+    "6MnUirsyO2MftMi1AmWcBitov5g1": {
+      "nick": "saritahlinde"
+    },
+    "6taKJVtA9vfTIPo8xWB6utaFxy43": {
+      "nick": "javigarrafa@hotmail.com "
+    },
+    "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2": {
+      "nick": "farra"
+    },
+    "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+      "nick": "AlaTriste "
+    },
+    "EwyCGJE6cLPQ0CQJvx8a9VSZC3Y2": {
+      "nick": "195050"
+    },
+    "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+      "nick": "kuko"
+    },
+    "FXr5QHvnoid22M9GnReQNAKVKdf1": {
+      "nick": "alfre"
+    },
+    "GK9JGffCjANaKEhIUBwBIfmpy1H2": {
+      "nick": "hugotremen2"
+    },
+    "HhH5EzRV5zdWFDb7mK5mUpGgZyp1": {
+      "nick": "juan"
+    },
+    "Hrz8sGLNKBUdhPaEXXDg4PMBVBr2": {
+      "nick": "pitejo"
+    },
+    "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3": {
+      "nick": "oscar13982000@yahoo.es"
+    },
+    "IBOEt8MV9lM8iH09G7jpCit46w93": {
+      "nick": "rlc_clooney"
+    },
+    "IHcipXltdMW3oU8uGLm97wso7N73": {
+      "nick": "isra"
+    },
+    "J4FVqx4Phee0iEEVsDXzCg7IVfp1": {
+      "nick": "pit"
+    },
+    "KJQYwY4b0CRVVVoKHZJVHb0ozol2": {
+      "nick": "Pablobodega"
+    },
+    "KP7D1d6fskfakS7KqUvjphpwzKE3": {
+      "nick": "pepin"
+    },
+    "M4v7d81y4DYkvBlHAb2fvAUK4pA2": {
+      "nick": "Johnsmith"
+    },
+    "MTRQS0vQUxYB30A0zxvI6Dy83XZ2": {
+      "nick": "Edutrillo"
+    },
+    "OWCB3pSCUbaj9pLpfbMqItyEk0u2": {
+      "nick": "Limocho"
+    },
+    "PCOmJSo2DqVokGP15uFXRiO4aEy1": {
+      "nick": "PEPEDELUXE"
+    },
+    "POFq9eqofHOWIlFzhQnXQ6OZi5z2": {
+      "nick": "demojoinace"
+    },
+    "PvUw1DYBsbdJD0O7Wct8SFsy7XW2": {
+      "nick": "Tokenss"
+    },
+    "QNMOZ202FAhmjkw8LWgbR2Okra13": {
+      "nick": "jesus"
+    },
+    "Qdv6MYZ2TiXh6dxUXx5MoHBydMx2": {
+      "nick": "hectoribio"
+    },
+    "RzssmjtzgJOvhjTByePGytjzXBp2": {
+      "nick": "Crisp"
+    },
+    "UZQLRCVaqpfRlbqlpeOWSiFbtKg2": {
+      "nick": "150894"
+    },
+    "X8NQdD9cF0b9EzHhnZXF9XQHB6F3": {
+      "nick": "TrilloTrillao"
+    },
+    "Xv1Mes0IGVcLaQpTaV8y96FbTm72": {
+      "nick": "CT"
+    },
+    "Y5cbzOWiMfVR4CxJPVUNNi8ZwML2": {
+      "nick": "benji"
+    },
+    "Z0qQuIlrjPXD01sYsOI0fAADP3q2": {
+      "nick": "popeye"
+    },
+    "Z3sgO6QgAWf9DCJzHJvJ3qgjIci1": {
+      "nick": "SCOOBY"
+    },
+    "ajUsnntRIYbRQOBVao0ufL7dTqA3": {
+      "nick": "samu"
+    },
+    "aosfNu4EiwPaOsD9d982wJLMP5r2": {
+      "nick": "Laudrup "
+    },
+    "cyvDGh9TkRgtGXzIIG0jKyxIqCR2": {
+      "nick": "Loncho"
+    },
+    "dcurjio5ryUilyHjfNAxbuqWRPv1": {
+      "nick": "Avenida"
+    },
+    "dy50tiRLRPbHUCyfQ5MQHc3hgTv1": {
+      "nick": "lade"
+    },
+    "dzhhUIQtLgWZLNjbUh1VEldo7Ju1": {
+      "nick": "kam"
+    },
+    "fQd3bfuCo5Q1K1lWqSSEtUfS2c73": {
+      "nick": "C24Henche"
+    },
+    "fidTF6qmOgMHQRm2l5m0WdudqwE2": {
+      "nick": "David"
+    },
+    "fjWf6qwSf6ORcL1wRURRck4RsOn2": {
+      "nick": "Rubenparra02"
+    },
+    "gI6lQUY8qPT54G0LS93GlaO4Z0q2": {
+      "nick": "Charly"
+    },
+    "h9zgR51KlQRrNO4zEp6MgRHxWd92": {
+      "nick": "Eusebio "
+    },
+    "heTSZvL88hdgFlLbA5qawbpClyt1": {
+      "nick": "blata"
+    },
+    "i2kSCSaUWLduTs3qZ8atu5swkcn2": {
+      "nick": "marcel"
+    },
+    "iM4PHjYy5AfLBItoZldIesatkGW2": {
+      "nick": "vitvader"
+    },
+    "kG5qzwmyV5Xj9XD2YYL0chwJazu2": {
+      "nick": "mvp"
+    },
+    "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+      "nick": "pirri_mori"
+    },
+    "pPBpZaNktiUohSyAjyjc86AEjDp1": {
+      "nick": "fito"
+    },
+    "pp8E4NVIHHNpFI8QdBWqr9EtvRi2": {
+      "nick": "JTR"
+    },
+    "ptm3YTZwOyO9u0ahBtXRPeZmgA42": {
+      "nick": "pablotrillo98"
+    },
+    "r3zhdpjnVZWb6ER2Yczlar2OTcG2": {
+      "nick": "ub30216"
+    },
+    "riHV1zOe3FcdgB2aMayawFJa5NE3": {
+      "nick": "a.lazaroalg@gmail.com"
+    },
+    "rnQvWp4aCPNciU44X7kp06VdlAp2": {
+      "nick": "rubenru"
+    },
+    "rzxzwFFBY7ZjeCBu2JefXgSuWMQ2": {
+      "nick": "KerryCaberga"
+    },
+    "tAnO7M2dGTh1D2jPOffD642S2VN2": {
+      "nick": "Alfrebabu"
+    },
+    "tIS80rWn4rafQsSg9tzvZZwYRAG3": {
+      "nick": "Mafalda"
+    },
+    "tPgd3ZTB4nONWO7w0OXlWtS2G2F3": {
+      "nick": "john"
+    },
+    "u2uqfLieN3RkhlgDY2K3N22uUA03": {
+      "nick": "Pepe"
+    },
+    "v5UzboKEG9c15yHB6jqAEEaU0mG3": {
+      "nick": "tito"
+    },
+    "wDwMoXN8PYWHRvrEEVmcEoeZiU72": {
+      "nick": "Pablocacho10"
+    },
+    "yJa6aBVf3vXoYG7GcAuFKcFb3h52": {
+      "nick": "Mota"
+    },
+    "z9dCe4zCBIalFsXXqyIuBvzPDq62": {
+      "nick": "jcarrillo"
+    },
+    "zg2Hl7QRzBZhDixUrSxcjmqED792": {
+      "nick": "Elitmos"
+    }
+  },
+  "repos": {
+    "acestream": {
+      "aref": [
+        "https://futbolgratis2.pages.dev"
+      ],
+      "dirs": [
+        "https://futbolgratis2.pages.dev"
+      ],
+      "initImage": "https://www.socialcreator.com",
+      "online": "iVBORw0KGgoAAAANSUhEUgAAAJ0AAAChCAYAAADdnr0AAAAI7klEQVR4Ae2dW27kOAxFC9nH7H8Fs6VZQGP+M3AGBE4pskuy9aCo+xHoWpYpkveUKl0J0q/vP69vfakHIxl4jdxMewnug4Em0L1er2997dGDFgfHbegE2R6QXfl8F8Bq6K6S0L09QayFrxi6K6C+/v361tcePbjioBS+IuhyGwmyPSA78znHxDFXAt5H6HLBzxLR/H4g5vj4BN4ldGlAQbUfVKnnZIL3OH/oK/BOoUuDcAPpPeFLmbBr48GubTwDrwg6C6pxT9gO3w2k3EgueL8KOj54aAaV3g+8lIf0mkyk93LgZU86PsiA0vsBd3hOHs402eCaIuj4AANJCziykdNkhPdT8H6ddFzMINL7QUcWSjQZ4XpBp5+eFH2PTmhK9S3oGJwBpPc65chBqc4xwmd52r29vXJRLojm4sNHBmp0jg0+L+j0Fpt9iyUkNToH3DHHGIJO0Am6s1eK5se9nfNUqtFXHjGOTjqddG8nHeGo1YJOML3BdAWE3auFjOstxtnItTrpBOcPnISiVp+BxnnGFHSC7u1floSjVBOuM81Ygm5z6AjDHX0GWTrP2IJuY+gIwl2dwnV2zfiCTtDdfns9Ayw3L+g2Bs2AIAR3tcUqGbmHTroNASQAd3UJaFzDfQTdZtDR/CeaQJVo7iXoNoKOxj/RJZCla7ifoNsEOpr+RKcwlV5zT0G3AXQ0/KkuhSxdx30FnaAr/sgkBanmWtBtAJoBQbOfaot5Z+TeOukCA0ijn+o7oPEZ7i/ogkJHk1toAnRHMwdBFxA6GtxC34EsfYZ5CLpg0NHcVjoF6M41cxF0gaCjsa30HcByzzAfQSfoTj8yycFzd07QBQLNIKCprbTFbjEyJ510AQCkoa10C9AYg3kJusWho5ktNYFpoZmboFsYOhrZUreALI3B/ATdotDRxNY6BabFNXMUdAtCRwNb6xaA5WIwT0En6N4+MskB02JO0C0ImhlP81pr26PHyFx10i0EII3roXvAZjGZr6BbBDqa1kMbHL1G5izoFoCOhvXQvUBjXOYt6JxDR7N6acLRSzN3QecYOhrVS/eCLI3L/AWdoKv+44kpUCXXgs4xaGYgTeqlba8RI2vQSecQQBrUU4+AzfZgHYLOGXQ0p6c2GEaNrEXQOYKOxvTWo2CzfViPoHMCHU3prQ2EkSNrEnQOoKMhvfVI0LgX6xJ0gk4fmfDVsYPmCdBbz+wna9NJN/GkoxEjtKCbaPbM5tveIyDjHrbvrJG56KSbAD8NGKVnwWb7sk5BNxg6Nn+UNuNnjqxV0A2Ejo0fqWfCZnuzXkEXHDozffYo6AaCZmaz6aO07e1hZM066QYAyIaP1B5gsxxYt6DrDB2bPVKb2V5G1i7oOkLHRo/WXmCzPFi/oOsEHZs8WpvRnkb2QNB1gI4NnqE9wWa5sA+CLhh0ZrK3UdB1AM1MZnNnaMvD28he6KRrCCAbO0N7A435sB+CrhF0bOosTZO9afZE0DWAjg2dpb1BlubDvgi6h9CxmbN0arDHa/ZmGnRM4tAeG/Upp7SGWdef8vRwn70ZDh03z2kPDSrNIZf/6LnSXGevY1+GQseNP+nZTfq0/6f8R93/lKeX++zHEOi4Ya320jTmUVtDr/XMybtmD7pCx42eaE8NfVJH62c99eVTLqy9G3TcpJX+VFjv+63qaBGnd62t47Pm5tAxeC/duiEl8XrVcjduSc6e1rDOZtAx6Cg9qqmj6indZ1TdLfdhbY+hY7BZumVzcrFm1ZXbN5ffCnOs5TZ0DOJF92i+l9osjx41johp+R/jLegYwJtu2cDItbXsU0ks9rIaOj7sWZc04mqNx9qu8vV+j/0MC50VeccMe9bTeKcOT8+wl+Ghs2JLDbD13sbS/L2uYz+3gc6KvjLF1ngbr3Je5R57uh10VnzOLLvnbczlutoce7otdEcTaByb4kkzx5U1e7o1dGyEV70yaMyd/RV0r9fb/2HP5szWNG11zV5WQ2fFM4h0e3Ctz1FGMiLonJ50UWCzOppAdwRjIOl2p50ZFWkkH7dPOjaEAaWfw8feRtHkogl0R2MYVPo+eFEgS+sgE82gE3j3QaMhqVlRrlljU+gE3jPwogCWq6MrdALvPng5s6LMdYdO4NWDFwWuszqGQCfwysE7MyrS/DDoBF4ZeJHgOqtlKHQC7xq8M5OizQ+HTuCdgxcNrrN6pkBnyXDz3bX1ZIeRXjf/nK6kgUxgZ13Sqyhr6PMU6I5GMokddRSYSuugx9Og2x28UrOirHMD3a7gRQGppg5X0O0GXo1Rkda6g24n8CKBVFOLS+h2AK/GpGhr3UIXHbxoINXU4xq6qODVGBRxrXvoIoIXEaSampaALhJ4NeZEXbsMdFHAiwpSTV1LQbc6eDXGRF67HHQrgxcZpJraloRuRfBqTIm+dlnozBgW4FVbrhq/fv4OIH2a+lsmTwxhER71k9oiPkuPloXuMIaFeNIRoXlaE/1ZGjqv4D01KOLzoaDzBl5EYFrUFA46T+C1MChijJDQeQAvIiytagoL3WzwWhkUMU5o6GaBFxGUljWFh240eC3NiRprC+hGghcVlJZ1bQPdCPBaGhM51lbQ9QYvMigta9sOul7gtTQleqwtoesBXnRQWtZXBN3xQ1kubJnAzFis6YmeWcNqe6d9Pv2Bf1TozLC0EbXXFkfj/78vd9UH9pbA/TD2awL/WdtV0FXvsRk1etV6Z+XN3v5i7NcEoDsenJV0z33ZkBLdM5eIsdnTlK/j+pWdBHgRm3LUxMZ80lF70Ksu9jPLV27y73/+ejOlV3Kz47I5Z3p2jqvtzz7m2DrmsiddCt0RaLXiS/Nlk3K6NI7W/X73qILuWCzw4r7QerxA0hfsGXCnJ509sCt4PUyJHLMGuI/QHQty4B2bRG6iavv8OdzRoxS249oOrKsx+z1d+sAZeLapTCozKUKfzPPcmHJzdl0E3fHwAd4n+HKJaO79R4sR+3EG19l8MXQWQODFh6j0hWFM1I7V0NkGOvn2hO/w3Ri4O96G7u6Geq7sm+3IfRJ0fwTBaMD/A95sILRO03UKAAAAAElFTkSuQmCC",
+      "pdir": [
+        "https://telegra.ph/El-diario-08-17fail",
+        "https://telegra.ph/Acestream-08-22fail"
+      ],
+      "txt": [
+        "https://raw.githubusercontent.com/pirrimori/acid/main/aces.txt"
+      ]
+    }
+  },
+  "role": {
+    "admins": {
+      "name": "kuko"
+    }
+  },
+  "streams": {
+    "-NDdUh6TQpYyy_2D1NcD": {
+      "created": 0,
+      "description": "",
+      "key": "-NDdUh6TQpYyy_2D1NcD",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "0fQXPfwgSMW9HBTM15YcmFYLZZF2",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13"
+        }
+      ],
+      "logo": "https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png",
+      "name": "M+LCAMPEON2",
+      "nickUid": "Beni",
+      "plays": 0,
+      "privacity": true,
+      "uid": "0fQXPfwgSMW9HBTM15YcmFYLZZF2"
+    },
+    "-NEHxRJqwZ7xMSX4hqJy": {
+      "created": 0,
+      "description": "Euroliga de baloncesto (T22/23): Barcelona - Real Madrid ",
+      "key": "-NEHxRJqwZ7xMSX4hqJy",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "6taKJVtA9vfTIPo8xWB6utaFxy43",
+          "url": "acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05"
+        }
+      ],
+      "logo": "https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",
+      "name": "DAZN 1 1080",
+      "nickUid": "javigarrafa",
+      "plays": 0,
+      "privacity": true,
+      "uid": "6taKJVtA9vfTIPo8xWB6utaFxy43"
+    },
+    "-NEHxUlEkxqC0ZlOYkC2": {
+      "created": 0,
+      "description": "Euroliga de baloncesto (T22/23): Barcelona - Real Madrid ",
+      "key": "-NEHxUlEkxqC0ZlOYkC2",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "6taKJVtA9vfTIPo8xWB6utaFxy43",
+          "url": "acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05"
+        }
+      ],
+      "logo": "https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",
+      "name": "DAZN 1 1080",
+      "nickUid": "javigarrafa",
+      "plays": 0,
+      "privacity": true,
+      "uid": "6taKJVtA9vfTIPo8xWB6utaFxy43"
+    },
+    "-NER-lrg-htuc9V87pNE": {
+      "created": 1665843535046,
+      "description": "ryjdfk",
+      "key": "-NER-lrg-htuc9V87pNE",
+      "logo": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ALJAZE.png",
+      "name": "Al Jazeera English",
+      "nickUid": "Pepe",
+      "plays": 0,
+      "privacity": true,
+      "uid": "u2uqfLieN3RkhlgDY2K3N22uUA03"
+    },
+    "-NJ2VZDVZhk2llDMr2HJ": {
+      "created": 0,
+      "description": "",
+      "key": "-NJ2VZDVZhk2llDMr2HJ",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "2pF4IbiEnJTNfzaweGYGYRcRrqB3",
+          "url": "acestream://4801364704e8b109783b61ae2842615785aa2c30"
+        }
+      ],
+      "logo": "https://es.web.img3.acsta.net/pictures/21/09/20/16/12/1450650.jpg",
+      "name": "Finch",
+      "nickUid": "Gallus",
+      "plays": 0,
+      "privacity": true,
+      "uid": "2pF4IbiEnJTNfzaweGYGYRcRrqB3"
+    },
+    "-NKZV9VxKzSF6ljW_cVV": {
+      "created": 1672428432135,
+      "description": "",
+      "id": "ES: Discovery Channel FHD",
+      "key": "-NKZV9VxKzSF6ljW_cVV",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "http://nmstreaming.live:25461/canas123/KPMGqCtvWmLs/2100605"
+        }
+      ],
+      "logo": "http://l3d.us:25461/images/42c67e5bb71e6f7e612e0f5ec557fcd8.png",
+      "name": "ES: Discovery Channel FHD",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NKZVKpeD1sSRoolghsN": {
+      "created": 1672428478516,
+      "description": "",
+      "id": "ES: Historia FHD",
+      "key": "-NKZVKpeD1sSRoolghsN",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "http://nmstreaming.live:25461/canas123/KPMGqCtvWmLs/2100607"
+        }
+      ],
+      "logo": "http://l3d.us:25461/images/838a653f2110c40cc1a1393bd306a2ac.png",
+      "name": "ES: Historia FHD",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NKZVw67P4dXGbFjMpTI": {
+      "created": 1672428635282,
+      "description": "",
+      "id": "ES: Odisea SD",
+      "key": "-NKZVw67P4dXGbFjMpTI",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "http://nmstreaming.live:25461/canas123/KPMGqCtvWmLs/2100583"
+        }
+      ],
+      "logo": "http://l3d.us:25461/images/831576acd585fbe847690893b643f0db.png",
+      "name": "ES: Odisea SD",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NL2i4o8BXg_qgmd32op": {
+      "created": 1675550442102,
+      "description": "Vamos",
+      "id": "#VAMOS HD",
+      "key": "-NL2i4o8BXg_qgmd32op",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "http://fulldat.gdatfull.xyz:8080/Varta006/L0gTzpWxOM/37155"
+        }
+      ],
+      "logo": "http://xyz.gdatfull.xyz:8080/images/f63a1d9780f4bdeb1937feb25368fde5.png",
+      "name": "#Vamos",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NL2iT6g_M5jBovPq2u3": {
+      "created": 1675550258788,
+      "description": "Eurosport1",
+      "id": "EUROSPORT1HD",
+      "key": "-NL2iT6g_M5jBovPq2u3",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "http://fulldat.gdatfull.xyz:8080/Varta006/L0gTzpWxOM/58148"
+        }
+      ],
+      "logo": "http://195.154.200.206/piconos/1_0_1_79E0_443_1_C00000_0_0_0.png",
+      "name": "Eurosport 1",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NL2ilNVDoXcQWJoNr8x": {
+      "created": 1675550211220,
+      "description": "M+ Depirtes",
+      "id": "M+DEPORTESHD",
+      "key": "-NL2ilNVDoXcQWJoNr8x",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "http://fulldat.gdatfull.xyz:8080/Varta006/L0gTzpWxOM/61841"
+        }
+      ],
+      "logo": "http://",
+      "name": "M+ Deportes",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NMdOlOVB1uf1TZC65gn": {
+      "created": 1674658184104,
+      "description": "p",
+      "id": "TOROS HD",
+      "key": "-NMdOlOVB1uf1TZC65gn",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "http://gho78prekqd2liaybsmd5r.esp.noaccesss.me:25461/live/smMf1DutvN/6125758821/376.ts?h=d9db1e823f366e5d163824a7d1eb0201&i=79.116.70.99&s=1661361782"
+        }
+      ],
+      "logo": "https://www.mundoplus.tv/wiki/_media/logos/torostv.png",
+      "name": "[ ESP] Toros",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NNRjBYyX10jDgZ3n2eF": {
+      "created": 1677336294986,
+      "description": "Liga Santander",
+      "id": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff",
+      "key": "-NNRjBYyX10jDgZ3n2eF",
+      "links": [
+        {
+          "cuality": "1080",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
+        }
+      ],
+      "logo": "https://s1.eestatic.com/2023/02/23/elbernabeu/real-madrid/futbol/743686630_231179558_1024x576.jpg",
+      "name": "DAZN La Liga",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NNRmmxtDLgts7KP71lG": {
+      "created": 1676804770350,
+      "description": "La Liga",
+      "id": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862",
+      "key": "-NNRmmxtDLgts7KP71lG",
+      "links": [
+        {
+          "cuality": "1080",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+        }
+      ],
+      "logo": "https://depor.com/resizer/mWsKNP7j8rcFUYDMhA7KKnnpaYo=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/DYVK3RA7GFEEZND34UMLCQXLTQ.jpg",
+      "name": "M+La Liga",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NNTAWPc4SDghSPrWkuD": {
+      "created": 1676804749420,
+      "description": "M+ LaLiga",
+      "id": "acestream://acestream://d47addf5e467cbf102ba759600303c21efb1deeb",
+      "key": "-NNTAWPc4SDghSPrWkuD",
+      "links": [
+        {
+          "cuality": "1080",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
+        }
+      ],
+      "logo": "https://depor.com/resizer/mWsKNP7j8rcFUYDMhA7KKnnpaYo=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/DYVK3RA7GFEEZND34UMLCQXLTQ.jpg",
+      "name": "M+ LaLiga",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NNTBFbUlF1syJloeUlB": {
+      "created": 1675543855341,
+      "description": "4k",
+      "id": "09f10eea5796d8abb05e3042cb577511c2e304dc",
+      "key": "-NNTBFbUlF1syJloeUlB",
+      "links": [
+        {
+          "cuality": "4k",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "09f10eea5796d8abb05e3042cb577511c2e304dc"
+        }
+      ],
+      "logo": "http://",
+      "name": "4k",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NNTDq4bdkMNQEP5XaF8": {
+      "created": 1675544453764,
+      "description": "Tenis",
+      "id": "16089ab3f31a2756cf2ba6d507ff367cce14df83",
+      "key": "-NNTDq4bdkMNQEP5XaF8",
+      "links": [
+        {
+          "cuality": "1080",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "16089ab3f31a2756cf2ba6d507ff367cce14df83"
+        }
+      ],
+      "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAACaCAMAAABxJmbFAAAAk1BMVEUgaEL////e21YfaEFllX3o7+vBylK80cb9/v3k7eiauqr09/VBfl5jlXpunIQrb0w6eVhYjXHG2c+luU+wybzc6OLS4NmQs6B8p5CiwLFSimx1oYo8e1kydFGDq5b2+fics07Lz1NIg2WWuKbA08mNqkx0m0pbi0dCfUYucUO2wlGEpUxrlklThkfV1VRKgUY3dkTqeEXCAAAHcElEQVR4nO2diXabOhCGxZWJBRgDDmAWYxKcdN/e/+muRmKXY+zULZXQ356aRTqH+TrSaAWEtLS0tLS0tLS0tLS0tLTuJIzwnTW3RbcqWN1ZLqr8uY26RZFxZ5lBsp/bqFt0fwDZ6ji3Ubfo/gDQwZvbqFv0BwDIpcUDWJuEarkAaNguKveYriPHMIDDb7OQDEAjjDw/yPfhziqXCACzv1zexk3sdfzukiElgLFog9Yrsu0+7TnEtTiUANCTtwmSUwgOsSQPaNV1bYpqdUxfaFVJJsqGWgAE1VWlWb4ZLhQH0MijsdOmsVN0h4UAANHywapKGjudrgGxIAA9sdgJVeVSAYCgwiyqbTL3c2hpaWlpXS8MMwNzP8Scenx8/fDx0+flMnj4D/Tj+cvT12/ff32GS8vyCA6g0Y9ncIifnzkDzP4oriGARs8PvGTM/XR/QecBtA5BS8bPuR/xz+oiAKaP57KpUzKmAQjlwPOlmvua0CSAL0KWnJjx2k7cDXDAgyFlCTUJ4INg3ZoNfBCDONYuPW6rYo7nvpsmAXwSsjijUUDqEOEpD+SaFG41BeBZyBGcHw4lxInW6dHdSFYepgA8CTlOas0LTAEQgiCOJwAo5gFCEPQnpogU84BzQXBRAL4KGcLL9qsGQOwIjIOg2gDEIJhN2K8YgCehSt8vC8A3If1EEFQNgBAEi8l1EkoBGAdBjLZT9qsF4PYgqBgAMQiaiwLwQ4gB1aT9SgF4GifGk0FQLQDvCIJqARCD4BXraBUC8CAkng6CSgH4KtSB00FQKQDfx2nxdBBUCcC7gqBKAB6F+Y7jsgCMgyBGu2UB+DVO6l21mUQZAGIQdK+xXx0Ar0LSdFkAhCCIrEUBEIPg5ir7lQFwJghet2tIFQAfxgnxVUFQHQDvDILKAHgQqgBX0X2DbwB4FQCkywLwUQAQLQuAMBi0UXXn6HkAj0K6q3qC6gAQgmC9Nm4xAIS1cd7UsgC1ADwLzcA31sapCkAMgvayAIzXxuEbXjajBICb18YpBkBcG5dcbb8SAIQF4vjqIKgGgOkF4moDeBZiwPVBUAkAT0Ii+4YXTEkGAL8+ChKHQ0/r6xXOYIWWlpbW/SW0hnqH7d7qTocs23iSbZehOlh9eVnvxEUB/KSQ7MjOUQgXKtY5sqwYIQ/OD/S+t7fgnVJOuJnZnps1mO8iXtA72fLpYAe2A+7ZOVsgQE6Qz2EB34PmAbXZi5t2glPNbNCtGo51MgBkCMDYYr5LoAFgQb4hADZv7MB7pEg8t0U3qkipYMQ7hgPEPCDlqjgAskYDAIYRoBEANmm09/jcSTa3SbeJ1VohfXDm2BxAe5N7QFmMAECtMAAA22gcyPBCD2R8lRYs/7PZ0TkAYNIAANQKAwAu7B+GDCfTNKV6r3atSwCopbsBAHrBPQOASFf/93QWAGYACC0exMc9ALTCC0cAKviJM3lfIzACYDPtuQfYtFwf+x4QEKP0RlEAhkwJ2a3k3EAvAGj79QxATv9z+wCKGCLkEIBbrx2IjnIiGAIgQwA0xpGqD2BvkJcRALRiq4hpabGCeU15n0YeEDHtagBoTRt/PQD+gdpZjACgAtrCLERI1g5gGnlAfRXXAFaEWH0AsFjoOAaAkeeGrCDs5rLiN3QpDNpsXvSFdABgkiAeA2DKoCAQCauBywDgNul5ACr4y4Q7AHkYhjkEQbaIQMIGwQSAukHYAmAt3j6AlNYKYZNdxhbRZQAYmWQIIB8B2ENnCjLAnqJS+iJA6t7gtgWQjjyALxkcNIUNQnsMVaRGJVgrbYoAykYewNfL9LrDsIyamCwQElfCBvEUAL5OvAdgNQSAgnbusJSxM4hsy7L457H6Y4InNibIru+tbkwQ3hzmRRaMCWL2C0Q2IXyBgZihbCNitwmPjgbflvOrjS9vf/C83h4Yx+N/GxQyEugbcyEJ7p9MZ5FJrp0e+TsB8Tbx0SHZ1jc2SdKU6W1Ca/dtwmN8ktAeT5KzHH4CCupEEjaCYCcIKY2ImxYZLq3io/qOzQdAQTGMBMZ1M5c2ezDiw6B13AgxT7RF8slzyMo3CX90AOCSBkBcllHt5zGEwQ4Abe+2AJw8z4M6kYwAKuLAwDgPg30AuCDxjhx4qtggL7gFQIx9B6BbEiInABc83q9fDBoZaZI2RWBlpCeS8+PY2JVFC8CJox6ALMuKOpGMALZtkUfN1wfrC6mRr0i94iU2ciPpABxJ1tUBBIZNeSIZAVAPgO/l8BPqAce0KQIRqQ6kdnBquxV3AHxid3WAbdsy1wEBsRA+mbwv0K8DfEIs2gnggZDabhOzBYB2pjJ1wIbQHvz6TCWYk9I0y9a7NzD90QJIiDIAWMVXkqA+7gCEMGG6Z5PDDABUEC2AomwBlOv12q4TxfRYuvcsZ/BtxbrBE5EOgEmPaQHhdsYEBn7q4S64tq5vBOzrczFvCLFjqb47zeRlQfPQvu8hz/fr4+5fVNCeXnODXWtO6C9VUScC/cUnv58u9GvwmyfnbyjTRdLS0tLS0tLS0tLS0tL6B/Q/VQB7tbTgzYYAAAAASUVORK5CYII=",
+      "name": "Tennis Chanel",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NNcMgdgYG_2CfZd2Ux3": {
+      "created": 1675714546747,
+      "description": "test",
+      "id": "test",
+      "key": "-NNcMgdgYG_2CfZd2Ux3",
+      "logo": "",
+      "name": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTEUA.png",
+      "nickUid": "demojoinace",
+      "plays": 0,
+      "privacity": true,
+      "uid": "POFq9eqofHOWIlFzhQnXQ6OZi5z2"
+    },
+    "-NOLbx6n-Z24Je1MlEOc": {
+      "created": 1676490559537,
+      "description": "",
+      "id": "LALIGATV BAR",
+      "key": "-NOLbx6n-Z24Je1MlEOc",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3"
+        }
+      ],
+      "logo": "https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg",
+      "name": "LaLiga Tv Bar 1080",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NOLbyC1uox-iYAdlNIQ": {
+      "created": 1676490563968,
+      "description": "",
+      "id": "LALIGATV BAR",
+      "key": "-NOLbyC1uox-iYAdlNIQ",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032"
+        }
+      ],
+      "logo": "https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg",
+      "name": "LaLiga Tv Bar 720",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NOQLbToSV1OTGx51UYA": {
+      "created": 1677178825207,
+      "description": "1080",
+      "id": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc",
+      "key": "-NOQLbToSV1OTGx51UYA",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
+        }
+      ],
+      "logo": "https://e.rpp-noticias.io/normal/2023/02/22/394039_1392529.jpg",
+      "name": "[ ESP] Liga de Campeones - 1080",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NOdKPIfejHkyJtI5MrX": {
+      "created": 1677336325399,
+      "description": "DzanLiga",
+      "id": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061",
+      "key": "-NOdKPIfejHkyJtI5MrX",
+      "links": [
+        {
+          "cuality": "1080",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
+        }
+      ],
+      "logo": "https://s1.eestatic.com/2023/02/23/elbernabeu/real-madrid/futbol/743686630_231179558_1024x576.jpg",
+      "name": "DaznLiga",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NOfVSTonp9cj3TrKFu4": {
+      "created": 1676840917849,
+      "description": "",
+      "id": "ES: M. Cine Español SD",
+      "key": "-NOfVSTonp9cj3TrKFu4",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "http://nmstreaming.live:25461/legends/xHNG8HCVQBtC/2100685"
+        }
+      ],
+      "logo": "http://l3d.us:25461/images/7312d808e8b085fe3427978a8b4d710a.png",
+      "name": "ES: M. Cine Español SD",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NOfVb21VtXqJZhwBqBt": {
+      "created": 1676840957031,
+      "description": "",
+      "id": "ES: M. Comedia HD",
+      "key": "-NOfVb21VtXqJZhwBqBt",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "http://nmstreaming.live:25461/legends/xHNG8HCVQBtC/2100677"
+        }
+      ],
+      "logo": "http://l3d.us:25461/images/55affa621060decf75fcd4fa73550c2d.png",
+      "name": "ES: M. Comedia HD",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NOfVdnOza5MWP9f318d": {
+      "created": 1676840968318,
+      "description": "",
+      "id": "ES: M. Drama HD",
+      "key": "-NOfVdnOza5MWP9f318d",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "http://nmstreaming.live:25461/legends/xHNG8HCVQBtC/2100671"
+        }
+      ],
+      "logo": "http://l3d.us:25461/images/14c774786a0da8b3859c42408f63ab83.png",
+      "name": "ES: M. Drama HD",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NOfVlO7ZyNI6I_WIEtb": {
+      "created": 1676840999405,
+      "description": "",
+      "id": "ES: M. Estrenos HD",
+      "key": "-NOfVlO7ZyNI6I_WIEtb",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "http://nmstreaming.live:25461/legends/xHNG8HCVQBtC/2100665"
+        }
+      ],
+      "logo": "http://l3d.us:25461/images/96f68e8ed150ff892d042131309c264d.png",
+      "name": "ES: M. Estrenos HD",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NOfW0g-4ZiQSlGB3ROA": {
+      "created": 1676841066148,
+      "description": "",
+      "id": "ES: Canal Cocina FHD",
+      "key": "-NOfW0g-4ZiQSlGB3ROA",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "http://nmstreaming.live:25461/legends/xHNG8HCVQBtC/2100592"
+        }
+      ],
+      "logo": "http://l3d.us:25461/images/48f2f194ab3167c9b0a38afedfff1164.png",
+      "name": "ES: Canal Cocina FHD",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NOk3V3-hb5Gm_RNt-PK": {
+      "created": 1676917472976,
+      "description": "test",
+      "id": "test",
+      "key": "-NOk3V3-hb5Gm_RNt-PK",
+      "logo": "",
+      "name": "test",
+      "nickUid": "demojoinace",
+      "plays": 0,
+      "privacity": true,
+      "uid": "POFq9eqofHOWIlFzhQnXQ6OZi5z2"
+    },
+    "-NOpRwDpXc6nuw2eDQYr": {
+      "created": 1677178979022,
+      "description": "Chempions\"",
+      "id": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b",
+      "key": "-NOpRwDpXc6nuw2eDQYr",
+      "links": [
+        {
+          "cuality": "4k",
+          "privacity": true,
+          "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1",
+          "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+        }
+      ],
+      "logo": "https://e.rpp-noticias.io/normal/2023/02/22/394039_1392529.jpg",
+      "name": "Barcelona",
+      "nickUid": "AlaTriste ",
+      "plays": 0,
+      "privacity": true,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "-NP--VIjXo92JqmnzIZw": {
+      "created": 1677184860956,
+      "description": "",
+      "id": "M+LCAMPEONES",
+      "key": "-NP--VIjXo92JqmnzIZw",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
+        }
+      ],
+      "logo": "https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",
+      "name": "M+ Liga de Campeones 1080 multiaudio",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NP8Xfn5l1hoxYaprgGw": {
+      "created": 1677344815854,
+      "description": "",
+      "id": "DAZN LaLigaHD",
+      "key": "-NP8Xfn5l1hoxYaprgGw",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
+        }
+      ],
+      "logo": "https://img.sport-tv-guide.live/images/stations/a2784.png",
+      "name": "DAZN LaLiga 1080 multiaudio",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NP8Xgg9R-n8YrqWv-UH": {
+      "created": 1677344819506,
+      "description": "",
+      "id": "DAZN LaLigaHD",
+      "key": "-NP8Xgg9R-n8YrqWv-UH",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
+        }
+      ],
+      "logo": "https://img.sport-tv-guide.live/images/stations/a2784.png",
+      "name": "DAZN LaLiga 1080 multiaudio",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NP8XhhNxZiYswZqRkrI": {
+      "created": 1677344823680,
+      "description": "",
+      "id": "DAZN LaLigaHD",
+      "key": "-NP8XhhNxZiYswZqRkrI",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6"
+        }
+      ],
+      "logo": "https://img.sport-tv-guide.live/images/stations/a2784.png",
+      "name": "DAZN LaLiga 720",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPCXLxbCmOtpmlYvRkL": {
+      "created": 1677411839368,
+      "description": "",
+      "id": "M+ LaLiga HD",
+      "key": "-NPCXLxbCmOtpmlYvRkL",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+        }
+      ],
+      "logo": "https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",
+      "name": "M+ LaLiga 1080 multiaudio",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPCXMuBRDjS1-LTAIE3": {
+      "created": 1677411843245,
+      "description": "",
+      "id": "M+ LaLiga HD",
+      "key": "-NPCXMuBRDjS1-LTAIE3",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
+        }
+      ],
+      "logo": "https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",
+      "name": "M+ LaLiga 1080 multiaudio",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPCXOU0L0FrwfxzceSy": {
+      "created": 1677411849698,
+      "description": "",
+      "id": "M+ LaLiga HD",
+      "key": "-NPCXOU0L0FrwfxzceSy",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
+        }
+      ],
+      "logo": "https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",
+      "name": "M+ LaLiga 720",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPCXQq7S8td4iyq_88Y": {
+      "created": 1677411859369,
+      "description": "",
+      "id": "LaLiga SmartbankTV",
+      "key": "-NPCXQq7S8td4iyq_88Y",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+        }
+      ],
+      "logo": "https://i.postimg.cc/CKxJXggY/ligasmartbank.png",
+      "name": "M+ LaLiga Smartbank 1080",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPCXS-gBNKEqlFb5uZF": {
+      "created": 1677411864141,
+      "description": "",
+      "id": "LaLiga SmartbankTV",
+      "key": "-NPCXS-gBNKEqlFb5uZF",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
+        }
+      ],
+      "logo": "https://i.postimg.cc/CKxJXggY/ligasmartbank.png",
+      "name": "M+ LaLiga Smartbank 720",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPYSJ7c349TUCdglj42": {
+      "created": 1677779615797,
+      "description": "",
+      "group": "Todos",
+      "id": "LA1HD",
+      "key": "-NPYSJ7c349TUCdglj42",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gmH5l42ztYt4qXCTcf2ZFeMqY5BmKUHDzHR72dhTZeVH"
+        }
+      ],
+      "logo": "http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png",
+      "name": "|ES| LA 1 FHD",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPYSKO_ZGrQQreDla2N": {
+      "created": 1677779620978,
+      "description": "",
+      "group": "Todos",
+      "id": "LA 1",
+      "key": "-NPYSKO_ZGrQQreDla2N",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "http://protocol.solanaflix.com:8080/play/8UsjiGTG0Yq2FXE3n_m0gmH5l42ztYt4qXCTcf2ZFePPS1_MJD19hGSxS_Bjb8mH"
+        }
+      ],
+      "logo": "http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png",
+      "name": "LA 1",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPYSMBTgSPD1ijK3FKF": {
+      "created": 1677779628331,
+      "description": "",
+      "group": "Todos",
+      "id": "ES: LA 1",
+      "key": "-NPYSMBTgSPD1ijK3FKF",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "http://fleedeed.top:8080/861665542246254021/9481665542246254/5622"
+        }
+      ],
+      "logo": "https://docdog.top/Logotv/countries//la1.png",
+      "name": "ES: LA 1",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPYTJ5NqF6Bvifox3Kp": {
+      "created": 1677779877797,
+      "description": "",
+      "group": "Todos",
+      "id": "ES: TAQUILLA 1",
+      "key": "-NPYTJ5NqF6Bvifox3Kp",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "http://fleedeed.top:8080/861665542246254021/9481665542246254/29327"
+        }
+      ],
+      "logo": "https://docdog.top/Logotv/countries/spain/TAQUILLA_1.png",
+      "name": "ES: TAQUILLA 1",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPYTJpm9384wsArVZJr": {
+      "created": 1677779880831,
+      "description": "",
+      "group": "Todos",
+      "id": "ES: TAQUILLA 2",
+      "key": "-NPYTJpm9384wsArVZJr",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "http://fleedeed.top:8080/861665542246254021/9481665542246254/29328"
+        }
+      ],
+      "logo": "https://docdog.top/Logotv/countries/spain/TAQUILLA_2.png",
+      "name": "ES: TAQUILLA 2",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPYTKcw51jjnuW3uofk": {
+      "created": 1677779884105,
+      "description": "",
+      "group": "Todos",
+      "id": "ES: TAQUILLA 3",
+      "key": "-NPYTKcw51jjnuW3uofk",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "http://fleedeed.top:8080/861665542246254021/9481665542246254/29329"
+        }
+      ],
+      "logo": "https://docdog.top/Logotv/countries/spain/TAQUILLA_3.png",
+      "name": "ES: TAQUILLA 3",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPYTLWXwBiaErRRKik_": {
+      "created": 1677779887727,
+      "description": "",
+      "group": "Todos",
+      "id": "ES: TAQUILLA 4",
+      "key": "-NPYTLWXwBiaErRRKik_",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "http://fleedeed.top:8080/861665542246254021/9481665542246254/29330"
+        }
+      ],
+      "logo": "https://docdog.top/Logotv/countries/spain/TAQUILLA_4.png",
+      "name": "ES: TAQUILLA 4",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "-NPYTMDuo_NVv0WRgBAl": {
+      "created": 1677779890631,
+      "description": "",
+      "group": "Todos",
+      "id": "ES: TAQUILLA 5",
+      "key": "-NPYTMDuo_NVv0WRgBAl",
+      "links": [
+        {
+          "cuality": "Desconocida",
+          "privacity": true,
+          "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2",
+          "url": "http://fleedeed.top:8080/861665542246254021/9481665542246254/29331"
+        }
+      ],
+      "logo": "https://docdog.top/Logotv/countries/spain/TAQUILLA_5.png",
+      "name": "ES: TAQUILLA 5",
+      "nickUid": "kuko",
+      "plays": 0,
+      "privacity": true,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    }
+  },
+  "tokens": {
+    "6taKJVtA9vfTIPo8xWB6utaFxy43": "ePgKwaAHTFmfdKewzmP1Nr:APA91bFQxcXYvwwt90Nq2dFc-l2JVwla9El5iQTGJCs4I8aYu3Lxuewrvtck5hNbezkcDfvdekjvbuQG-LyVkDrxZ-eMzG76xHe-KIryCHWr3zCLMe6Uh8gXLSde4ovOiNdonmh1CjId",
+    "FM01fuF8qbPll3BmKLFeZ82bq0P2": ""
+  },
+  "users": {
+    "0woVcVU1WXXCoQTX5WNlAN37FYv2": {
+      "active": true,
+      "email": "ronovella77@gmail.com",
+      "free": true,
+      "loginDate": 1662068017709,
+      "nick": "ronovella",
+      "role": "client",
+      "sessionTime": 1678746949562,
+      "uid": "0woVcVU1WXXCoQTX5WNlAN37FYv2"
+    },
+    "6taKJVtA9vfTIPo8xWB6utaFxy43": {
+      "active": true,
+      "email": "javigarrafa@hotmail.com",
+      "free": false,
+      "loginDate": 1650197914362,
+      "nick": "javigarrafa",
+      "role": "client",
+      "sessionTime": 1679097857594,
+      "uid": "6taKJVtA9vfTIPo8xWB6utaFxy43"
+    },
+    "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2": {
+      "active": true,
+      "email": "farrita2005@gmail.com",
+      "free": false,
+      "loginDate": 1651374819616,
+      "nick": "farra",
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "uid": "7SnVh5lJ1xS8m4AiHcS0E9fDTkC2"
+    },
+    "8raevKiMapWE9FaOuOOKKXNvQKr1": {
+      "active": true,
+      "email": "lucaseldelatele@gmail.com",
+      "free": true,
+      "loginDate": 1660417770161,
+      "nick": "AlaTriste ",
+      "role": "client",
+      "sessionTime": 1678301655104,
+      "uid": "8raevKiMapWE9FaOuOOKKXNvQKr1"
+    },
+    "FM01fuF8qbPll3BmKLFeZ82bq0P2": {
+      "active": true,
+      "email": "pirrimori6@gmail.com",
+      "free": true,
+      "loginDate": 1661875389131,
+      "nick": "kuko",
+      "role": "client",
+      "sessionTime": 1680467601063,
+      "uid": "FM01fuF8qbPll3BmKLFeZ82bq0P2"
+    },
+    "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3": {
+      "active": true,
+      "email": "oscar13982000@yahoo.es",
+      "free": true,
+      "loginDate": 1661868708850,
+      "nick": "djkokas",
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "uid": "IBAZ5R6nCMXoUXWmxf2Cj0NQPoC3"
+    },
+    "POFq9eqofHOWIlFzhQnXQ6OZi5z2": {
+      "active": true,
+      "email": "demojoinace@joinace.com",
+      "free": true,
+      "loginDate": 1661814515811,
+      "nick": "demojoinace",
+      "role": "client",
+      "sessionTime": 1678306303941,
+      "uid": "POFq9eqofHOWIlFzhQnXQ6OZi5z2"
+    },
+    "mY8GUrCGe4O2RKtJY4KHVpP1smu1": {
+      "active": true,
+      "email": "pirri_mori@yahoo.es",
+      "free": true,
+      "loginDate": 1649526076498,
+      "nick": "pirri_mori",
+      "role": "client",
+      "sessionTime": 1678752408675,
+      "uid": "mY8GUrCGe4O2RKtJY4KHVpP1smu1"
+    },
+    "v5UzboKEG9c15yHB6jqAEEaU0mG3": {
+      "active": true,
+      "email": "titovago@yahoo.es",
+      "free": true,
+      "loginDate": 1662208989590,
+      "nick": "tito",
+      "role": "client",
+      "sessionTime": 1984676274969,
+      "uid": "v5UzboKEG9c15yHB6jqAEEaU0mG3"
+    }
+  },
+  "version": {
+    "free": {
+      "changelog": "Cambios v.1.0.4: -Siento las molestias, nos vemos en el play store. Saludos",
+      "number": "27",
+      "url": ""
+    },
+    "tv": {
+      "changelog": "Cambios v.1.0.1: -Primera versión",
+      "number": "1.0.1-tv",
+      "url": "https://firebasestorage.googleapis.com/v0/b/joinace-8eab8.appspot.com/o/JoinAce-v1.0.1-tv.apk?alt=media&token=ee759bba-2d44-4d0d-a79d-db87389ce6e6"
+    }
+  }
+}
