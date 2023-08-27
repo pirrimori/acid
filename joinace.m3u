@@ -2,6 +2,22 @@
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NpNJvq8/4klogo.jpg" group-title="www.elcano.top", Barcelona vs Villareal [4k]
+acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/NpNJvq8/4klogo.jpg" group-title="www.elcano.top", DAZN F1 4k (Formula 1)
+acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899
+
+
+#EXTINF:-1 tvg-id="Gol Mundial 1" tvg-logo="https://i.ibb.co/Dg33r5M/golmund.png" group-title="www.elcano.top", Gol Mundial 1
+acestream://78384a676407784df944243eb2f75d937fbcc253
+#EXTINF:-1 tvg-id="Gol Mundial 2" tvg-logo="https://i.ibb.co/Dg33r5M/golmund.png" group-title="www.elcano.top", Gol Mundial 2
+acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 tvg-id="Gol Mundial 3" tvg-logo="https://i.ibb.co/Dg33r5M/golmund.png" group-title="www.elcano.top", Gol Mundial 3
+acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
+#EXTINF:-1 tvg-id="Gol Mundial 4" tvg-logo="https://i.ibb.co/Dg33r5M/golmund.png" group-title="www.elcano.top", Gol Mundial 4
+acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
+
+
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://i.ibb.co/6s4cJw6/la1.jpg" group-title="www.elcano.top", LA 1
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://i.ibb.co/6s4cJw6/la1.jpg" group-title="www.elcano.top", LA 1 UHD
@@ -17,9 +33,9 @@ acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 720
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 2 1080
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 2 720
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 3 1080
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 4 1080
