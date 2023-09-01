@@ -1,14 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NpNJvq8/4klogo.jpg" group-title="www.elcano.top", Barcelona vs Villareal [4k]
-acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/NpNJvq8/4klogo.jpg" group-title="www.elcano.top", DAZN F1 4k (Formula 1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" group-title="www.elcano.top",DAZN F1 y M+ LaLiga TV
 acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899
 
-
-#EXTINF:-1 tvg-id="Gol Mundial 1" tvg-logo="https://i.ibb.co/Dg33r5M/golmund.png" group-title="www.elcano.top", Gol Mundial 1
+#EXTINF:-1 tvg-id="Gol Mundial" tvg-logo="https://i.ibb.co/Dg33r5M/golmund.png" group-title="www.elcano.top", Gol Mundial 1
 acestream://78384a676407784df944243eb2f75d937fbcc253
 #EXTINF:-1 tvg-id="Gol Mundial 2" tvg-logo="https://i.ibb.co/Dg33r5M/golmund.png" group-title="www.elcano.top", Gol Mundial 2
 acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
@@ -243,4 +239,9 @@ acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 acestream://e40b29774fdfd953751a71f5695f647726623b9d
 #EXTINF:-1 tvg-id="ESPN 3 Colombia" tvg-logo="https://tinyurl.com/9mx5x28p" group-title="www.elcano.top", ESPN 3 Colombia
 acestream://b97f5975dbd067655432512d4693b417bc85a714
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NpNJvq8/4klogo.jpg" group-title="www.elcano.top",  [4k]
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NpNJvq8/4klogo.jpg" group-title="www.elcano.top", 
 
