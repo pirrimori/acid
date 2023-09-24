@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/MG3Vc2xT/elevensports14k.png" ,Eleven Sports 1 (Polonia)
+#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/MG3Vc2xT/elevensports14k.png" ,Eleven Sports 1 4K
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" ,DAZN F1
+#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" ,DAZN F1 4K
 acestream://eeb0192c25538dbf09c1fd08b0ebca4864a8263a
-#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" ,DAZN F1 alt.
+#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" ,DAZN F1 4K alt.
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
-#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" ,M+ LaLiga TV
-acestream://be071f7a5977de40f8f024a8ae582e799a6c4b8c
-#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" ,M+ LaLiga TV alt.
+#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" ,M+ LaLiga TV UHD
+acestream://8286183314d367940409b760bbf887f3fb923f60
+#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" ,M+ LaLiga TV UHD alt.
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://i.postimg.cc/GmVXhmvs/dazn1.png" ,DAZN 1 1080p
@@ -358,12 +358,3 @@ acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports2.png" ,Setanta Sports +
 acestream://0528a1cecd81efd3ec72f49bd32fa847bc924abf
-
-#EXTINF:-1 group-title="Torrent2Acestream (a petición)" tvg-id="" tvg-logo="" ,EL INICIO PUEDE DEMORARSE UNOS MINUTOS
-http://
-#EXTINF:-1 group-title="Torrent2Acestream (a petición)" tvg-id="" tvg-logo="https://pics.filmaffinity.com/scream_vi-826495425-mmed.jpg" ,Scream VI
-acestream://eee55e3af2ad492cc7cef9b8587f7b5a9b2ad565
-#EXTINF:-1 group-title="Torrent2Acestream (a petición)" tvg-id="" tvg-logo="https://pics.filmaffinity.com/the_super_mario_bros_movie-521125124-mmed.jpg" ,Super Mario Bros. La Película
-acestream://ea36a8a134fd2a0a777b1eec0716a85516c239ef
-#EXTINF:-1 group-title="Torrent2Acestream (a petición)" tvg-id="" tvg-logo="https://pics.filmaffinity.com/avatar_the_way_of_water-722646748-mmed.jpg" ,Avatar. El Sentido del Agua
-acestream://6741b5e0d29492c284236e3fed4c758d571e284e
