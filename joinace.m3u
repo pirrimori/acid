@@ -1,11 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" group-title="www.elcano.top",OFF
-acestream://eeb0192c25538dbf09c1fd08b0ebca4864a8263a
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" group-title="www.elcano.top",OFF
-acestream://be071f7a5977de40f8f024a8ae582e799a6c4b8c
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" group-title="www.elcano.top", MultiAudio  OFF [4k]
+acestream://8286183314d367940409b760bbf887f3fb923f60
 
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="www.elcano.top", LA 1
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
@@ -35,7 +32,6 @@ acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 6 1080
 acestream://c896d37778f9e43549a788fc22206a655895b51b
-
 
 
 #EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="www.elcano.top", DAZN LaLiga 1080 multiaudio
@@ -88,7 +84,6 @@ acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-id="M+ Ellas Vamos" tvg-logo="https://i.ibb.co/x802LNW/ellas.png" group-title="www.elcano.top", #Ellas 1080
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
-
 #EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 1080
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 720
@@ -111,6 +106,7 @@ acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 tvg-id="M+ Deportes 8" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 8 SD
 acestream://
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 1080 MultiAudio
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 1080 MultiAudio
@@ -128,28 +124,33 @@ acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 3 1080
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 3 SD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 3 720
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 4 SD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 4 1080
 acestream://1b48d5881337c87b89e1edefff6688fe2271d222
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 5 SD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 5 1080
 acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 6 SD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 6 1080
 acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 7 SD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 7 1080
 acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 8 1080
+acestream://1a4b41c02e116ed19a505551a9caa79f54c027f7
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 8 SD
-acestream://fdd9e3660059051660dbd7857443c2b807f258d0
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 9 SD
-acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
+acestream://7244379f8f6382d40afec871fb8e4219a803840b
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 10 SD
-acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
+acestream://d42e1b592b840ea34394fd3e1b1d3a4d0f399213
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 11 SD
-acestream://57e284a3c13100baeff7a88dc50949585c9f1277
+acestream://e737c681a92a4328703761c6ed9d8a951655f3e4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 12 SD
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 13 SD
+acestream://60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 17" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 17 SD
+acestream://60296c246e3596f334903fefd48cfaa724a5053b
+
 
 
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://i.ibb.co/fdHQYXQ/Golf.jpg" group-title="www.elcano.top", M. Golf 1080
@@ -170,6 +171,8 @@ acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co/Qjk9GPx/DAZN4.jpg" group-title="www.elcano.top", DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+
+
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="www.elcano.top", DAZN F1 UHD (Formula 1)
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="www.elcano.top", DAZN F1 1080 (Formula 1)
@@ -180,7 +183,6 @@ acestream://9dad717d99b29a05672166258a77c25b57713dd5
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
 
-
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" group-title="www.elcano.top", EuroSport 1 1080
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" group-title="www.elcano.top", EuroSport 2 1080
@@ -189,7 +191,6 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="www.elcano.top", tdp 1080  (TeleDeporte) 
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-
 
 
 #EXTINF:-1 tvg-id="TENNIS CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Tennis_Channel_2022_horizontal.svg/revision/latest/scale-to-width-down/200?cb=20221201171719" group-title="www.elcano.top", TENNIS CHANNEL
@@ -216,13 +217,13 @@ acestream://41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 tvg-id="BARCA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="www.elcano.top", BARCA TV HD
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 
-#EXTINF:-1 tvg-id="Dazn liga F 1" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1324112461" group-title="www.elcano.top", Dazn liga F 1
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 1" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1324112461" group-title="www.elcano.top", Dazn liga F 1
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-id="Dazn liga F 2" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1324112461" group-title="www.elcano.top", Dazn liga F 2
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 2" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1324112461" group-title="www.elcano.top", Dazn liga F 2
 acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1 tvg-id="Dazn liga F 3" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1324112461" group-title="www.elcano.top", Dazn liga F 3
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 3" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1324112461" group-title="www.elcano.top", Dazn liga F 3
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 tvg-id="Dazn liga F 4" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1324112461" group-title="www.elcano.top", Dazn liga F 4
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 4" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1324112461" group-title="www.elcano.top", Dazn liga F 4
 acestream://e454681a152a86da504e63694f17f90d0586867d
 
 
