@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" group-title="www.elcano.top", MultiAudio  OFF [4k]
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" group-title="www.elcano.top", F1 [4k]
+acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" group-title="www.elcano.top", LaLiga UHD Multiaudio (Real Madrid - Osasuna) 16.00h
 acestream://8286183314d367940409b760bbf887f3fb923f60
 
 
@@ -11,8 +11,10 @@ acestream://8286183314d367940409b760bbf887f3fb923f60
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="www.elcano.top", LA 1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/823px-Logo_TVE-2.svg.png" group-title="www.elcano.top", LA 2 
 acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
+
 #EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top",M. Laliga 1440p
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top",M. Laliga 1080p
@@ -35,7 +37,6 @@ acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 6 1080
 acestream://c896d37778f9e43549a788fc22206a655895b51b
-
 
 
 #EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="www.elcano.top", DAZN LaLiga 1080 multiaudio
@@ -67,7 +68,7 @@ acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://i.ibb.co/CHv2fdP/hypermotion.png" group-title="www.elcano.top", LaLiga Hypermotion 2 720
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://i.ibb.co/CHv2fdP/hypermotion.png" group-title="www.elcano.top", LaLiga Hypermotion 3 1080
-acestream://59ba45b79152e4599144177b234f6491fc19db53
+acestream://b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4 HD" tvg-logo="https://i.ibb.co/CHv2fdP/hypermotion.png" group-title="www.elcano.top", LaLiga Hypermotion 4 
 acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 5 HD" tvg-logo="https://i.ibb.co/CHv2fdP/hypermotion.png" group-title="www.elcano.top", LaLiga Hypermotion 5
@@ -139,10 +140,9 @@ acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
 acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 7 1080
 acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
-
-
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 8 1080
-acestream://1a4b41c02e116ed19a505551a9caa79f54c027f7
+acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
+
 
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 9 SD
@@ -157,7 +157,6 @@ acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 acestream://60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 17" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 17 SD
 acestream://60296c246e3596f334903fefd48cfaa724a5053b
-
 
 
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://i.ibb.co/fdHQYXQ/Golf.jpg" group-title="www.elcano.top", M. Golf 1080
