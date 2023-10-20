@@ -1,10 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" group-title="www.elcano.top", F1 [4k]
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" group-title="www.elcano.top", F1 [4k] OFF
 acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" group-title="www.elcano.top", LaLiga UHD Multiaudio (Real Madrid - Osasuna) 16.00h
-acestream://8286183314d367940409b760bbf887f3fb923f60
 
 
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="www.elcano.top", LA 1
@@ -15,7 +13,7 @@ acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/823px-Logo_TVE-2.svg.png" group-title="www.elcano.top", LA 2 
 acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top",M. Laliga 1440p
+#EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top",M. Laliga UHD
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top",M. Laliga 1080p
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
@@ -140,9 +138,9 @@ acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
 acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 7 1080
 acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 8 1080
 acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
-
 
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="www.elcano.top", M.L. Campeones 9 SD
@@ -223,9 +221,9 @@ acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 
 
 #EXTINF:-1 tvg-id="DAZN LaLiga Femenina 1" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1324112461" group-title="www.elcano.top", Dazn liga F 1
-acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
 #EXTINF:-1 tvg-id="DAZN LaLiga Femenina 2" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1324112461" group-title="www.elcano.top", Dazn liga F 2
-acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 tvg-id="DAZN LaLiga Femenina 3" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1324112461" group-title="www.elcano.top", Dazn liga F 3
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 tvg-id="DAZN LaLiga Femenina 4" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/e2/b9/finetwork-liga-f-logo_1nplfjmbaim4j18c8rp6ms1qy1.jpg?t=-1324112461" group-title="www.elcano.top", Dazn liga F 4
@@ -256,11 +254,4 @@ acestream://b97f5975dbd067655432512d4693b417bc85a714
 
 #EXTINF:-1 tvg-id="Gol Mundial" tvg-logo="https://i.ibb.co/Dg33r5M/golmund.png" group-title="www.elcano.top", Gol Mundial 1
 acestream://78384a676407784df944243eb2f75d937fbcc253
-#EXTINF:-1 tvg-id="Gol Mundial 2" tvg-logo="https://i.ibb.co/Dg33r5M/golmund.png" group-title="www.elcano.top", Gol Mundial 2
-acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1 tvg-id="Gol Mundial 3" tvg-logo="https://i.ibb.co/Dg33r5M/golmund.png" group-title="www.elcano.top", Gol Mundial 3
-acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
-#EXTINF:-1 tvg-id="Gol Mundial 3" tvg-logo="https://i.ibb.co/Dg33r5M/golmund.png" group-title="www.elcano.top", Gol Mundial 3
-acestream://d6d5775a2965b15ee405278b6a2e5a4374a80e25
-#EXTINF:-1 tvg-id="Gol Mundial 4" tvg-logo="https://i.ibb.co/Dg33r5M/golmund.png" group-title="www.elcano.top", Gol Mundial 4
-acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
+
