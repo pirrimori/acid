@@ -176,7 +176,8 @@ acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co/Qjk9GPx/DAZN4.jpg" group-title="www.elcano.top", DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
-
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="www.elcano.top", DAZN F1 Multicamara
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="www.elcano.top", DAZN F1 UHD (Formula 1)
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="www.elcano.top", DAZN F1 1080 (Formula 1)
