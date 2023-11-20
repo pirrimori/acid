@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" group-title="www.elcano.top", F1 [4k] OFF
 acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
 
+
+
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="www.elcano.top", LA 1
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 tvg-id="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="www.elcano.top", LA 1 UHD
@@ -10,6 +12,7 @@ acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/823px-Logo_TVE-2.svg.png" group-title="www.elcano.top", LA 2 
 acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
+
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top",M. Laliga UHD
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
@@ -90,7 +93,7 @@ acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 1080
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 720
-acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
 
 
 #EXTINF:-1 tvg-id="M+ Deportes 2" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="www.elcano.top", M. Deportes 2 1080
