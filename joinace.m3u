@@ -49,7 +49,7 @@ acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="www.elcano.top", DAZN LaLiga 2 1080
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="www.elcano.top", DAZN LaLiga 2 720
-acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 tvg-id="DAZN LaLiga 3 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="www.elcano.top", DAZN LaLiga 3 1080
 acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 #EXTINF:-1 tvg-id="DAZN LaLiga 4 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="www.elcano.top", DAZN LaLiga 4 1080
@@ -80,6 +80,8 @@ acestream://446e73a22582921393b020ed08b768ad8e14d754
 acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://i.ibb.co/cLsK1Tx/movistarplus.png" group-title="www.elcano.top", Movistar Plus+ HD
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 tvg-id="Movistar SuperCopa 1080" tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png" group-title="www.elcano.top", Movistar SuperCopa 1080
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 tvg-id="M+ Vamos" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="www.elcano.top", #Vamos 1080
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-id="M+ Vamos" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="www.elcano.top", #Vamos 720
