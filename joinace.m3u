@@ -80,8 +80,17 @@ acestream://446e73a22582921393b020ed08b768ad8e14d754
 acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://i.ibb.co/cLsK1Tx/movistarplus.png" group-title="www.elcano.top", Movistar Plus+ HD
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+
 #EXTINF:-1 tvg-id="Movistar SuperCopa 1080" tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png" group-title="www.elcano.top", Movistar SuperCopa 1080
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+#EXTINF:-1 tvg-id="Movistar SuperCopa 1080" tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png" group-title="www.elcano.top", Movistar SuperCopa 1080 MultiAudio
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+#EXTINF:-1 tvg-id="Movistar SuperCopa 1080" tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png" group-title="www.elcano.top", Movistar SuperCopa 1080
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
+#EXTINF:-1 tvg-id="Movistar SuperCopa 1080" tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png" group-title="www.elcano.top", Movistar SuperCopa 720
+acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
+
+
 #EXTINF:-1 tvg-id="M+ Vamos" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="www.elcano.top", #Vamos 1080
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-id="M+ Vamos" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="www.elcano.top", #Vamos 720
