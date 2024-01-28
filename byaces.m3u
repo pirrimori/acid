@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 
 #EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/MG3Vc2xT/elevensports14k.png" ,Eleven Sports 1 4K
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
@@ -42,7 +42,7 @@ acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA 2" tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png" ,DAZN LaLiga 2 1080p
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA 2" tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png" ,DAZN LaLiga 2 720p
-acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
 #EXTINF:-1 group-title="DAZN Liga F" tvg-id="" tvg-logo="" ,DAZN Liga F
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
@@ -159,111 +159,6 @@ acestream://e737c681a92a4328703761c6ed9d8a951655f3e4
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" ,M+ Liga de Campeones 13
 acestream://60296c246e3596f334903fefd48cfaa724a5053b
-
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="AMC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" ,AMC
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55457&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="AMC Break" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" ,AMC Break
-http://45.139.122.199:80/play/live.php?mac=00:1a:79:AE:6C:8A&stream=473005&extension=ts&play_token=l5YgvW1vWt
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="AMC Crime" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" ,AMC Crime
-http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30195&extension=ts&play_token=r1nxRzEN75
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="AXN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" ,AXN
-http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30249&extension=ts&play_token=KCWFyiRk9i
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="AXN Movies" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" ,AXN Movies
-http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30250&extension=ts&play_token=KCWFyiRk9i
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Calle 13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" ,Calle 13
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55466&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Canal Cocina" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" ,Canal Cocina
-http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30212&extension=ts&play_token=r1nxRzEN75
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Caza y Pesca" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" ,Caza y Pesca
-http://45.139.122.199:80/play/live.php?mac=00:1a:79:AE:6C:8A&stream=48691&extension=ts&play_token=Rx39CKdBjW
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" ,DAZN 1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55482&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="DAZN 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" ,DAZN 2
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=82270&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="DAZN 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" ,DAZN 3
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55558&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="DAZN F1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55551&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Canal Decasa" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" ,Decasa
-http://45.139.122.199:80/play/live.php?mac=00:1a:79:AE:6C:8A&stream=48705&extension=ts&play_token=OvU1NgikwX
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Canal Decasa" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" ,Decasa alt.
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55604&extension=ts&play_token=IA1od63hX9
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="DreamWorks" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" ,DreamWorks
-http://45.139.122.199:80/play/live.php?mac=00:1a:79:AE:6C:8A&stream=100156&extension=ts&play_token=kSCaqOefpW
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Comedy Central" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" ,Comedy Central
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55468&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="COSMO" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" ,Cosmo
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55470&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Discovery" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" ,Discovery
-http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30194&extension=ts&play_token=H9QHtyNjwN
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Enfamilia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" ,Enfamilia
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55513&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Eurosport 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,EuroSport 1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=82288&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Eurosport 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,EuroSport 2
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55535&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Fox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" ,Fox
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55475&extension=ts&play_token=g0Q6iErq0N
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Historia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" ,Historia
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Hollywood" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" ,Hollywood
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55479&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Iberalia TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" ,Iberalia Tv
-http://45.139.122.199:80/play/live.php?mac=00:1a:79:AE:6C:8A&stream=100141&extension=ts&play_token=LDXn6aCdxq
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="La Resistencia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png" ,La Resistencia
-http://45.139.122.199:80/play/live.php?mac=00:1a:79:AE:6C:8A&stream=473004&extension=ts&play_token=m0sTMwZUUf
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Acción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" ,M+ Acción
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55496&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Cine Español" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" ,M+ Cine Ñ
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55506&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Clásicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos
-http://658360882406321314.itvipmode.xyz:80/play/Noe230116/AANoe230116/321314.ts
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Clásicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos alt.
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/281773
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Comedia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" ,M+ Comedia
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55500&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" ,M+ Drama
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55502&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55530&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ LALIGA TV 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" ,M+ LaLiga TV 2
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55566&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ Liga de Campeones
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55577&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55545&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes alt.
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55589&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Golf" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" ,M+ Golf
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55547&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Movistar plus+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" ,M+ Movistar+
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55456&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" ,M+ Series
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55484&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55527&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Mezzo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEZZO.png" ,Mezzo
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55624&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Mezzo Live HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEZZOHD.png" ,Mezzo Live
-http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30207&extension=ts&play_token=r1nxRzEN75
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="MTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" ,MTV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55618&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Nat Geo Wild" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" ,Nat Geo Wild
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="National Geographic" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" ,National Geographic
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Odisea" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" ,Odisea
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Sundance" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" ,Sundance TV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55491&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="SYFY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" ,Sy-Fy
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55488&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="TCM" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" ,TCM
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55508&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="Warner TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" ,Warner TV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55492&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="XTRM" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTRM.png" ,XTRM
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=82274&extension=ts&play_token=ltn2GgE1z6
 
 #EXTINF:-1 group-title="Otros contenidos" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça TV
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
