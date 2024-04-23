@@ -67,7 +67,7 @@ acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://i.ibb.co/CHv2fdP/hypermotion.png" group-title="www.elcano.top", LaLiga Hypermotion 2 720
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://i.ibb.co/CHv2fdP/hypermotion.png" group-title="www.elcano.top", LaLiga Hypermotion 3 1080
-acestream://b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
+acestream://424c89c7c0f251051269b578f40d13d192cf2c2d
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4 HD" tvg-logo="https://i.ibb.co/CHv2fdP/hypermotion.png" group-title="www.elcano.top", LaLiga Hypermotion 4 
 acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 5 HD" tvg-logo="https://i.ibb.co/CHv2fdP/hypermotion.png" group-title="www.elcano.top", LaLiga Hypermotion 5
@@ -172,7 +172,7 @@ acestream://60296c246e3596f334903fefd48cfaa724a5053b
 
 
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://i.ibb.co/fdHQYXQ/Golf.jpg" group-title="www.elcano.top", M. Golf 1080
-acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
 #EXTINF:-1 tvg-id="Golf mex 720" tvg-logo="https://i.ibb.co/fdHQYXQ/Golf.jpg" group-title="www.elcano.top", M. Golf 720
 acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
 
@@ -192,8 +192,6 @@ acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="www.elcano.top", DAZN F1 Multicamara
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="www.elcano.top", DAZN F1 UHD (Formula 1)
-acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="www.elcano.top", DAZN F1 1080 (Formula 1)
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="www.elcano.top", DAZN F1 1080 (Formula 1)
