@@ -25,7 +25,7 @@ acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="ELCANO", M. LaLiga 3 720
 acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1
 #EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="ELCANO", M. LaLiga 4 1080
-#acestream://eee6144058d6106c243cbde774b05bff4a704a86
+acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f
 #EXTINF:-1 tvg-id="M+ LaLiga TV 5" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="ELCANO", M. LaLiga 5 1080
 #acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="ELCANO", M. LaLiga 6 1080
@@ -96,7 +96,7 @@ acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="ELCANO", #Vamos 720
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-logo="https://i.ibb.co/x802LNW/ellas.png" group-title="ELCANO", #Ellas 1080
-acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="ELCANO", M. Deportes 1 1080
@@ -208,7 +208,7 @@ acestream://4a714c436cb67d53cf197f9038239fddab2d8b20
 #EXTINF:-1 tvg-id="LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/823px-Logo_TVE-2.svg.png" group-title="ELCANO", LA 2 
 acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="ELCANO", tdp 1080  (TeleDeporte) 
-acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" group-title="ELCANO", GOL TV 1080
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-54B862044B-seeklogo.com.png" group-title="ELCANO", TENNIS CHANNEL
@@ -224,5 +224,3 @@ acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 2", Canal 2
 acestream://8677d339ecddd75165c0015025f598b6215974cf
-
-
