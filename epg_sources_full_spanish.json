@@ -1,0 +1,2002 @@
+[
+  {
+    "id": -1,
+    "name": "AQ",
+    "flag": "🇦🇶",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -2,
+    "name": "Afganistán",
+    "flag": "🇦🇫",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -3,
+    "name": "Albania",
+    "flag": "🇦🇱",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -4,
+    "name": "Alemania",
+    "flag": "🇩🇪",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Germany/germany1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -5,
+    "name": "Andorra",
+    "flag": "🇦🇩",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -6,
+    "name": "Angola",
+    "flag": "🇦🇴",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -7,
+    "name": "Anguila",
+    "flag": "🇦🇮",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -8,
+    "name": "Antigua y Barbuda",
+    "flag": "🇦🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -9,
+    "name": "Arabia Saudita",
+    "flag": "🇸🇦",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -10,
+    "name": "Argelia",
+    "flag": "🇩🇿",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -11,
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Argentina/argentina1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -12,
+    "name": "Armenia",
+    "flag": "🇦🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -13,
+    "name": "Aruba",
+    "flag": "🇦🇼",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -14,
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -15,
+    "name": "Austria",
+    "flag": "🇦🇹",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -16,
+    "name": "Azerbaiyán",
+    "flag": "🇦🇿",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -17,
+    "name": "BV",
+    "flag": "🇧🇻",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -18,
+    "name": "Bahamas",
+    "flag": "🇧🇸",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -19,
+    "name": "Bangladés",
+    "flag": "🇧🇩",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -20,
+    "name": "Barbados",
+    "flag": "🇧🇧",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -21,
+    "name": "Baréin",
+    "flag": "🇧🇭",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -22,
+    "name": "Belice",
+    "flag": "🇧🇿",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -23,
+    "name": "Benín",
+    "flag": "🇧🇯",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -24,
+    "name": "Bermudas",
+    "flag": "🇧🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -25,
+    "name": "Bielorrusia",
+    "flag": "🇧🇾",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -26,
+    "name": "Bolivia",
+    "flag": "🇧🇴",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -27,
+    "name": "Bosnia y Herzegovina",
+    "flag": "🇧🇦",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -28,
+    "name": "Botsuana",
+    "flag": "🇧🇼",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -29,
+    "name": "Brasil",
+    "flag": "🇧🇷",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Brazil/brazil1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -30,
+    "name": "Brunéi",
+    "flag": "🇧🇳",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -31,
+    "name": "Bulgaria",
+    "flag": "🇧🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -32,
+    "name": "Burkina Faso",
+    "flag": "🇧🇫",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -33,
+    "name": "Burundi",
+    "flag": "🇧🇮",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -34,
+    "name": "Bután",
+    "flag": "🇧🇹",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -35,
+    "name": "Bélgica",
+    "flag": "🇧🇪",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -36,
+    "name": "CW",
+    "flag": "🇨🇼",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -37,
+    "name": "Cabo Verde",
+    "flag": "🇨🇻",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -38,
+    "name": "Camboya",
+    "flag": "🇰🇭",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -39,
+    "name": "Camerún",
+    "flag": "🇨🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -40,
+    "name": "Canadá",
+    "flag": "🇨🇦",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -41,
+    "name": "Caribe Neerlandés",
+    "flag": "🇧🇶",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -42,
+    "name": "Catar",
+    "flag": "🇶🇦",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -43,
+    "name": "Chad",
+    "flag": "🇹🇩",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -44,
+    "name": "Chequia",
+    "flag": "🇨🇿",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -45,
+    "name": "Chile",
+    "flag": "🇨🇱",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Chile/chile1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -46,
+    "name": "China",
+    "flag": "🇨🇳",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -47,
+    "name": "Chipre",
+    "flag": "🇨🇾",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -48,
+    "name": "Ciudad del Vaticano",
+    "flag": "🇻🇦",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -49,
+    "name": "Colombia",
+    "flag": "🇨🇴",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Colombia/colombia1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -50,
+    "name": "Comoras",
+    "flag": "🇰🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -51,
+    "name": "Congo",
+    "flag": "🇨🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -52,
+    "name": "Corea del Norte",
+    "flag": "🇰🇵",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -53,
+    "name": "Corea del Sur",
+    "flag": "🇰🇷",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -54,
+    "name": "Costa Rica",
+    "flag": "🇨🇷",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -55,
+    "name": "Costa de Marfil",
+    "flag": "🇨🇮",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -56,
+    "name": "Croacia",
+    "flag": "🇭🇷",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -57,
+    "name": "Cuba",
+    "flag": "🇨🇺",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -58,
+    "name": "Dinamarca",
+    "flag": "🇩🇰",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -59,
+    "name": "Dominica",
+    "flag": "🇩🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -60,
+    "name": "EU",
+    "flag": "🇪🇺",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -61,
+    "name": "Ecuador",
+    "flag": "🇪🇨",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Ecuador/ecuador1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -62,
+    "name": "Egipto",
+    "flag": "🇪🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -63,
+    "name": "El Salvador",
+    "flag": "🇸🇻",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -64,
+    "name": "Emiratos Árabes Unidos",
+    "flag": "🇦🇪",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -65,
+    "name": "Eritrea",
+    "flag": "🇪🇷",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -66,
+    "name": "Eslovaquia",
+    "flag": "🇸🇰",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -67,
+    "name": "Eslovenia",
+    "flag": "🇸🇮",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -68,
+    "name": "España",
+    "flag": "🇪🇸",
+    "url": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/EPG_dobleM.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -69,
+    "name": "Estados Unidos",
+    "flag": "🇺🇸",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/USA/usa1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -70,
+    "name": "Estonia",
+    "flag": "🇪🇪",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -71,
+    "name": "Esuatini",
+    "flag": "🇸🇿",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -72,
+    "name": "Etiopía",
+    "flag": "🇪🇹",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -73,
+    "name": "Filipinas",
+    "flag": "🇵🇭",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -74,
+    "name": "Finlandia",
+    "flag": "🇫🇮",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -75,
+    "name": "Fiyi",
+    "flag": "🇫🇯",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -76,
+    "name": "Francia",
+    "flag": "🇫🇷",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/France/france1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -77,
+    "name": "Gabón",
+    "flag": "🇬🇦",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -78,
+    "name": "Gambia",
+    "flag": "🇬🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -79,
+    "name": "Georgia",
+    "flag": "🇬🇪",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -80,
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -81,
+    "name": "Gibraltar",
+    "flag": "🇬🇮",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -82,
+    "name": "Granada",
+    "flag": "🇬🇩",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -83,
+    "name": "Grecia",
+    "flag": "🇬🇷",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -84,
+    "name": "Groenlandia",
+    "flag": "🇬🇱",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -85,
+    "name": "Guadalupe",
+    "flag": "🇬🇵",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -86,
+    "name": "Guam",
+    "flag": "🇬🇺",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -87,
+    "name": "Guatemala",
+    "flag": "🇬🇹",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -88,
+    "name": "Guayana Francesa",
+    "flag": "🇬🇫",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -89,
+    "name": "Guernsey",
+    "flag": "🇬🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -90,
+    "name": "Guinea",
+    "flag": "🇬🇳",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -91,
+    "name": "Guinea Ecuatorial",
+    "flag": "🇬🇶",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -92,
+    "name": "Guinea-Bisáu",
+    "flag": "🇬🇼",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -93,
+    "name": "Guyana",
+    "flag": "🇬🇾",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -94,
+    "name": "Haití",
+    "flag": "🇭🇹",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -95,
+    "name": "Honduras",
+    "flag": "🇭🇳",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -96,
+    "name": "Hong Kong",
+    "flag": "🇭🇰",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -97,
+    "name": "Hungría",
+    "flag": "🇭🇺",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -98,
+    "name": "India",
+    "flag": "🇮🇳",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -99,
+    "name": "Indonesia",
+    "flag": "🇮🇩",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -100,
+    "name": "Irak",
+    "flag": "🇮🇶",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -101,
+    "name": "Irlanda",
+    "flag": "🇮🇪",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -102,
+    "name": "Irán",
+    "flag": "🇮🇷",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -103,
+    "name": "Isla Christmas",
+    "flag": "🇨🇽",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -104,
+    "name": "Isla Norfolk",
+    "flag": "🇳🇫",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -105,
+    "name": "Isla de Man",
+    "flag": "🇮🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -106,
+    "name": "Islandia",
+    "flag": "🇮🇸",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -107,
+    "name": "Islas Caimán",
+    "flag": "🇰🇾",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -108,
+    "name": "Islas Cocos",
+    "flag": "🇨🇨",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -109,
+    "name": "Islas Cook",
+    "flag": "🇨🇰",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -110,
+    "name": "Islas Feroe",
+    "flag": "🇫🇴",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -111,
+    "name": "Islas Georgias del Sur y Sandwich del Sur",
+    "flag": "🇬🇸",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -112,
+    "name": "Islas Heard y McDonald",
+    "flag": "🇭🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -113,
+    "name": "Islas Malvinas",
+    "flag": "🇫🇰",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -114,
+    "name": "Islas Marianas del Norte",
+    "flag": "🇲🇵",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -115,
+    "name": "Islas Marshal",
+    "flag": "🇲🇭",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -116,
+    "name": "Islas Pitcairn",
+    "flag": "🇵🇳",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -117,
+    "name": "Islas Salomón",
+    "flag": "🇸🇧",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -118,
+    "name": "Islas Turcas y Caicos",
+    "flag": "🇹🇨",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -119,
+    "name": "Islas Ultramarinas de Estados Unidos",
+    "flag": "🇺🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -120,
+    "name": "Islas Vírgenes Británicas",
+    "flag": "🇻🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -121,
+    "name": "Islas Vírgenes de EE. UU.",
+    "flag": "🇻🇮",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -122,
+    "name": "Islas Åland",
+    "flag": "🇦🇽",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -123,
+    "name": "Israel",
+    "flag": "🇮🇱",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -124,
+    "name": "Italia",
+    "flag": "🇮🇹",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Italy/italy1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -125,
+    "name": "Jamaica",
+    "flag": "🇯🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -126,
+    "name": "Japón",
+    "flag": "🇯🇵",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -127,
+    "name": "Jersey",
+    "flag": "🇯🇪",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -128,
+    "name": "Jordania",
+    "flag": "🇯🇴",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -129,
+    "name": "Kazajistán",
+    "flag": "🇰🇿",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -130,
+    "name": "Kenia",
+    "flag": "🇰🇪",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -131,
+    "name": "Kirguistán",
+    "flag": "🇰🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -132,
+    "name": "Kiribati",
+    "flag": "🇰🇮",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -133,
+    "name": "Kuwait",
+    "flag": "🇰🇼",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -134,
+    "name": "Laos",
+    "flag": "🇱🇦",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -135,
+    "name": "Lesoto",
+    "flag": "🇱🇸",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -136,
+    "name": "Letonia",
+    "flag": "🇱🇻",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -137,
+    "name": "Liberia",
+    "flag": "🇱🇷",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -138,
+    "name": "Libia",
+    "flag": "🇱🇾",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -139,
+    "name": "Liechtenstein",
+    "flag": "🇱🇮",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -140,
+    "name": "Lituania",
+    "flag": "🇱🇹",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -141,
+    "name": "Luxemburgo",
+    "flag": "🇱🇺",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -142,
+    "name": "Líbano",
+    "flag": "🇱🇧",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -143,
+    "name": "Macao",
+    "flag": "🇲🇴",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -144,
+    "name": "Macedonia del Norte",
+    "flag": "🇲🇰",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -145,
+    "name": "Madagascar",
+    "flag": "🇲🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -146,
+    "name": "Malasia",
+    "flag": "🇲🇾",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -147,
+    "name": "Malawi",
+    "flag": "🇲🇼",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -148,
+    "name": "Maldivas",
+    "flag": "🇲🇻",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -149,
+    "name": "Malta",
+    "flag": "🇲🇹",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -150,
+    "name": "Malí",
+    "flag": "🇲🇱",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -151,
+    "name": "Marruecos",
+    "flag": "🇲🇦",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -152,
+    "name": "Martinica",
+    "flag": "🇲🇶",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -153,
+    "name": "Mauricio",
+    "flag": "🇲🇺",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -154,
+    "name": "Mauritania",
+    "flag": "🇲🇷",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -155,
+    "name": "Mayotte",
+    "flag": "🇾🇹",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -156,
+    "name": "Micronesia",
+    "flag": "🇫🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -157,
+    "name": "Moldavia",
+    "flag": "🇲🇩",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -158,
+    "name": "Mongolia",
+    "flag": "🇲🇳",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -159,
+    "name": "Montenegro",
+    "flag": "🇲🇪",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -160,
+    "name": "Montserrat",
+    "flag": "🇲🇸",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -161,
+    "name": "Mozambique",
+    "flag": "🇲🇿",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -162,
+    "name": "Myanmar",
+    "flag": "🇲🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -163,
+    "name": "México",
+    "flag": "🇲🇽",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Mexico/mexico1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -164,
+    "name": "Mónaco",
+    "flag": "🇲🇨",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -165,
+    "name": "Namibia",
+    "flag": "🇳🇦",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -166,
+    "name": "Nauru",
+    "flag": "🇳🇷",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -167,
+    "name": "Nepal",
+    "flag": "🇳🇵",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -168,
+    "name": "Nicaragua",
+    "flag": "🇳🇮",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -169,
+    "name": "Nigeria",
+    "flag": "🇳🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -170,
+    "name": "Niue",
+    "flag": "🇳🇺",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -171,
+    "name": "Noruega",
+    "flag": "🇳🇴",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -172,
+    "name": "Nueva Caledonia",
+    "flag": "🇳🇨",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -173,
+    "name": "Nueva Zelanda",
+    "flag": "🇳🇿",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -174,
+    "name": "Níger",
+    "flag": "🇳🇪",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -175,
+    "name": "Omán",
+    "flag": "🇴🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -176,
+    "name": "Pakistán",
+    "flag": "🇵🇰",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -177,
+    "name": "Palaos",
+    "flag": "🇵🇼",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -178,
+    "name": "Palestina",
+    "flag": "🇵🇸",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -179,
+    "name": "Panamá",
+    "flag": "🇵🇦",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -180,
+    "name": "Papúa Nueva Guinea",
+    "flag": "🇵🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -181,
+    "name": "Paraguay",
+    "flag": "🇵🇾",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -182,
+    "name": "Países Bajos",
+    "flag": "🇳🇱",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -183,
+    "name": "Perú",
+    "flag": "🇵🇪",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Peru/peru1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -184,
+    "name": "Polinesia Francesa",
+    "flag": "🇵🇫",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -185,
+    "name": "Polonia",
+    "flag": "🇵🇱",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -186,
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Portugal/portugal1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -187,
+    "name": "Puerto Rico",
+    "flag": "🇵🇷",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -188,
+    "name": "Reino Unido",
+    "flag": "🇬🇧",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Unitedkingdom/unitedkingdom1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -189,
+    "name": "República Centroafricana",
+    "flag": "🇨🇫",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -190,
+    "name": "República Democrática del Congo",
+    "flag": "🇨🇩",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -191,
+    "name": "República Dominicana",
+    "flag": "🇩🇴",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -192,
+    "name": "Reunión",
+    "flag": "🇷🇪",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -193,
+    "name": "Ruanda",
+    "flag": "🇷🇼",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -194,
+    "name": "Rumanía",
+    "flag": "🇷🇴",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -195,
+    "name": "Rusia",
+    "flag": "🇷🇺",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -196,
+    "name": "Sahara Occidental",
+    "flag": "🇪🇭",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -197,
+    "name": "Samoa",
+    "flag": "🇼🇸",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -198,
+    "name": "Samoa Americana",
+    "flag": "🇦🇸",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -199,
+    "name": "San Bartolomé",
+    "flag": "🇧🇱",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -200,
+    "name": "San Cristóbal y Nieves",
+    "flag": "🇰🇳",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -201,
+    "name": "San Marino",
+    "flag": "🇸🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -202,
+    "name": "San Martín (parte francesa)",
+    "flag": "🇲🇫",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -203,
+    "name": "San Martín (parte neerlandesa)",
+    "flag": "🇸🇽",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -204,
+    "name": "San Pedro y Miquelón",
+    "flag": "🇵🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -205,
+    "name": "San Vicente y las Granadinas",
+    "flag": "🇻🇨",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -206,
+    "name": "Santa Elena",
+    "flag": "🇸🇭",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -207,
+    "name": "Santa Lucía",
+    "flag": "🇱🇨",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -208,
+    "name": "Santo Tomé y Príncipe",
+    "flag": "🇸🇹",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -209,
+    "name": "Senegal",
+    "flag": "🇸🇳",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -210,
+    "name": "Serbia",
+    "flag": "🇷🇸",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -211,
+    "name": "Seychelles",
+    "flag": "🇸🇨",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -212,
+    "name": "Sierra Leona",
+    "flag": "🇸🇱",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -213,
+    "name": "Singapur",
+    "flag": "🇸🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -214,
+    "name": "Siria",
+    "flag": "🇸🇾",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -215,
+    "name": "Somalia",
+    "flag": "🇸🇴",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -216,
+    "name": "Sri Lanka",
+    "flag": "🇱🇰",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -217,
+    "name": "Sudáfrica",
+    "flag": "🇿🇦",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -218,
+    "name": "Sudán",
+    "flag": "🇸🇩",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -219,
+    "name": "Sudán del Sur",
+    "flag": "🇸🇸",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -220,
+    "name": "Suecia",
+    "flag": "🇸🇪",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -221,
+    "name": "Suiza",
+    "flag": "🇨🇭",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -222,
+    "name": "Surinam",
+    "flag": "🇸🇷",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -223,
+    "name": "Svalbard y Jan Mayen",
+    "flag": "🇸🇯",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -224,
+    "name": "Tailandia",
+    "flag": "🇹🇭",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -225,
+    "name": "Taiwán",
+    "flag": "🇹🇼",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -226,
+    "name": "Tanzania",
+    "flag": "🇹🇿",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -227,
+    "name": "Tayikistán",
+    "flag": "🇹🇯",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -228,
+    "name": "Territorio Británico del Océano Índico",
+    "flag": "🇮🇴",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -229,
+    "name": "Tierras Australes Francesas",
+    "flag": "🇹🇫",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -230,
+    "name": "Timor Oriental",
+    "flag": "🇹🇱",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -231,
+    "name": "Togo",
+    "flag": "🇹🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -232,
+    "name": "Tokelau",
+    "flag": "🇹🇰",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -233,
+    "name": "Tonga",
+    "flag": "🇹🇴",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -234,
+    "name": "Trinidad y Tobago",
+    "flag": "🇹🇹",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -235,
+    "name": "Turkmenistán",
+    "flag": "🇹🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -236,
+    "name": "Turquía",
+    "flag": "🇹🇷",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -237,
+    "name": "Tuvalu",
+    "flag": "🇹🇻",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -238,
+    "name": "Túnez",
+    "flag": "🇹🇳",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -239,
+    "name": "Ucrania",
+    "flag": "🇺🇦",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -240,
+    "name": "Uganda",
+    "flag": "🇺🇬",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -241,
+    "name": "Uruguay",
+    "flag": "🇺🇾",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -242,
+    "name": "Uzbekistán",
+    "flag": "🇺🇿",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -243,
+    "name": "Vanuatu",
+    "flag": "🇻🇺",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -244,
+    "name": "Venezuela",
+    "flag": "🇻🇪",
+    "url": "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Venezuela/venezuela1.xml",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -245,
+    "name": "Vietnam",
+    "flag": "🇻🇳",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -246,
+    "name": "Wallis y Futuna",
+    "flag": "🇼🇫",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -247,
+    "name": "Yemen",
+    "flag": "🇾🇪",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -248,
+    "name": "Yibuti",
+    "flag": "🇩🇯",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -249,
+    "name": "Zambia",
+    "flag": "🇿🇲",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  },
+  {
+    "id": -250,
+    "name": "Zimbabue",
+    "flag": "🇿🇼",
+    "url": "",
+    "main": 0,
+    "updatedAt": 0
+  }
+]
