@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "1.0.3",
-  "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk"
+  "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk",
   "changelog": "• Nueva protección biométrica\n• Historial de documentos con borrado físico\n• Selector de tema claro/oscuro\n• Optimización de tamaño de PDF"
 }
 
