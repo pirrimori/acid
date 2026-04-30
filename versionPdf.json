@@ -1,6 +1,6 @@
 {
   "versionCode": 22,
-  "minVersionCode": "20",
+  "minVersionCode": "22",
   "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk",
   "changelog": "• Firmas válidas en adobe y PdfElement\n• Zoom para censurar y en anotaciones\n• Nuevo manual de usuario\n• Nueva escala de tamaños de letra para formularios\n• Corrección de errores\n• Nueva UI"
 }
