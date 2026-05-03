@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "minVersionCode": "24",
+  "versionCode": 25,
+  "minVersionCode": "25",
   "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk",
   "changelog": "• Ya vuelve de la pantalla pro y actualiza el estado a premium\n• Zoom en pantalla de firmas ya no la aplica directamente\n• El zoom mientras censuras ya funciona correctamente\n• Correción de errores menores."
 }
