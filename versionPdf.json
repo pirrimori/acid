@@ -1,6 +1,6 @@
 {
   "versionCode": 29,
-  "minVersionCode": "29",
+  "minVersionCode": "28",
   "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk",
   "changelog": "• Nuevo escaner de documentos\n• Ahora todas las herramientas llevan selector de color\n• Añadido botones de filtros y pintar\n• Nuevas pantallas para acerca de y manual de usuario\n• Reformada la sección de ajustes con muchas novedades\n• Arreglados idiomas en la sección de ajustes\n• Corrección de errores menores."
 }
