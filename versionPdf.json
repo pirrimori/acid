@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "minVersionCode": "28",
+  "versionCode": 29,
+  "minVersionCode": "29",
   "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk",
-  "changelog": "• Ya vuelve de la pantalla pro y actualiza el estado a premium\n• Zoom en pantalla de firmas ya no la aplica directamente\n• Añadidos botones de anotar, subrayar, tachar y resaltar por separado\n• Añadido nuevo selector de color para textos y firmas, tipos de fuente y formatos\n• Ahora los archivos recientes también muestran en el historial los documentos abiertos con la aplicación\n• Arreglados idiomas en la sección de ajustes\n• Corrección de errores menores."
+  "changelog": "• Nuevo escaner de documentos\n• Ahora todas las herramientas llevan selector de color\n• Añadido botones de filtros y pintar\n• Nuevas pantallas para acerca de y manual de usuario\n• Reformada la sección de ajustes con muchas novedades\n• Arreglados idiomas en la sección de ajustes\n• Corrección de errores menores."
 }
