@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
+  "versionCode": 33,
   "minVersionCode": "32",
   "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk",
-  "changelog": "• Ahora las firmas manuscritas no muestran el alias cuando esta vacío\n• Los logs son persistentes ante un cierre inesperado\n• Corrección de errores menores."
+  "changelog": "• Actualización necesaria de librerías para compatibilidad con dispositivos armv7\n• Mejoras de rendimiento\n• Corrección de errores en UI."
 }
