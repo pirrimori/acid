@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "minVersionCode": "32",
+  "versionCode": 35,
+  "minVersionCode": "34",
   "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk",
-  "changelog": "• Actualización necesaria de librerías para compatibilidad con dispositivos armv7\n• Mejoras de rendimiento\n• Corrección de errores en UI."
+  "changelog": "• Nueva UI para herramientas.\n• Ahora las anotaciones son leídas por adobe y modificables en la aplicación.\n• Nuevo sistema de capas que produce menos memoria en caché.\n• Ahora se pueden poner comentarios en notas, resaltes, subrayados y tachados."
 }
