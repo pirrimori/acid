@@ -2,5 +2,5 @@
   "versionCode": 37,
   "minVersionCode": "37",
   "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk",
-  "changelog": "• Nueva UI para herramientas.\n• Ahora las anotaciones son leídas por adobe y modificables en la aplicación.\n• Nuevo sistema de capas que produce menos memoria en caché.\n• Ahora se pueden poner comentarios en notas, resaltes, subrayados y tachados."
+  "changelog": "• Nueva herramienta de conversión de Excel a Pdf.\n• Nueva herramienta de conversión de PowerPoint a Pdf.\n• Nueva herramienta en pruebas de comparación de Pdf's.\n• Mejoras en UI y traducciones."
 }
