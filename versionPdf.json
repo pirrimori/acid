@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "minVersionCode": "37",
+  "versionCode": 39,
+  "minVersionCode": "39",
   "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk",
   "changelog": "• Nueva herramienta de conversión de Excel a Pdf.\n• Nueva herramienta de conversión de PowerPoint a Pdf.\n• Nueva herramienta en pruebas de comparación de Pdf's.\n• Mejoras en UI y traducciones."
 }
