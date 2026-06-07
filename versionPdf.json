@@ -2,5 +2,5 @@
   "versionCode": 40,
   "minVersionCode": "39",
   "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk",
-  "changelog": "• Nueva opción de busqueda en el home para filtrar pdf por su contenido.\n• Añadida room como base de datos para mayor velocidad y estabilidad.\n• Añadido workmanager para tareas pesadas en segundo plano.\n• Mejoras en UI y traducciones."
+  "changelog": "• Nueva opción de busqueda en el home para filtrar pdf por su contenido.\n • Mejorada renderización de pdfs para menor consumo de ram.\n • Menor consumo de memoria chaché.\n • Añadidas opciones de copia de seguridad en ajustes.\n • Añadida room como base de datos para mayor velocidad y estabilidad.\n • Añadido workmanager para tareas pesadas en segundo plano.\n • Mejoras en UI y traducciones."
 }
