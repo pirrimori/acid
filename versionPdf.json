@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
+  "versionCode": 44,
   "minVersionCode": "43",
   "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk",
-  "changelog": "• Nueva libreria para la función de escaner.\n • Arreglados errores en la sección de ajustes.\n • Mejorado el historial de archivos abiertos.\n • Eliminadas librerias innecesarias.\n • Actualizadas librerias a petición de google.\n • Actualizada versión sdk a la v37."
+  "changelog": "• Añadida acción de colocar y redimensionar el recuadro de censurar,resaltar,tachar...\n • Actualizada pantalla de diagosticos.\n • Mejorada detección de escaner automática.\n • Añadido selección de texto en el visor.\n • Mejoradas herramientas de añadir imagen,ocr,metadatos y censura automática.\n • Añadido check en topbar para checkpoint de hacer-deshacer.\n • Arreglada herramienta de comparar."
 }
