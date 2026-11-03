@@ -1,20 +1,29 @@
 {
-    "mobile":  {
-                   "versionCode":  10107,
-                   "versionName":  "1.1.7",
-                   "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v.1.1.7/JoinAce-1.1.7-mobile-tablet-release.apk",
-                   "sha256":  "fe32620f064042533ff31e9626e1741a3777a4a81fbd68bafd794b4e152aad3b"
-               },
-    "tv":  {
-               "versionCode":  10107,
-               "versionName":  "1.1.7",
-               "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v.1.1.7/JoinAce-1.1.7-tv-release.apk",
-               "sha256":  "ea8266c6f47f8330e1648ee185f74c2d419dbe7f23b61eccaf191e02a98429bb"
-           },
-    "desktop":  {
-                    "versionCode":  10107,
-                    "versionName":  "1.1.7",
-                    "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v.1.1.7/JoinAce-1.1.7-windows.msi",
-                    "sha256":  "337d2b90d01e621d69583a96c93ca9bbc9de9a994fe9be08ec6562b3acc6bca2"
-                }
+  "mobile": {
+    "versionCode": 10107,
+    "versionName": "1.1.7",
+    "downloadUrl": "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.7-mobile-tablet-release.apk",
+    "sha256": "2059abe80c073870563eb0c5b1e3c7c6ccc84683b8c603af69adcd78ed578837",
+    "size": 24820124,
+    "mandatory": false,
+    "notes": "Actualizaciones que se encuentran y se descargan en segundo plano, transferencia de datos segura entre todos los dispositivos, guía del canal, botón Info, logos y correcciones de mando en Android TV."
+  },
+  "tv": {
+    "versionCode": 10107,
+    "versionName": "1.1.7",
+    "downloadUrl": "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.7-tv-release.apk",
+    "sha256": "902c569c69fc3ede38d0573025622c1b802704af0753053615bfa71c594e4db0",
+    "size": 24820124,
+    "mandatory": false,
+    "notes": "Actualizaciones que se encuentran y se descargan en segundo plano, transferencia de datos segura entre todos los dispositivos, guía del canal, botón Info, logos y correcciones de mando en Android TV."
+  },
+  "desktop": {
+    "versionCode": 10107,
+    "versionName": "1.1.7",
+    "downloadUrl": "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.7-windows.msi",
+    "sha256": "5f49a4c276f8f05561115aa01ed0c3863c2285439355c79958e115704935e7dd",
+    "size": 341360888,
+    "mandatory": false,
+    "notes": "Actualizaciones que se encuentran y se descargan en segundo plano, transferencia de datos segura entre todos los dispositivos, guía del canal, botón Info, logos y correcciones de mando en Android TV."
+  }
 }
