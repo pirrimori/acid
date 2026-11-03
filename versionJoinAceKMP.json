@@ -3,27 +3,27 @@
     "versionCode": 10107,
     "versionName": "1.1.7",
     "downloadUrl": "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.7-mobile-tablet-release.apk",
-    "sha256": "2059abe80c073870563eb0c5b1e3c7c6ccc84683b8c603af69adcd78ed578837",
-    "size": 24820124,
-    "mandatory": false,
-    "notes": "Actualizaciones que se encuentran y se descargan en segundo plano, transferencia de datos segura entre todos los dispositivos, guía del canal, botón Info, logos y correcciones de mando en Android TV."
+    "sha256": "acac4abfe7e04b113f67976ffc0c87893e543999673b2734e39e8f2c8c0bbfea",
+    "size": 24836508,
+    "mandatory": true,
+    "notes": "Actualizaciones que se encuentran y se descargan en segundo plano, transferencia de datos segura entre todos los dispositivos, guía del canal, botón Info, más logos de canales y correcciones de mando en Android TV."
   },
   "tv": {
     "versionCode": 10107,
     "versionName": "1.1.7",
     "downloadUrl": "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.7-tv-release.apk",
-    "sha256": "902c569c69fc3ede38d0573025622c1b802704af0753053615bfa71c594e4db0",
-    "size": 24820124,
-    "mandatory": false,
-    "notes": "Actualizaciones que se encuentran y se descargan en segundo plano, transferencia de datos segura entre todos los dispositivos, guía del canal, botón Info, logos y correcciones de mando en Android TV."
+    "sha256": "a3e6a10b9f0bc86f62aa99bfce430186f3e7d58990b95c42892d25db0dedfabe",
+    "size": 24836508,
+    "mandatory": true,
+    "notes": "Actualizaciones que se encuentran y se descargan en segundo plano, transferencia de datos segura entre todos los dispositivos, guía del canal, botón Info, más logos de canales y correcciones de mando en Android TV."
   },
   "desktop": {
     "versionCode": 10107,
     "versionName": "1.1.7",
     "downloadUrl": "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.7-windows.msi",
-    "sha256": "5f49a4c276f8f05561115aa01ed0c3863c2285439355c79958e115704935e7dd",
-    "size": 341360888,
-    "mandatory": false,
-    "notes": "Actualizaciones que se encuentran y se descargan en segundo plano, transferencia de datos segura entre todos los dispositivos, guía del canal, botón Info, logos y correcciones de mando en Android TV."
+    "sha256": "174bccc453eb558047e2ea714a881287fa75782ad0d32bc02ce9ad495c14d89b",
+    "size": 341369080,
+    "mandatory": true,
+    "notes": "Actualizaciones que se encuentran y se descargan en segundo plano, transferencia de datos segura entre todos los dispositivos, guía del canal, botón Info, más logos de canales y correcciones de mando en Android TV."
   }
 }
