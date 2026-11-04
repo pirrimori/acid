@@ -1,20 +1,20 @@
 {
     "mobile":  {
-                   "versionCode":  10111,
-                   "versionName":  "1.1.11",
-                   "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.11/JoinAce-1.1.11-mobile-tablet-release.apk",
-                   "sha256":  "bd81d53039b053c89e3e229c0111747079a12c44d26e6a668e949ffbf77dbbc3"
+                   "versionCode":  10112,
+                   "versionName":  "1.1.12",
+                   "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.12/JoinAce-1.1.12-mobile-tablet-release.apk",
+                   "sha256":  "aba22b7ae1b3d2e5c504cd5c5aa465a8018be062dc1f0b9e5976e7b1eb3bbd8a"
                },
     "tv":  {
-               "versionCode":  10111,
-               "versionName":  "1.1.11",
-               "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.11/JoinAce-1.1.11-tv-release.apk",
-               "sha256":  "5d4c95a48d3861be284d3fab7c2b2e9dd1bfe1aa83d3ba6e29cabd294005dc37"
+               "versionCode":  10112,
+               "versionName":  "1.1.12",
+               "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.12/JoinAce-1.1.12-tv-release.apk",
+               "sha256":  "e3a3d0de0de8a1e6823e105e2620c3192b3f6c8074fe74c6fa9b0455e7d90161"
            },
     "desktop":  {
-                    "versionCode":  10111,
-                    "versionName":  "1.1.11",
-                    "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.11/JoinAce-1.1.11-windows.msi",
-                    "sha256":  "f60931b979469e28e501a72ae3be402453f043fe21f7938a5b89df8cb59b4874"
+                    "versionCode":  10112,
+                    "versionName":  "1.1.12",
+                    "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.12/JoinAce-1.1.12-windows.msi",
+                    "sha256":  "a5e7083bd37ecf47a2efc6cfea2332435982664827b298056bd7e59d6b2aab32"
                 }
 }
