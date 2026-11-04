@@ -1,20 +1,20 @@
 {
     "mobile":  {
-                   "versionCode":  10108,
-                   "versionName":  "1.1.8",
-                   "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.8/JoinAce-1.1.8-mobile-tablet-release.apk",
-                   "sha256":  "1965ad6a4caa5b72006b443707890d41566e6ff273af705ad2242f6335620ac3"
+                   "versionCode":  10109,
+                   "versionName":  "1.1.9",
+                   "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.9/JoinAce-1.1.9-mobile-tablet-release.apk",
+                   "sha256":  "6a694e265c2643e7bb046f4aa2a72815a56dbc8aea6fce7c3d549ed8e11baef4"
                },
-    "desktop":  {
-                    "versionCode":  10108,
-                    "versionName":  "1.1.8",
-                    "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.8/JoinAce-1.1.8-windows.msi",
-                    "sha256":  "de26cbb5aa4b5a8dc0b757f20b8b97a2060668923c4c1bc2b8f024a073ca7afe"
-                },
     "tv":  {
-               "versionCode":  10108,
-               "versionName":  "1.1.8",
-               "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.8/JoinAce-1.1.8-tv-release.apk",
-               "sha256":  "fd00805dc90223215c8446b15780b6b9b8e56e06edca237cb847b6742d65022f"
-           }
+               "versionCode":  10109,
+               "versionName":  "1.1.9",
+               "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.9/JoinAce-1.1.9-tv-release.apk",
+               "sha256":  "0783c7b9d96be246a5a6d532c3d8c6b9edb7a52bef9ec35acb7bc179e7f6173f"
+           },
+    "desktop":  {
+                    "versionCode":  10109,
+                    "versionName":  "1.1.9",
+                    "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.9/JoinAce-1.1.9-windows.msi",
+                    "sha256":  "a20c4f2f6b4f00bdc784a991a429748a05375866e1c60a0c752e48ea33406ff1"
+                }
 }
