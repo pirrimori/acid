@@ -1,29 +1,20 @@
 {
-  "mobile": {
-    "versionCode": 10107,
-    "versionName": "1.1.7",
-    "downloadUrl": "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.7-mobile-tablet-release.apk",
-    "sha256": "acac4abfe7e04b113f67976ffc0c87893e543999673b2734e39e8f2c8c0bbfea",
-    "size": 24836508,
-    "mandatory": true,
-    "notes": "Actualizaciones que se encuentran y se descargan en segundo plano, transferencia de datos segura entre todos los dispositivos, guía del canal, botón Info, más logos de canales y correcciones de mando en Android TV."
-  },
-  "tv": {
-    "versionCode": 10107,
-    "versionName": "1.1.7",
-    "downloadUrl": "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.7-tv-release.apk",
-    "sha256": "a3e6a10b9f0bc86f62aa99bfce430186f3e7d58990b95c42892d25db0dedfabe",
-    "size": 24836508,
-    "mandatory": true,
-    "notes": "Actualizaciones que se encuentran y se descargan en segundo plano, transferencia de datos segura entre todos los dispositivos, guía del canal, botón Info, más logos de canales y correcciones de mando en Android TV."
-  },
-  "desktop": {
-    "versionCode": 10107,
-    "versionName": "1.1.7",
-    "downloadUrl": "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.7-windows.msi",
-    "sha256": "174bccc453eb558047e2ea714a881287fa75782ad0d32bc02ce9ad495c14d89b",
-    "size": 341369080,
-    "mandatory": true,
-    "notes": "Actualizaciones que se encuentran y se descargan en segundo plano, transferencia de datos segura entre todos los dispositivos, guía del canal, botón Info, más logos de canales y correcciones de mando en Android TV."
-  }
+    "mobile":  {
+                   "versionCode":  10108,
+                   "versionName":  "1.1.8",
+                   "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.8/JoinAce-1.1.8-mobile-tablet-release.apk",
+                   "sha256":  "1965ad6a4caa5b72006b443707890d41566e6ff273af705ad2242f6335620ac3"
+               },
+    "desktop":  {
+                    "versionCode":  10108,
+                    "versionName":  "1.1.8",
+                    "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.8/JoinAce-1.1.8-windows.msi",
+                    "sha256":  "de26cbb5aa4b5a8dc0b757f20b8b97a2060668923c4c1bc2b8f024a073ca7afe"
+                },
+    "tv":  {
+               "versionCode":  10108,
+               "versionName":  "1.1.8",
+               "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.8/JoinAce-1.1.8-tv-release.apk",
+               "sha256":  "fd00805dc90223215c8446b15780b6b9b8e56e06edca237cb847b6742d65022f"
+           }
 }
