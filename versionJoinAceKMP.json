@@ -1,20 +1,20 @@
 {
     "mobile":  {
-                   "versionCode":  10112,
-                   "versionName":  "1.1.12",
-                   "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.12/JoinAce-1.1.12-mobile-tablet-release.apk",
-                   "sha256":  "aba22b7ae1b3d2e5c504cd5c5aa465a8018be062dc1f0b9e5976e7b1eb3bbd8a"
+                   "versionCode":  10113,
+                   "versionName":  "1.1.13",
+                   "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.13/JoinAce-1.1.13-mobile-tablet-release.apk",
+                   "sha256":  "db9d5a28d40d44357eee5f42d511e181b603e2911e590c62b245fe077347a6ca"
                },
-    "tv":  {
-               "versionCode":  10112,
-               "versionName":  "1.1.12",
-               "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.12/JoinAce-1.1.12-tv-release.apk",
-               "sha256":  "e3a3d0de0de8a1e6823e105e2620c3192b3f6c8074fe74c6fa9b0455e7d90161"
-           },
     "desktop":  {
-                    "versionCode":  10112,
-                    "versionName":  "1.1.12",
-                    "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.12/JoinAce-1.1.12-windows.msi",
-                    "sha256":  "a5e7083bd37ecf47a2efc6cfea2332435982664827b298056bd7e59d6b2aab32"
-                }
+                    "versionCode":  10113,
+                    "versionName":  "1.1.13",
+                    "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.13/JoinAce-1.1.13-windows.msi",
+                    "sha256":  "9aa25803357ac0690be9385e23fb1b29747594559d4a00104618bc3b6a85733d"
+                },
+    "tv":  {
+               "versionCode":  10113,
+               "versionName":  "1.1.13",
+               "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/v1.1.13/JoinAce-1.1.13-tv-release.apk",
+               "sha256":  "96e3931a9640a137b7c790d124751978870e070d8f527be62123b8d22f42f716"
+           }
 }
