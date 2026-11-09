@@ -1,20 +1,29 @@
 {
     "mobile":  {
-                   "versionCode":  10114,
-                   "versionName":  "1.1.14",
-                   "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.14-mobile-tablet-release.apk",
-                   "sha256":  "9b6f121732ed162dfca5bd59e78107b77252478873864f01458d5872265a397a"
+                   "versionCode":  10115,
+                   "versionName":  "1.1.15",
+                   "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.15-mobile-tablet-release.apk",
+                   "sha256":  "64c0d30aa7fe26d43c78fc3ac4f85abae5e0d6d9465576c2838ef1920824fc28",
+                   "size":  25148193,
+                   "mandatory":  false,
+                   "notes":  "Xtream más estable: al añadir o actualizar una lista ya no se envían inicios de sesión ni peticiones repetidas, y el diagnóstico Xtream (Ajustes \u003e Diagnóstico \u003e Logs) recoge más datos para analizar rechazos del servidor."
                },
     "desktop":  {
-                    "versionCode":  10114,
-                    "versionName":  "1.1.14",
-                    "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.14-windows.msi",
-                    "sha256":  "9f29e04874ffaa80ee29baa493b3afde67e62811457b6fb2c3df3f524a023f79"
+                    "versionCode":  10115,
+                    "versionName":  "1.1.15",
+                    "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.15-windows.msi",
+                    "sha256":  "e3d5bc8551f1fc357f423a6492c7916f325f70dbeaf5f8eb047cb4dfbbbfd3f4",
+                    "size":  342040848,
+                    "mandatory":  false,
+                    "notes":  "Xtream más estable: al añadir o actualizar una lista ya no se envían inicios de sesión ni peticiones repetidas, y el diagnóstico Xtream (Ajustes \u003e Diagnóstico \u003e Logs) recoge más datos para analizar rechazos del servidor."
                 },
     "tv":  {
-               "versionCode":  10114,
-               "versionName":  "1.1.14",
-               "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.14-tv-release.apk",
-               "sha256":  "73b98aa260f45fd88ae9bfbd2cb76fe10b115324b0f72e06d0d305868f7934e2"
+               "versionCode":  10115,
+               "versionName":  "1.1.15",
+               "downloadUrl":  "https://github.com/pirrimori/acid/releases/download/JoinAceKMP/JoinAce-1.1.15-tv-release.apk",
+               "sha256":  "939855808755d9aa14f0906a40c5db2cc8106364a83901c674d6494479a36e3e",
+               "size":  25148189,
+               "mandatory":  false,
+               "notes":  "Xtream más estable: al añadir o actualizar una lista ya no se envían inicios de sesión ni peticiones repetidas, y el diagnóstico Xtream (Ajustes \u003e Diagnóstico \u003e Logs) recoge más datos para analizar rechazos del servidor."
            }
 }
