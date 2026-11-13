@@ -1,0 +1,20 @@
+{
+  "mobile": {
+    "versionCode": 20000,
+    "versionName": "2.0.0",
+    "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacilMultiplatform/ObraFacil-Multiplatform-2.0.0-android-release.apk",
+    "sha256": "PENDIENTE_SHA256_APK",
+    "size": 0,
+    "mandatory": false,
+    "notes": "Primera versión de ObraFácil Multiplatform para Android: presupuestos, estadísticas, bancos BC3, IA y sincronización."
+  },
+  "desktop": {
+    "versionCode": 20000,
+    "versionName": "2.0.0",
+    "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacilMultiplatform/ObraFacil-Multiplatform-2.0.0-windows.msi",
+    "sha256": "PENDIENTE_SHA256_MSI",
+    "size": 0,
+    "mandatory": false,
+    "notes": "Primera versión de ObraFácil Multiplatform para Windows: interfaz renovada, estadísticas, presupuestos, bancos BC3 y sincronización."
+  }
+}
