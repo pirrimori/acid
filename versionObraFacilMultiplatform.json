@@ -1,20 +1,22 @@
 {
-  "mobile": {
-    "versionCode": 20000,
-    "versionName": "2.0.0",
-    "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacilMultiplatform/ObraFacil-Multiplatform-2.0.0-android-release.apk",
-    "sha256": "PENDIENTE_SHA256_APK",
-    "size": 0,
-    "mandatory": false,
-    "notes": "Primera versión de ObraFácil Multiplatform para Android: presupuestos, estadísticas, bancos BC3, IA y sincronización."
-  },
-  "desktop": {
-    "versionCode": 20000,
-    "versionName": "2.0.0",
-    "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacilMultiplatform/ObraFacil-Multiplatform-2.0.0-windows.msi",
-    "sha256": "PENDIENTE_SHA256_MSI",
-    "size": 0,
-    "mandatory": false,
-    "notes": "Primera versión de ObraFácil Multiplatform para Windows: interfaz renovada, estadísticas, presupuestos, bancos BC3 y sincronización."
-  }
+    "mobile": {
+        "versionCode": 10005,
+        "versionName": "1.0.5",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacilMultiplatform-1.0.5/ObraFacil-Multiplatform-1.0.5-android-release.apk",
+        "sha256": "400b6a15bf394044a17cc45ffeb746ef52ee45f8d9758759cb50ff76d4563a55",
+        "size": 26358376,
+        "mandatory": false,
+        "notes": "ObraFácil 1.0.5: el teléfono lee los PDF de mediciones sin el ordenador ni Internet; Presupuestos por IA con el presupuesto en capítulos y partidas, como el original; IA local por lotes.",
+        "signature": "v5FikMuMC0mnHHyFKgR2jmkK197JRg5d8JDFjFOcFcUlt72x+wdyXyqLtvDKuWUmFZ2Qo3EwthABQjCptr1DNw=="
+    },
+    "desktop": {
+        "versionCode": 10005,
+        "versionName": "1.0.5",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacilMultiplatform-1.0.5/ObraFacil-Multiplatform-1.0.5-windows.msi",
+        "sha256": "6761d75f6b231a1a18c7b71e5b3a39d741e25fa89c0264f1e070794715edea8a",
+        "size": 199692288,
+        "mandatory": false,
+        "notes": "ObraFácil 1.0.5: Presupuestos por IA y Desde documentos con el presupuesto en capítulos y partidas, como el original; mediciones y redondeos explicados; avance completo de la importación BC3.",
+        "signature": "Cxib8I8/VJIxIckfR14LNWUPP9deFrVN8Y9O2uX1L0d4OW5mOqPWSJi6tudvSlFatMpIWGzrvkzjvYzHrbDX4g=="
+    }
 }
