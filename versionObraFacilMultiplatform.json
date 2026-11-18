@@ -1,0 +1,22 @@
+{
+    "mobile": {
+        "versionCode": 10009,
+        "versionName": "1.0.9",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.9-android-release.apk",
+        "sha256": "bc7d1eec44980c2482d05c1f3f69cad961972673b8f81570551ac95764af2bb3",
+        "size": 13088839,
+        "mandatory": false,
+        "notes": "ObraFácil 1.0.9: lo mismo que en Windows; además, se corrige el cierre al abrir «Comprobaciones» tras detener una generación, y cambiar de IA muestra «Cambiando IA…» hasta que el ordenador lo confirma.",
+        "signature": "7mvMPzSKhpSjxZo/FqOTVks7BcVK2zw7n9wwkuC25IZE/bK5+7XH/HcgiIcEYROpVLednM6GTfo5RNdvdJS7xw=="
+    },
+    "desktop": {
+        "versionCode": 10009,
+        "versionName": "1.0.9",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.9-windows.msi",
+        "sha256": "6009e94b66884ce25378ce35bc658979bc012ce3cd614deb99315a9dc243c88e",
+        "size": 200454144,
+        "mandatory": false,
+        "notes": "ObraFácil 1.0.9: en Desde documentos, «Generar presupuesto desde BC3» y «Generar presupuesto con IA» usan el mismo motor y los mismos bancos; con IA se conservan todos los precios del motor y la IA solo completa lo que falta; el trabajo se ve en la misma pantalla aunque cambie de sección, y es una propuesta: el presupuesto solo se crea al pulsar «Crear presupuesto»; «Detener» conserva lo obtenido y «Descartar propuesta» lo cancela todo; los documentos se añaden solo en Desde documentos.",
+        "signature": "tjnbiMw7TWoB87VLVHniyB2TL9Cj+07edPOjIjmbNiZPXC1nSgvBZVyuoFSGA06Svd9K4YtXQGT2GDu8NfYbQA=="
+    }
+}
