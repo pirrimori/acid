@@ -1,5 +1,5 @@
 {
-  "versionCode": 48,
+  "versionCode": 49,
   "minVersionCode": "46",
   "downloadUrl": "https://raw.githubusercontent.com/pirrimori/N1/main/releases/firmarpdf.apk",
   "changelog": "• Solucionados errores de OCR y mejorada estabilidad."
