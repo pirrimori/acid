@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10009,
-        "versionName": "1.0.9",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.9-android-release.apk",
-        "sha256": "bc7d1eec44980c2482d05c1f3f69cad961972673b8f81570551ac95764af2bb3",
-        "size": 13088839,
+        "versionCode": 10011,
+        "versionName": "1.0.11",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.11-android-release.apk",
+        "sha256": "0d30dd8c51eb375627e133c8d4ac88f77941fa52cadf26cb17bdad17dd86dfb1",
+        "size": 13157211,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.9: lo mismo que en Windows; además, se corrige el cierre al abrir «Comprobaciones» tras detener una generación, y cambiar de IA muestra «Cambiando IA…» hasta que el ordenador lo confirma.",
-        "signature": "7mvMPzSKhpSjxZo/FqOTVks7BcVK2zw7n9wwkuC25IZE/bK5+7XH/HcgiIcEYROpVLednM6GTfo5RNdvdJS7xw=="
+        "notes": "ObraFácil 1.0.11: el gasto de la IA y sus límites los controla su ordenador (los mismos en todos los dispositivos); además, se actualiza desde el ordenador cuando no hay Internet.",
+        "signature": "FcKLoUcWzwHfk3M6aGSlmavsVy3Ug+hSzujwnBBTlAZHOFQ3/kmzE0AzygPHhfPkLqh+KOJrvCZB4no45PN/sg=="
     },
     "desktop": {
-        "versionCode": 10009,
-        "versionName": "1.0.9",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.9-windows.msi",
-        "sha256": "6009e94b66884ce25378ce35bc658979bc012ce3cd614deb99315a9dc243c88e",
-        "size": 200454144,
+        "versionCode": 10011,
+        "versionName": "1.0.11",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.11-windows.msi",
+        "sha256": "03b85b0c52ff17747378780062887bb7edc239e3792c229c6cf51b7d016cc457",
+        "size": 230498304,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.9: en Desde documentos, «Generar presupuesto desde BC3» y «Generar presupuesto con IA» usan el mismo motor y los mismos bancos; con IA se conservan todos los precios del motor y la IA solo completa lo que falta; el trabajo se ve en la misma pantalla aunque cambie de sección, y es una propuesta: el presupuesto solo se crea al pulsar «Crear presupuesto»; «Detener» conserva lo obtenido y «Descartar propuesta» lo cancela todo; los documentos se añaden solo en Desde documentos.",
-        "signature": "tjnbiMw7TWoB87VLVHniyB2TL9Cj+07edPOjIjmbNiZPXC1nSgvBZVyuoFSGA06Svd9K4YtXQGT2GDu8NfYbQA=="
+        "notes": "ObraFácil 1.0.11: la ventana vuelve a abrirse al momento desde el icono de la bandeja o el acceso directo tras cerrarla; el gasto de la IA y sus límites los controla el ordenador para todos los dispositivos; copias automáticas corregidas; el ordenador vuelve a ofrecer la actualización a los teléfonos sin Internet; PostgreSQL escribe menos durante la importación de bancos, la IA local libera su memoria tras 15 minutos sin uso y el servidor consume menos en reposo. Sus datos, bancos, presupuestos, ajustes, dispositivos y modelos se conservan.",
+        "signature": "wausfoIpgki3hL55qfdTw9NHnVYyqaS4lgR/EPM6aVTgbhocf5AUWuTNX4YC4fU5iGwKmIvbP38Jcf+AVBqkuA=="
     }
 }
