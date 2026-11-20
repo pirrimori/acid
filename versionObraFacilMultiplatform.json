@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10011,
-        "versionName": "1.0.11",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.11-android-release.apk",
-        "sha256": "0d30dd8c51eb375627e133c8d4ac88f77941fa52cadf26cb17bdad17dd86dfb1",
-        "size": 13157211,
+        "versionCode": 10012,
+        "versionName": "1.0.12",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.12-android-release.apk",
+        "sha256": "a81db592b67eeda13d4d23a760313c58b18bfaba3923d2528a21a9df1b09feb2",
+        "size": 13204859,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.11: el gasto de la IA y sus límites los controla su ordenador (los mismos en todos los dispositivos); además, se actualiza desde el ordenador cuando no hay Internet.",
-        "signature": "FcKLoUcWzwHfk3M6aGSlmavsVy3Ug+hSzujwnBBTlAZHOFQ3/kmzE0AzygPHhfPkLqh+KOJrvCZB4no45PN/sg=="
+        "notes": "ObraFácil 1.0.12: propuestas de IA con partidas reales y mediciones calculadas, la propuesta cambia con lo que pida en la conversación, el presupuesto creado coincide con ella y las conversaciones anteriores conservan su propuesta.",
+        "signature": "ti+DZ5uxWdkrllv5bh2GupV3FuDJefXaNPu9A5mEbl6ebc2EWGOKDRUjF0YxfVrnlD90eBMJZD/F7TZmO35oqA=="
     },
     "desktop": {
-        "versionCode": 10011,
-        "versionName": "1.0.11",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.11-windows.msi",
-        "sha256": "03b85b0c52ff17747378780062887bb7edc239e3792c229c6cf51b7d016cc457",
-        "size": 230498304,
+        "versionCode": 10012,
+        "versionName": "1.0.12",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.12-windows.msi",
+        "sha256": "a68dca03148cd04f94cb9bb36206234816a87256dd072a4ee9361099c77e2a77",
+        "size": 230641664,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.11: la ventana vuelve a abrirse al momento desde el icono de la bandeja o el acceso directo tras cerrarla; el gasto de la IA y sus límites los controla el ordenador para todos los dispositivos; copias automáticas corregidas; el ordenador vuelve a ofrecer la actualización a los teléfonos sin Internet; PostgreSQL escribe menos durante la importación de bancos, la IA local libera su memoria tras 15 minutos sin uso y el servidor consume menos en reposo. Sus datos, bancos, presupuestos, ajustes, dispositivos y modelos se conservan.",
-        "signature": "wausfoIpgki3hL55qfdTw9NHnVYyqaS4lgR/EPM6aVTgbhocf5AUWuTNX4YC4fU5iGwKmIvbP38Jcf+AVBqkuA=="
+        "notes": "ObraFácil 1.0.12: los presupuestos con Qwen (IA local) se preparan con partidas reales de sus bancos y mediciones calculadas por ObraFácil, y avisan de lo que queda sin precio fiable; Qwen acierta más en obras sencillas que en reformas completas, donde Claude sigue siendo la opción más fiable. Los cambios que pida en la conversación modifican de verdad la propuesta, el presupuesto creado coincide con ella (una sola vez, nunca vacío) y las conversaciones anteriores conservan su propuesta y el enlace al presupuesto. El servidor arrancado al iniciar sesión sigue en marcha toda la sesión. Sus datos, bancos, presupuestos, ajustes, dispositivos y modelos se conservan.",
+        "signature": "JwvKaBghIbcEqHVLQSO0VA5AUI8l51oRGvkFuiIsTksnfqjzBEPnDITWueZM9bwbQaM1a0uqAa4IpEJpzBAHXA=="
     }
 }
