@@ -1,0 +1,22 @@
+{
+    "mobile": {
+        "versionCode": 10503,
+        "versionName": "1.5.3",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.3.apk",
+        "sha256": "d60f01001e4d51662fbf993fb4933297ac12640a3a28136de448b4347eacb3ea",
+        "size": 17602840,
+        "mandatory": false,
+        "notes": "ControlHorario 1.5.3: nueva interfaz de administración en Windows y Android, instalador de Windows sin asistente (corrige el error 2803) y actualizaciones desde ACID. Los datos se conservan.",
+        "signature": "HsBrZ/TPRpRuvwEgu6Zi7Wus81tlfUbt56AfZcj0/OR2gnGSWOVr5Pi+QvrT17Tl9Y6qw2+IV9/R7uyWYuDLoA=="
+    },
+    "desktop": {
+        "versionCode": 10503,
+        "versionName": "1.5.3",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.3.msi",
+        "sha256": "ec9ac2138649f96d8887b5a16bdf7856296b7890aa67f4f16763c5e60f1b639a",
+        "size": 285772165,
+        "mandatory": false,
+        "notes": "ControlHorario 1.5.3: nueva interfaz de administración en Windows y Android, instalador de Windows sin asistente (corrige el error 2803) y actualizaciones desde ACID. Los datos se conservan.",
+        "signature": "0ms/1zKJpZjRx7+6Qq0tBJnhjLMlMfXAS6Vnc5RfQCWORuqmGQczQQbtGTtMajOGdLhCVewxf5uEpflh9PJceg=="
+    }
+}
