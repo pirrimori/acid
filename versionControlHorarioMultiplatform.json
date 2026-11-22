@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10504,
-        "versionName": "1.5.4",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.4.apk",
-        "sha256": "ae38ca52542898d8624f9f0ceac878289b8c6fe25add5819fdf725f9fda6cde7",
-        "size": 17602840,
+        "versionCode": 10505,
+        "versionName": "1.5.5",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.5.apk",
+        "sha256": "faa8a55611fe3c1ceff5df65cd35127868ada23b82f67d22b6ad5ca1c61f4009",
+        "size": 17668392,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.4: el instalador de Windows ya no pide cerrar otros programas (ObraFácil) al instalar o actualizar con doble clic. Los datos se conservan.",
-        "signature": "10iy9lnrNf7hvyo21o2uJdlsvDyrjD0laNvS6jXvhIc0GNT6L34BQu3iXiqFUosmPBSGxYzyyrrHhDgcOzZliw=="
+        "notes": "ControlHorario 1.5.5: al dar de alta un empleado se crea su acceso a la app (usuario y contraseña temporal que caduca a las 72 h); administración rediseñada; «Ver fichajes» vuelve a la ficha del empleado; salir del Dashboard ya no pide la contraseña; actualizaciones más fiables. Los datos se conservan.",
+        "signature": "bjDxWulppc5rRdVCIfLSACZn4Vvr1JLRcLiv/tcbLPfEoZdNO1J+EmiHj8ccLtSnOzXESKMkiE9azPY/FHbcIw=="
     },
     "desktop": {
-        "versionCode": 10504,
-        "versionName": "1.5.4",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.4.msi",
-        "sha256": "f87139c24b1a2f351297622fc8923ead9a464182fa729beb8df5ff92a1a68281",
-        "size": 285747847,
+        "versionCode": 10505,
+        "versionName": "1.5.5",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.5.msi",
+        "sha256": "053e995dd2f1da1955e7a484134e75275c2ed5921f4aa0194f5110ce55977465",
+        "size": 287264169,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.4: el instalador de Windows ya no pide cerrar otros programas (ObraFácil) al instalar o actualizar con doble clic. Los datos se conservan.",
-        "signature": "bAgXXKVWll7ymUjWZKKz0XU1ak2RgFIXNtaj/CGu+c1DDp5ilB3DOP4aIFR6wTKnIf52ivayz5lNqMIX0Ww2XQ=="
+        "notes": "ControlHorario 1.5.5: al dar de alta un empleado se crea su acceso a la app (usuario y contraseña temporal que caduca a las 72 h); administración rediseñada; «Ver fichajes» vuelve a la ficha del empleado; salir del Dashboard ya no pide la contraseña; actualizaciones más fiables. Los datos se conservan.",
+        "signature": "44v/te7ziKDhlD8P0B9Jj6Qec0TbZ4aQekEqBReGmxZnQPGpTr0UyBiv3iGO463rWEIp1nVFeWctuR6cJZiz4w=="
     }
 }
