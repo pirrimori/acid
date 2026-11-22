@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10503,
-        "versionName": "1.5.3",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.3.apk",
-        "sha256": "d60f01001e4d51662fbf993fb4933297ac12640a3a28136de448b4347eacb3ea",
+        "versionCode": 10504,
+        "versionName": "1.5.4",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.4.apk",
+        "sha256": "ae38ca52542898d8624f9f0ceac878289b8c6fe25add5819fdf725f9fda6cde7",
         "size": 17602840,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.3: nueva interfaz de administración en Windows y Android, instalador de Windows sin asistente (corrige el error 2803) y actualizaciones desde ACID. Los datos se conservan.",
-        "signature": "HsBrZ/TPRpRuvwEgu6Zi7Wus81tlfUbt56AfZcj0/OR2gnGSWOVr5Pi+QvrT17Tl9Y6qw2+IV9/R7uyWYuDLoA=="
+        "notes": "ControlHorario 1.5.4: el instalador de Windows ya no pide cerrar otros programas (ObraFácil) al instalar o actualizar con doble clic. Los datos se conservan.",
+        "signature": "10iy9lnrNf7hvyo21o2uJdlsvDyrjD0laNvS6jXvhIc0GNT6L34BQu3iXiqFUosmPBSGxYzyyrrHhDgcOzZliw=="
     },
     "desktop": {
-        "versionCode": 10503,
-        "versionName": "1.5.3",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.3.msi",
-        "sha256": "ec9ac2138649f96d8887b5a16bdf7856296b7890aa67f4f16763c5e60f1b639a",
-        "size": 285772165,
+        "versionCode": 10504,
+        "versionName": "1.5.4",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.4.msi",
+        "sha256": "f87139c24b1a2f351297622fc8923ead9a464182fa729beb8df5ff92a1a68281",
+        "size": 285747847,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.3: nueva interfaz de administración en Windows y Android, instalador de Windows sin asistente (corrige el error 2803) y actualizaciones desde ACID. Los datos se conservan.",
-        "signature": "0ms/1zKJpZjRx7+6Qq0tBJnhjLMlMfXAS6Vnc5RfQCWORuqmGQczQQbtGTtMajOGdLhCVewxf5uEpflh9PJceg=="
+        "notes": "ControlHorario 1.5.4: el instalador de Windows ya no pide cerrar otros programas (ObraFácil) al instalar o actualizar con doble clic. Los datos se conservan.",
+        "signature": "bAgXXKVWll7ymUjWZKKz0XU1ak2RgFIXNtaj/CGu+c1DDp5ilB3DOP4aIFR6wTKnIf52ivayz5lNqMIX0Ww2XQ=="
     }
 }
