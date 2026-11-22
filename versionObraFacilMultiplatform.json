@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10012,
-        "versionName": "1.0.12",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.12-android-release.apk",
-        "sha256": "a81db592b67eeda13d4d23a760313c58b18bfaba3923d2528a21a9df1b09feb2",
-        "size": 13204859,
+        "versionCode": 10013,
+        "versionName": "1.0.13",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.13-android-release.apk",
+        "sha256": "22b751d26a3db8d7594375b7da638a8f5a9a1f034e3f9ae680eef3de4b680033",
+        "size": 13196011,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.12: propuestas de IA con partidas reales y mediciones calculadas, la propuesta cambia con lo que pida en la conversación, el presupuesto creado coincide con ella y las conversaciones anteriores conservan su propuesta.",
-        "signature": "ti+DZ5uxWdkrllv5bh2GupV3FuDJefXaNPu9A5mEbl6ebc2EWGOKDRUjF0YxfVrnlD90eBMJZD/F7TZmO35oqA=="
+        "notes": "ObraFácil 1.0.13: presupuestos con la IA local más rápidos y con partidas reales comprobadas; las rectificaciones continúan la propuesta sin duplicar partidas.",
+        "signature": "k/50lFaMuUFVa0gk3gDho74NEJMKZsqqqE+HQPbUhnJ30k5bubZrWxvA3DeCq2lRe7LjuGPESp20SX4C/JgHAw=="
     },
     "desktop": {
-        "versionCode": 10012,
-        "versionName": "1.0.12",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.12-windows.msi",
-        "sha256": "a68dca03148cd04f94cb9bb36206234816a87256dd072a4ee9361099c77e2a77",
-        "size": 230641664,
+        "versionCode": 10013,
+        "versionName": "1.0.13",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.13-windows.msi",
+        "sha256": "1d52d3a730b067524da09d90009002195b4b367bbdeddd36ea24f0755098157e",
+        "size": 243339264,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.12: los presupuestos con Qwen (IA local) se preparan con partidas reales de sus bancos y mediciones calculadas por ObraFácil, y avisan de lo que queda sin precio fiable; Qwen acierta más en obras sencillas que en reformas completas, donde Claude sigue siendo la opción más fiable. Los cambios que pida en la conversación modifican de verdad la propuesta, el presupuesto creado coincide con ella (una sola vez, nunca vacío) y las conversaciones anteriores conservan su propuesta y el enlace al presupuesto. El servidor arrancado al iniciar sesión sigue en marcha toda la sesión. Sus datos, bancos, presupuestos, ajustes, dispositivos y modelos se conservan.",
-        "signature": "JwvKaBghIbcEqHVLQSO0VA5AUI8l51oRGvkFuiIsTksnfqjzBEPnDITWueZM9bwbQaM1a0uqAa4IpEJpzBAHXA=="
+        "notes": "ObraFácil 1.0.13: Qwen (IA local) prepara los presupuestos con el método que mejor funcionaba: entiende lo que pide, busca partidas reales comprobadas en sus bancos y propone aparte las recomendaciones; avisa de las cantidades o importes que no cuadran. Las rectificaciones en la conversación continúan la propuesta sin duplicar partidas. Aceleración con la tarjeta gráfica cuando el equipo la tiene. Sus datos, bancos, presupuestos, ajustes, dispositivos y modelos se conservan.",
+        "signature": "Ioo6VbUkF4ddOiJCbC5shdDa7PZLqXYN35WgBk17DlukG3bsx9ZhnNB69e9G5ThOJl7JV30wU9NkpnPQq2Juuw=="
     }
 }
