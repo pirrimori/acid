@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10505,
-        "versionName": "1.5.5",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.5.apk",
-        "sha256": "faa8a55611fe3c1ceff5df65cd35127868ada23b82f67d22b6ad5ca1c61f4009",
-        "size": 17668392,
+        "versionCode": 10506,
+        "versionName": "1.5.6",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.6.apk",
+        "sha256": "47b4e851075e55f0df95635cf6f16d4516e2ebbd5b7fedeed6f63d32fe3e484f",
+        "size": 17701160,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.5: al dar de alta un empleado se crea su acceso a la app (usuario y contraseña temporal que caduca a las 72 h); administración rediseñada; «Ver fichajes» vuelve a la ficha del empleado; salir del Dashboard ya no pide la contraseña; actualizaciones más fiables. Los datos se conservan.",
-        "signature": "bjDxWulppc5rRdVCIfLSACZn4Vvr1JLRcLiv/tcbLPfEoZdNO1J+EmiHj8ccLtSnOzXESKMkiE9azPY/FHbcIw=="
+        "notes": "ControlHorario 1.5.6: política de capturas de pantalla por empresa (bloqueadas por defecto; se cambia en Dashboard › Mi cuenta › Privacidad); jornada prevista con fecha de entrada en vigor; categorías de pausa gestionables; mejoras de interfaz, permisos y aislamiento entre empresas. Los datos se conservan.",
+        "signature": "+1C75DUxyT9LzQjiJZnhY8w4caIRpPpWQbXRLr0AcXbf3v+LPopVTlyOpHFlHqLqrcD4XF8Cq2WvOAacBDKj0w=="
     },
     "desktop": {
-        "versionCode": 10505,
-        "versionName": "1.5.5",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.5.msi",
-        "sha256": "053e995dd2f1da1955e7a484134e75275c2ed5921f4aa0194f5110ce55977465",
-        "size": 287264169,
+        "versionCode": 10506,
+        "versionName": "1.5.6",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.6.msi",
+        "sha256": "8f396057872c50df8614a7906b0c65595344f868be3f97c5597824069df733e9",
+        "size": 287518119,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.5: al dar de alta un empleado se crea su acceso a la app (usuario y contraseña temporal que caduca a las 72 h); administración rediseñada; «Ver fichajes» vuelve a la ficha del empleado; salir del Dashboard ya no pide la contraseña; actualizaciones más fiables. Los datos se conservan.",
-        "signature": "44v/te7ziKDhlD8P0B9Jj6Qec0TbZ4aQekEqBReGmxZnQPGpTr0UyBiv3iGO463rWEIp1nVFeWctuR6cJZiz4w=="
+        "notes": "ControlHorario 1.5.6: política de capturas de pantalla por empresa (bloqueadas por defecto; se cambia en Dashboard › Mi cuenta › Privacidad); jornada prevista con fecha de entrada en vigor; categorías de pausa gestionables; mejoras de interfaz, permisos y aislamiento entre empresas. Los datos se conservan.",
+        "signature": "BOLzgDOs1DPfg9hn2UY2FA9FCdoUf/dqFZUlED2iBeFKRLx9ibOew53hJSVzfdlbHSsVUoq5aL/kFvrIBCG6pw=="
     }
 }
