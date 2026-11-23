@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10506,
-        "versionName": "1.5.6",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.6.apk",
-        "sha256": "47b4e851075e55f0df95635cf6f16d4516e2ebbd5b7fedeed6f63d32fe3e484f",
-        "size": 17701160,
+        "versionCode": 10507,
+        "versionName": "1.5.7",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.7.apk",
+        "sha256": "8f9e23ca5571e58aff6df821b528c08f71d323c48928472cb6297c331b9042ca",
+        "size": 17766696,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.6: política de capturas de pantalla por empresa (bloqueadas por defecto; se cambia en Dashboard › Mi cuenta › Privacidad); jornada prevista con fecha de entrada en vigor; categorías de pausa gestionables; mejoras de interfaz, permisos y aislamiento entre empresas. Los datos se conservan.",
-        "signature": "+1C75DUxyT9LzQjiJZnhY8w4caIRpPpWQbXRLr0AcXbf3v+LPopVTlyOpHFlHqLqrcD4XF8Cq2WvOAacBDKj0w=="
+        "notes": "ControlHorario 1.5.7 (versión de pruebas): interfaz Android revisada (filtros y acciones en una fila, pestañas deslizables, calendario, ayuda), auditoría comprensible, documentos exportados sin publicidad y expediente para la Inspección de Trabajo. Los datos se conservan.",
+        "signature": "8jJlpOAmHq1Ihh7H9eFq31Vn2f7jgMdGMJf0LL49X8kJOqWcqP9jMe8fjPR7jENNx3W0j01bRb/WvZJFFhDNRg=="
     },
     "desktop": {
-        "versionCode": 10506,
-        "versionName": "1.5.6",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.6.msi",
-        "sha256": "8f396057872c50df8614a7906b0c65595344f868be3f97c5597824069df733e9",
-        "size": 287518119,
+        "versionCode": 10507,
+        "versionName": "1.5.7",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.7.msi",
+        "sha256": "9f56dc1b8446beaefbc13c551c1e626710e52245f08e2d8e9aef89312e9a6212",
+        "size": 280436117,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.6: política de capturas de pantalla por empresa (bloqueadas por defecto; se cambia en Dashboard › Mi cuenta › Privacidad); jornada prevista con fecha de entrada en vigor; categorías de pausa gestionables; mejoras de interfaz, permisos y aislamiento entre empresas. Los datos se conservan.",
-        "signature": "BOLzgDOs1DPfg9hn2UY2FA9FCdoUf/dqFZUlED2iBeFKRLx9ibOew53hJSVzfdlbHSsVUoq5aL/kFvrIBCG6pw=="
+        "notes": "ControlHorario 1.5.7 (versión de pruebas): interfaz Android revisada (filtros y acciones en una fila, pestañas deslizables, calendario, ayuda), auditoría comprensible, documentos exportados sin publicidad y expediente para la Inspección de Trabajo. Los datos se conservan.",
+        "signature": "tlBQeamJ+wY3U9te45WAUnPSHYAFajhxcFtNPT9e35wZObwVbPF9NKJRIC7mKItCuz0kgraXRoqk4vTrySVrNA=="
     }
 }
