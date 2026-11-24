@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10508,
-        "versionName": "1.5.8",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.8.apk",
-        "sha256": "0a7eda007374cb6739d7794131e70a484b61a57c883eba5a0e7c61c7deb4e0a2",
-        "size": 17766696,
+        "versionCode": 10509,
+        "versionName": "1.5.9",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.9.apk",
+        "sha256": "e7d8c321bbfb7dd4e5363c156e6aaa089dec4b56d978e789e0fa154e68cc165c",
+        "size": 17799464,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.8 (versión de pruebas): corrección de la auditoría de terminales («Terminal configurado» solo cuando cambia la configuración) y revisión de la interfaz Android (botón «Más» fijo, filtros y acciones en una fila, ayuda con icono, resumen de dispositivos desplazable, calendario compacto). Los datos se conservan.",
-        "signature": "i0sd0l+f1B3Zwy1f0dl8NrbJ4DlHc5ZVfU/9xAYx6ESdyfT2y7zwRiArFxXzZnb003iByYR6B47rTUr6v3LqqQ=="
+        "notes": "ControlHorario 1.5.9: pestañas del teléfono sin recortes y sincronizadas al deslizar, botones ordenados, una persona = una cuenta con todos sus roles y búsqueda de actualizaciones sin cerrar la app. Los datos se conservan.",
+        "signature": "B4pZFpPIfL/El9MQuBH2iz8pvAtey63nB3mXr5EnmG1tOd3Ow/YmV6pQ0BeZCaBXmZCHwchBx9amlyIENPJecw=="
     },
     "desktop": {
-        "versionCode": 10508,
-        "versionName": "1.5.8",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.8.msi",
-        "sha256": "251ecb2f870c0fb8f24ead4a96f8a645017531f7cdfa8f9a35747e4124972dc1",
-        "size": 286637472,
+        "versionCode": 10509,
+        "versionName": "1.5.9",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.9.msi",
+        "sha256": "a502786bc501e5b8e1b9cc8d61f1a56baf4e036b014daf5ee3ba51e3f399e59a",
+        "size": 286735777,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.8 (versión de pruebas): corrección de la auditoría de terminales («Terminal configurado» solo cuando cambia la configuración) y revisión de la interfaz Android (botón «Más» fijo, filtros y acciones en una fila, ayuda con icono, resumen de dispositivos desplazable, calendario compacto). Los datos se conservan.",
-        "signature": "j05bN4zlbErNboYdojem6H9RFFk3PUH7lYGCmHo0lgq6U/oNJKmF8ygPlP6BivYzfD05yJEcEBI+vOsfpPORAw=="
+        "notes": "ControlHorario 1.5.9: pestañas del teléfono sin recortes y sincronizadas al deslizar, botones ordenados, una persona = una cuenta con todos sus roles y búsqueda de actualizaciones sin cerrar la app. Los datos se conservan.",
+        "signature": "z4jpsmqwKZDwsLANzUeP/3VOiLf7J2Q8kkcBTrRvbLsAeOgXkl+YLuF83Ic1gw43KIvP1kHhPK6Hs8AMnb0phQ=="
     }
 }
