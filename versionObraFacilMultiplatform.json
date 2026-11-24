@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10014,
-        "versionName": "1.0.14",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.14-android-release.apk",
-        "sha256": "c6d384de51f7f6e3472bdd3ad314edb0c771cd35f46119012c976e9dd39356d4",
-        "size": 13288171,
+        "versionCode": 10015,
+        "versionName": "1.0.15",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.15-android-release.apk",
+        "sha256": "cc2c92623c11db1d2ff834224a683fc5d5a01730ca48be96fffc0d78252ff539",
+        "size": 13291175,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.14 (pruebas): orden de prioridad de bancos, Mis partidas al aceptar, papelera y duplicados; propuestas de la IA más completas y revisadas.",
-        "signature": "4VY/FTf9b3D6G0x+LmMYzjQq8xQ4bcUvAKowUpNgR6EX882ctRQVAhhp9wo7ga1DZcKjP1lh/72Q3p8oRXE+Cw=="
+        "notes": "ObraFácil 1.0.15 (pruebas): avisos de versión nueva al abrir, al volver a la aplicación y periódicamente; compatible con el nuevo servicio de Windows.",
+        "signature": "q8AM16YMK33oMTdqd7kHhmQUDpB5AGlkPfqUKGHCELA9f0IMGYUZq4uN7PDANt4RC7SNvwi7O+qCUpSB0MBuLQ=="
     },
     "desktop": {
-        "versionCode": 10014,
-        "versionName": "1.0.14",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.14-windows.msi",
-        "sha256": "e44673253d6567e6bb66d5f7c64c91b05feb320e100c4ef0124cc79fd0df5eee",
-        "size": 243814400,
+        "versionCode": 10015,
+        "versionName": "1.0.15",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.15-windows.msi",
+        "sha256": "86955b157956b619e8b4d0cc3f96731e5360dc3f94ee036b94bd69eb7b401d2d",
+        "size": 251420672,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.14 (pruebas): sin banco seleccionado, todas las fuentes en el orden de prioridad que usted elija; al aceptar un presupuesto sus partidas pasan a Mis partidas; papelera de bancos con restauración y borrado definitivo; buscador de duplicados por contenido. Qwen (IA local) descompone mejor la obra, revisa cada partida con su descripción completa y crea partidas con precio estimado (para revisar) cuando no hay ninguna adecuada. Sus datos, bancos, presupuestos, ajustes y modelos se conservan.",
-        "signature": "/z396yJobgMWkyUs8QMlC6JvqmsccC/O7dmq1XoAAXYN/ir9d0jwza0qrRFTwFNbrzozHw3fMHYK2K5Kr4jTDQ=="
+        "notes": "ObraFácil 1.0.15 (pruebas): el servidor pasa a ser un servicio de Windows que arranca con el equipo sin iniciar sesión, se recupera solo si falla y guarda los datos en C:\\ProgramData\\ObraFacilMultiplatform; la instalación es para todo el equipo y pide permiso de administrador. Si tenía instalada la 1.0.14 o anterior, desinstálela antes desde Configuración de Windows (sus datos de pruebas anteriores no se trasladan). Avisos de versión nueva sin cerrar la aplicación y sin copia completa automática al instalar.",
+        "signature": "ZXHnY5XUVEZmdsGwjVtLQoOEztxFN7FcelTxCLvX1jITivbIOXWp9XEsqI/6+fWIPNV4L2uCRWNZjgkN+oSe1Q=="
     }
 }
