@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10509,
-        "versionName": "1.5.9",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.9.apk",
-        "sha256": "e7d8c321bbfb7dd4e5363c156e6aaa089dec4b56d978e789e0fa154e68cc165c",
-        "size": 17799464,
+        "versionCode": 10510,
+        "versionName": "1.5.10",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.10.apk",
+        "sha256": "891e6faab9d1953937c0ac721198fd63ba111b2b6b67c3ad4284a529730455fc",
+        "size": 17799476,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.9: pestañas del teléfono sin recortes y sincronizadas al deslizar, botones ordenados, una persona = una cuenta con todos sus roles y búsqueda de actualizaciones sin cerrar la app. Los datos se conservan.",
-        "signature": "B4pZFpPIfL/El9MQuBH2iz8pvAtey63nB3mXr5EnmG1tOd3Ow/YmV6pQ0BeZCaBXmZCHwchBx9amlyIENPJecw=="
+        "notes": "ControlHorario 1.5.10: asistente de instalación con «Abrir ControlHorario al finalizar», desinstalador gráfico, registro de arranque y conexión por Tailscale. Los datos se conservan.",
+        "signature": "2Q2OgGY1YcLWSGDPniWNmTEEw5bKTHGy3Xqlt2suwKcoDTVNtSJCIYrA7Okv/w9fJvF4aGSz0b2Jgo8JVlPfCQ=="
     },
     "desktop": {
-        "versionCode": 10509,
-        "versionName": "1.5.9",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.9.msi",
-        "sha256": "a502786bc501e5b8e1b9cc8d61f1a56baf4e036b014daf5ee3ba51e3f399e59a",
-        "size": 286735777,
+        "versionCode": 10510,
+        "versionName": "1.5.10",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.10.msi",
+        "sha256": "36f5c925dda4b687b755ba2b27c4eb626823702da170f71d9cf1f834fcf04d88",
+        "size": 287494880,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.9: pestañas del teléfono sin recortes y sincronizadas al deslizar, botones ordenados, una persona = una cuenta con todos sus roles y búsqueda de actualizaciones sin cerrar la app. Los datos se conservan.",
-        "signature": "z4jpsmqwKZDwsLANzUeP/3VOiLf7J2Q8kkcBTrRvbLsAeOgXkl+YLuF83Ic1gw43KIvP1kHhPK6Hs8AMnb0phQ=="
+        "notes": "ControlHorario 1.5.10: asistente de instalación con «Abrir ControlHorario al finalizar», desinstalador gráfico, registro de arranque y conexión por Tailscale. Los datos se conservan.",
+        "signature": "avonqR7XIZGm/QVTh8soAnS+KYxv6V0WZNzK14yUU8+Ca0OvHHVpNFzd8iKJZgqp0+SBoiYcKBlol0rXOsdm8g=="
     }
 }
