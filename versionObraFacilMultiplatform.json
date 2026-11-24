@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10013,
-        "versionName": "1.0.13",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.13-android-release.apk",
-        "sha256": "22b751d26a3db8d7594375b7da638a8f5a9a1f034e3f9ae680eef3de4b680033",
-        "size": 13196011,
+        "versionCode": 10014,
+        "versionName": "1.0.14",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.14-android-release.apk",
+        "sha256": "c6d384de51f7f6e3472bdd3ad314edb0c771cd35f46119012c976e9dd39356d4",
+        "size": 13288171,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.13: presupuestos con la IA local más rápidos y con partidas reales comprobadas; las rectificaciones continúan la propuesta sin duplicar partidas.",
-        "signature": "k/50lFaMuUFVa0gk3gDho74NEJMKZsqqqE+HQPbUhnJ30k5bubZrWxvA3DeCq2lRe7LjuGPESp20SX4C/JgHAw=="
+        "notes": "ObraFácil 1.0.14 (pruebas): orden de prioridad de bancos, Mis partidas al aceptar, papelera y duplicados; propuestas de la IA más completas y revisadas.",
+        "signature": "4VY/FTf9b3D6G0x+LmMYzjQq8xQ4bcUvAKowUpNgR6EX882ctRQVAhhp9wo7ga1DZcKjP1lh/72Q3p8oRXE+Cw=="
     },
     "desktop": {
-        "versionCode": 10013,
-        "versionName": "1.0.13",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.13-windows.msi",
-        "sha256": "1d52d3a730b067524da09d90009002195b4b367bbdeddd36ea24f0755098157e",
-        "size": 243339264,
+        "versionCode": 10014,
+        "versionName": "1.0.14",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.14-windows.msi",
+        "sha256": "e44673253d6567e6bb66d5f7c64c91b05feb320e100c4ef0124cc79fd0df5eee",
+        "size": 243814400,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.13: Qwen (IA local) prepara los presupuestos con el método que mejor funcionaba: entiende lo que pide, busca partidas reales comprobadas en sus bancos y propone aparte las recomendaciones; avisa de las cantidades o importes que no cuadran. Las rectificaciones en la conversación continúan la propuesta sin duplicar partidas. Aceleración con la tarjeta gráfica cuando el equipo la tiene. Sus datos, bancos, presupuestos, ajustes, dispositivos y modelos se conservan.",
-        "signature": "Ioo6VbUkF4ddOiJCbC5shdDa7PZLqXYN35WgBk17DlukG3bsx9ZhnNB69e9G5ThOJl7JV30wU9NkpnPQq2Juuw=="
+        "notes": "ObraFácil 1.0.14 (pruebas): sin banco seleccionado, todas las fuentes en el orden de prioridad que usted elija; al aceptar un presupuesto sus partidas pasan a Mis partidas; papelera de bancos con restauración y borrado definitivo; buscador de duplicados por contenido. Qwen (IA local) descompone mejor la obra, revisa cada partida con su descripción completa y crea partidas con precio estimado (para revisar) cuando no hay ninguna adecuada. Sus datos, bancos, presupuestos, ajustes y modelos se conservan.",
+        "signature": "/z396yJobgMWkyUs8QMlC6JvqmsccC/O7dmq1XoAAXYN/ir9d0jwza0qrRFTwFNbrzozHw3fMHYK2K5Kr4jTDQ=="
     }
 }
