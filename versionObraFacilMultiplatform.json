@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10020,
-        "versionName": "1.0.20",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.20-android-release.apk",
-        "sha256": "4c54c28a0785ecce810d1ce250b42baf8225483a384676ac19f83fbe3acbbdf6",
-        "size": 13753189,
+        "versionCode": 10021,
+        "versionName": "1.0.21",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.21-android-release.apk",
+        "sha256": "b647cb3e66d64f47a98ac078ce278689ef3681f80383bf382ca1d5ddeccc6ecb",
+        "size": 13768817,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.20: corrección de la actualización de la base de datos (mismo arreglo que en Windows). Sus datos se conservan; no hay cambios de funcionamiento.",
-        "signature": "JpPMVbCZhmvwjOHjk68fmXTsVNOwZo1hBGHhU0qNylIPfrehTfrlloalln4l9+0XxZC+zols5trFIW8VZx5h1A=="
+        "notes": "ObraFácil 1.0.21: barras de desplazamiento arrastrables; mover a «Mis partidas» en bloque; recomendaciones de la IA marcadas que llegan al presupuesto; alternativas más precisas; cabecera del PDF como antes; conflictos de sincronización: conservar la versión del teléfono o la del ordenador, sin que vuelvan.",
+        "signature": "V6iHK+Vn22t/rjr8XpB22/BQvSLG6MKVwJoMsaBSVoDI+AFusc+0ed3j0iNXvuNbta1BMKTH87VoocuAxo2b8A=="
     },
     "desktop": {
-        "versionCode": 10020,
-        "versionName": "1.0.20",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.20-windows.msi",
-        "sha256": "8802835502750d2fce1833a003458691705eee77d8c48ac85390f7276fc15f85",
-        "size": 252993536,
+        "versionCode": 10021,
+        "versionName": "1.0.21",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.21-windows.msi",
+        "sha256": "0617b3dc8c7e8df748e7610f179ec17bbcacc1d90cd1691fa7a6569e8fb4e81e",
+        "size": 253067264,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.20: corrige el fallo de la 1.0.19 que impedía arrancar en Windows al actualizar la base de datos («column \"titulo\" … already exists»). Sus datos se conservan; no hay cambios de funcionamiento.",
-        "signature": "r4UIR5uKo5wccW6F209p66LypukPlaWp1pdoz/pLkAw7dIPt//enI4IiBrXlm+neaMFizySaAI0+VVkvd6cU5A=="
+        "notes": "ObraFácil 1.0.21: barras de desplazamiento arrastrables en todas las listas; mover a «Mis partidas» la selección, un capítulo o un banco entero; las recomendaciones de Qwen que marque se quedan marcadas y llegan al presupuesto; alternativas más precisas; cabecera del PDF como antes, sin «Validez: 30 días» ni ribete; conflictos de sincronización con las dos versiones a elegir, sin que vuelvan a aparecer.",
+        "signature": "y1YAMSqujdz/WE35dRmrTGxFoZbaWmBk1JAE8i6DgPEdFtdUTJMP/cNnQLW6a/bZzuqPAret0wWf4HRcG8eudg=="
     }
 }
