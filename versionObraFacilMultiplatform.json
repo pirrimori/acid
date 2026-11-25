@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10018,
-        "versionName": "1.0.18",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.18-android-release.apk",
-        "sha256": "9b72ea5febbfefadb90b3f2ca0e3a286ace2f7960b7ea30aaa24fb8c52606e8c",
-        "size": 13750213,
+        "versionCode": 10019,
+        "versionName": "1.0.19",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.19-android-release.apk",
+        "sha256": "8fa7a1709eb10b02742ff9af4e868a00d64706e9cc9e8ab8a7d0feb97ab2ec37",
+        "size": 13753681,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.18: interfaz más limpia (Ajustes por pestañas), dos límites de gasto de IA (por presupuesto y mensual), presupuestos nuevos sin gastos generales ni beneficio, «Mis partidas» con el original en la papelera del banco, «Desde documentos» con un único botón y precio editable en la propuesta de IA. Sus datos se conservan.",
-        "signature": "hw43vCNL5NlYqIakADf8VSxumO0Yu11upoqavawi+P8B/CEA8wAxaen6Oal3CjRLV09gOXoweMq4/XOE0hG0Zw=="
+        "notes": "ObraFácil 1.0.19: editor adaptado al teléfono (partidas legibles y editables, un único «Buscar partida», menú de capítulo), alternativas coherentes, propuesta de IA editable en todo, pantallas que nunca se quedan cargando, «No hay facturas» y clave de Claude compartida con el ordenador. Sus datos se conservan.",
+        "signature": "2dbVZjCFY6rLbPPNSeBbCzn53GgoMzMeLDv/iIcS09J8pRi7c+1BUnZUc+bWwWor/rLNTzLUDKJQsuuFPQVXCQ=="
     },
     "desktop": {
-        "versionCode": 10018,
-        "versionName": "1.0.18",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.18-windows.msi",
-        "sha256": "6be9885f1fda061e2e89817eb0d2df247ec01811ad28ff1c3c9e0465eafc5013",
-        "size": 252903424,
+        "versionCode": 10019,
+        "versionName": "1.0.19",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.19-windows.msi",
+        "sha256": "233fe091565b65f71636363e555aba69833884709004112318650ecb2266251d",
+        "size": 252989440,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.18: interfaz más limpia (Ajustes por pestañas, menos textos), solo dos límites de gasto de IA (por presupuesto y mensual; 0 = sin límite) con aviso para aumentarlos o cancelar, presupuestos nuevos sin gastos generales ni beneficio industrial, «Mis partidas» deja el original en la papelera de su banco (restaurable), duplicados solo entre bancos distintos, «Desde documentos» con un único botón y precio editable en cualquier partida de la propuesta de IA. Sus datos se conservan.",
-        "signature": "sn1Qq36GhDW4gim/0B+wgQ22WjmzLHkMh7HYZjYsN5mTMQefigXUkJvxgeYDjyFzfpteTELYpzerEmAzTJqgcg=="
+        "notes": "ObraFácil 1.0.19: editor de presupuestos más claro (partidas con título, descripción y banco de origen; un único «Buscar partida»; menú de capítulo con «Guardar en Mis partidas»; opción de descompuesto; formatos Técnico y Arquitecto), alternativas técnicamente coherentes, propuesta de IA editable en todo, PDF con cabecera nueva, pantallas que nunca se quedan cargando y clave de Claude compartida con el teléfono. Sus datos se conservan.",
+        "signature": "Bm4uJoAG5juZUJd+rM+mMK0thX30W8WG/pBLurf/8aR3EPCgeonlAzEdiWH/gczwjyysZpPFcjGzIJP3RoaWLQ=="
     }
 }
