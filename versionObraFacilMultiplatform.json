@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10019,
-        "versionName": "1.0.19",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.19-android-release.apk",
-        "sha256": "8fa7a1709eb10b02742ff9af4e868a00d64706e9cc9e8ab8a7d0feb97ab2ec37",
-        "size": 13753681,
+        "versionCode": 10020,
+        "versionName": "1.0.20",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.20-android-release.apk",
+        "sha256": "4c54c28a0785ecce810d1ce250b42baf8225483a384676ac19f83fbe3acbbdf6",
+        "size": 13753189,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.19: editor adaptado al teléfono (partidas legibles y editables, un único «Buscar partida», menú de capítulo), alternativas coherentes, propuesta de IA editable en todo, pantallas que nunca se quedan cargando, «No hay facturas» y clave de Claude compartida con el ordenador. Sus datos se conservan.",
-        "signature": "2dbVZjCFY6rLbPPNSeBbCzn53GgoMzMeLDv/iIcS09J8pRi7c+1BUnZUc+bWwWor/rLNTzLUDKJQsuuFPQVXCQ=="
+        "notes": "ObraFácil 1.0.20: corrección de la actualización de la base de datos (mismo arreglo que en Windows). Sus datos se conservan; no hay cambios de funcionamiento.",
+        "signature": "JpPMVbCZhmvwjOHjk68fmXTsVNOwZo1hBGHhU0qNylIPfrehTfrlloalln4l9+0XxZC+zols5trFIW8VZx5h1A=="
     },
     "desktop": {
-        "versionCode": 10019,
-        "versionName": "1.0.19",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.19-windows.msi",
-        "sha256": "233fe091565b65f71636363e555aba69833884709004112318650ecb2266251d",
-        "size": 252989440,
+        "versionCode": 10020,
+        "versionName": "1.0.20",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.20-windows.msi",
+        "sha256": "8802835502750d2fce1833a003458691705eee77d8c48ac85390f7276fc15f85",
+        "size": 252993536,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.19: editor de presupuestos más claro (partidas con título, descripción y banco de origen; un único «Buscar partida»; menú de capítulo con «Guardar en Mis partidas»; opción de descompuesto; formatos Técnico y Arquitecto), alternativas técnicamente coherentes, propuesta de IA editable en todo, PDF con cabecera nueva, pantallas que nunca se quedan cargando y clave de Claude compartida con el teléfono. Sus datos se conservan.",
-        "signature": "Bm4uJoAG5juZUJd+rM+mMK0thX30W8WG/pBLurf/8aR3EPCgeonlAzEdiWH/gczwjyysZpPFcjGzIJP3RoaWLQ=="
+        "notes": "ObraFácil 1.0.20: corrige el fallo de la 1.0.19 que impedía arrancar en Windows al actualizar la base de datos («column \"titulo\" … already exists»). Sus datos se conservan; no hay cambios de funcionamiento.",
+        "signature": "r4UIR5uKo5wccW6F209p66LypukPlaWp1pdoz/pLkAw7dIPt//enI4IiBrXlm+neaMFizySaAI0+VVkvd6cU5A=="
     }
 }
