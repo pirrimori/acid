@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10017,
-        "versionName": "1.0.17",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.17-android-release.apk",
-        "sha256": "d18da8404b6636df1265dd7d7ba5821a8e3f1c446f60ebae8a7d87f7c8add277",
-        "size": 13749445,
+        "versionCode": 10018,
+        "versionName": "1.0.18",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.18-android-release.apk",
+        "sha256": "9b72ea5febbfefadb90b3f2ca0e3a286ace2f7960b7ea30aaa24fb8c52606e8c",
+        "size": 13750213,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.17 (pruebas): reconstrucción para funcionar como la versión web (presupuestos, PDF, Mis partidas, bancos, revisión de pendientes, Inicio y buscador), conexión con el ordenador por código QR con varias direcciones (red local y Tailscale) y dictado en «Desde documentos». Sus datos se conservan.",
-        "signature": "XysM+kKBa4su8tQ++nU598HZ2dWiZwD0JPJnlsLl8qyPaxFsRH1Hj2mZWofnw8t6UzQ6o7j+JscTaRbN/TNmfw=="
+        "notes": "ObraFácil 1.0.18: interfaz más limpia (Ajustes por pestañas), dos límites de gasto de IA (por presupuesto y mensual), presupuestos nuevos sin gastos generales ni beneficio, «Mis partidas» con el original en la papelera del banco, «Desde documentos» con un único botón y precio editable en la propuesta de IA. Sus datos se conservan.",
+        "signature": "hw43vCNL5NlYqIakADf8VSxumO0Yu11upoqavawi+P8B/CEA8wAxaen6Oal3CjRLV09gOXoweMq4/XOE0hG0Zw=="
     },
     "desktop": {
-        "versionCode": 10017,
-        "versionName": "1.0.17",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.17-windows.msi",
-        "sha256": "e684e32f78b8164616df4403a2993e38f1dc9c4ebfefb4676fc2a67d8afac65c",
-        "size": 252882944,
+        "versionCode": 10018,
+        "versionName": "1.0.18",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.18-windows.msi",
+        "sha256": "6be9885f1fda061e2e89817eb0d2df247ec01811ad28ff1c3c9e0465eafc5013",
+        "size": 252903424,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.17 (pruebas): reconstrucción para funcionar como la versión web: PDF del presupuesto con su maquetación, revisión del presupuesto, Mis partidas en lote, historial y deshacer de precios, «Cómo se obtuvo» cada línea, BC3 original y copia completa de cada banco, filtros de pendientes, gráficos de Inicio, configuración de copias y conexión del teléfono por QR con Tailscale. Sus datos se conservan.",
-        "signature": "NIL5Z6fgRTOv9RotpUx3WUd8hcY8dXOaZdMelgQYLBt95bA0wM2TMqikzMuOUKzyLy/IXWnT+4fg6a3qi6kzag=="
+        "notes": "ObraFácil 1.0.18: interfaz más limpia (Ajustes por pestañas, menos textos), solo dos límites de gasto de IA (por presupuesto y mensual; 0 = sin límite) con aviso para aumentarlos o cancelar, presupuestos nuevos sin gastos generales ni beneficio industrial, «Mis partidas» deja el original en la papelera de su banco (restaurable), duplicados solo entre bancos distintos, «Desde documentos» con un único botón y precio editable en cualquier partida de la propuesta de IA. Sus datos se conservan.",
+        "signature": "sn1Qq36GhDW4gim/0B+wgQ22WjmzLHkMh7HYZjYsN5mTMQefigXUkJvxgeYDjyFzfpteTELYpzerEmAzTJqgcg=="
     }
 }
