@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10016,
-        "versionName": "1.0.16",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.16-android-release.apk",
-        "sha256": "66839c3900856a8af71ee7a92333f5610891bfe3c0b766f20288825c6ebfec92",
-        "size": 13295599,
+        "versionCode": 10017,
+        "versionName": "1.0.17",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.17-android-release.apk",
+        "sha256": "d18da8404b6636df1265dd7d7ba5821a8e3f1c446f60ebae8a7d87f7c8add277",
+        "size": 13749445,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.16 (pruebas): importación de bancos BC3 grandes mucho más rápida y opción Ajustes → Privacidad para bloquear o permitir las capturas de pantalla (permitidas por defecto).",
-        "signature": "1jZdzqAaTZ/hbko5jpKJwIk0MN2ne3h9jxBnCPZM+OSi4GecYFmCho/UWB2MFp3Js9s/ddKp5eYYX6PZGWpm+w=="
+        "notes": "ObraFácil 1.0.17 (pruebas): reconstrucción para funcionar como la versión web (presupuestos, PDF, Mis partidas, bancos, revisión de pendientes, Inicio y buscador), conexión con el ordenador por código QR con varias direcciones (red local y Tailscale) y dictado en «Desde documentos». Sus datos se conservan.",
+        "signature": "XysM+kKBa4su8tQ++nU598HZ2dWiZwD0JPJnlsLl8qyPaxFsRH1Hj2mZWofnw8t6UzQ6o7j+JscTaRbN/TNmfw=="
     },
     "desktop": {
-        "versionCode": 10016,
-        "versionName": "1.0.16",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.16-windows.msi",
-        "sha256": "0e2833046ede2bd87d1c9fcde4842894a37cc4ab83f92e54c04c927fb02f6a9b",
-        "size": 251441152,
+        "versionCode": 10017,
+        "versionName": "1.0.17",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.17-windows.msi",
+        "sha256": "e684e32f78b8164616df4403a2993e38f1dc9c4ebfefb4676fc2a67d8afac65c",
+        "size": 252882944,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.16 (pruebas): la ventana se conecta sola al servicio de Windows (la 1.0.15 decía que no estaba en marcha aunque funcionaba); importación de bancos BC3 grandes mucho más rápida (el ACAE multifabricante, de casi 900.000 conceptos, en pocos minutos) con tiempo restante realista; nueva opción Ajustes → Privacidad para bloquear o permitir las capturas de pantalla (permitidas por defecto). Sus datos se conservan.",
-        "signature": "a+k5yspEVLAB91TYNbdQgOTgvOJf6Qc4q0h7q+YmGpg+vPEaMRr+FdxUWEM8WE09jsZf51VxsGH6WlpsZCX6Lw=="
+        "notes": "ObraFácil 1.0.17 (pruebas): reconstrucción para funcionar como la versión web: PDF del presupuesto con su maquetación, revisión del presupuesto, Mis partidas en lote, historial y deshacer de precios, «Cómo se obtuvo» cada línea, BC3 original y copia completa de cada banco, filtros de pendientes, gráficos de Inicio, configuración de copias y conexión del teléfono por QR con Tailscale. Sus datos se conservan.",
+        "signature": "NIL5Z6fgRTOv9RotpUx3WUd8hcY8dXOaZdMelgQYLBt95bA0wM2TMqikzMuOUKzyLy/IXWnT+4fg6a3qi6kzag=="
     }
 }
