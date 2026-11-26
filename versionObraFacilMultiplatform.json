@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10202,
-        "versionName": "1.2.2",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.2.2-android-release.apk",
-        "sha256": "2197a9636d4bfb5931f3fd5b1c5b8f8ffc23aeb674e0900ae092b494b1d2b233",
-        "size": 13777153,
+        "versionCode": 10000,
+        "versionName": "1.0.0",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.0-android-release.apk",
+        "sha256": "f895589d474a65a40fc664a410851f1cd28493af6be9c1b3c503e35b17e9bd49",
+        "size": 13780141,
         "mandatory": false,
-        "notes": "ObraFácil 1.2.2: explorador único de bancos y «Mis partidas», capítulos en una fila de chips con «Atrás», búsqueda en todo el banco agrupada por capítulo, conceptos desplegables con su descompuesto y copia completa de «Mis partidas».",
-        "signature": "gr7DJBQVikvsh7L6VoXLiJ1xQ7j4in1zX4zU/Bo1LvE0u9fDIEuc6X5SfFq2qX/xE9HBWtjyswLRu4BoprNIew=="
+        "notes": "ObraFácil 1.0.0: explorador idéntico para «Mis partidas» y todos los bancos, filtros de tipo correctos y banco propio independiente.",
+        "signature": "bqRLy5NEyvui/dNibO2yOQMWVZt4uNVWeH9s3VGL1PeI+Pp5VYIQQDgiY8DgkG+a0qBVDEljHzaBeixJuzoheA=="
     },
     "desktop": {
-        "versionCode": 10202,
-        "versionName": "1.2.2",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.2.2-windows.msi",
-        "sha256": "5cad91594e9ccfe0e5d14ffc3d04eacaf9bce31791227111843c9da4c46c51b5",
-        "size": 253100032,
+        "versionCode": 10000,
+        "versionName": "1.0.0",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.0-windows.msi",
+        "sha256": "ba81f7d8b1309b9ada4b99332ac09fab3427d15d4ecfdf25148cfc5254309473",
+        "size": 253128704,
         "mandatory": false,
-        "notes": "ObraFácil 1.2.2: un único explorador para «Mis partidas» y los bancos (mismo buscador, tipos, capítulos y resultados); la búsqueda mira en todo el banco y agrupa por capítulo; cada concepto se despliega con su descompuesto; tarjeta de «Mis partidas» con exportar BC3 y copia completa restaurable; corregidos el BC3 con mis precios y la copia completa de los bancos.",
-        "signature": "dt2DeUbzyYsL0fHr3k3r01e453e3wglZYXU12IHFTnPnYI1jfjmM5oofg7hR69EHsjUX4FXirwuobpKo0Gqg/Q=="
+        "notes": "ObraFácil 1.0.0: explorador idéntico para «Mis partidas» y todos los bancos (Nueva, Exportar BC3 y Exportar Excel en todos), filtros de tipo correctos y banco propio independiente.",
+        "signature": "q7Q4YzcFp2FNPWPJ4xm5PP6HEvdO48K/amgm2quTbEq4hghUpNTurPM0A9gKHWuw2eR/y0JLomdvLvKVwXcJug=="
     }
 }
