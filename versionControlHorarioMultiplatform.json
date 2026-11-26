@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10510,
-        "versionName": "1.5.10",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.10.apk",
-        "sha256": "891e6faab9d1953937c0ac721198fd63ba111b2b6b67c3ad4284a529730455fc",
-        "size": 17799476,
+        "versionCode": 10000,
+        "versionName": "1.0.0",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.0.apk",
+        "sha256": "c0020f4b39d81347ae2771259eda6f5df244f6dbc16c02ac8fcb03d833333391",
+        "size": 17602856,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.10: asistente de instalación con «Abrir ControlHorario al finalizar», desinstalador gráfico, registro de arranque y conexión por Tailscale. Los datos se conservan.",
-        "signature": "2Q2OgGY1YcLWSGDPniWNmTEEw5bKTHGy3Xqlt2suwKcoDTVNtSJCIYrA7Okv/w9fJvF4aGSz0b2Jgo8JVlPfCQ=="
+        "notes": "ControlHorario 1.0.0: reinicio funcional. Registro de dispositivos por QR de un solo uso con modos (Dashboard, Lector, Empleado), una persona = una ficha = una cuenta, sesión personal separada, permisos de fichaje por persona. Requiere desinstalación completa de la 1.5.x e instalación limpia.",
+        "signature": "aX4AIqDh/rwThSOQScdW5qpMB5D5Pe0xSlpjH2YWYofHalcbFvt4A5aHMAmr12YFm7LI1wg49hFWICCcBhZPbg=="
     },
     "desktop": {
-        "versionCode": 10510,
-        "versionName": "1.5.10",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.5.10.msi",
-        "sha256": "36f5c925dda4b687b755ba2b27c4eb626823702da170f71d9cf1f834fcf04d88",
-        "size": 287494880,
+        "versionCode": 10000,
+        "versionName": "1.0.0",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.0.msi",
+        "sha256": "02d9cb841f853e59e44d724ece54850232366a8845163ec899e6f8133546453a",
+        "size": 286528204,
         "mandatory": false,
-        "notes": "ControlHorario 1.5.10: asistente de instalación con «Abrir ControlHorario al finalizar», desinstalador gráfico, registro de arranque y conexión por Tailscale. Los datos se conservan.",
-        "signature": "avonqR7XIZGm/QVTh8soAnS+KYxv6V0WZNzK14yUU8+Ca0OvHHVpNFzd8iKJZgqp0+SBoiYcKBlol0rXOsdm8g=="
+        "notes": "ControlHorario 1.0.0: reinicio funcional. Registro de dispositivos por QR de un solo uso con modos (Dashboard, Lector, Empleado), una persona = una ficha = una cuenta, sesión personal separada, permisos de fichaje por persona. Requiere desinstalación completa de la 1.5.x e instalación limpia.",
+        "signature": "Jphaheud2tyUe3xnBDTzqytdO07L7VEcPEdDWJwesmG9o+zoApMfiEKSIeXlvszyXmWunS13qXfKHqrROxSQEQ=="
     }
 }
