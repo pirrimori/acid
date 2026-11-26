@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10000,
-        "versionName": "1.0.0",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.0-android-release.apk",
-        "sha256": "f895589d474a65a40fc664a410851f1cd28493af6be9c1b3c503e35b17e9bd49",
-        "size": 13780141,
+        "versionCode": 10001,
+        "versionName": "1.0.1",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.1-android-release.apk",
+        "sha256": "8fb6cb2a56acc6e7ba05884c924043a44d22dd3309716168922e6074337d27bd",
+        "size": 13790593,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.0: explorador idéntico para «Mis partidas» y todos los bancos, filtros de tipo correctos y banco propio independiente.",
-        "signature": "bqRLy5NEyvui/dNibO2yOQMWVZt4uNVWeH9s3VGL1PeI+Pp5VYIQQDgiY8DgkG+a0qBVDEljHzaBeixJuzoheA=="
+        "notes": "ObraFácil 1.0.1: papelera organizada por bancos en apartados desplegables; un banco entero (también «Mis partidas») se elimina a la papelera y se restaura de una vez, tal como estaba.",
+        "signature": "vcZ9CDpmSC2ueOQDvsWM+rH8O8Q3UuLcrvLmWwCemU0ReXu2QIK5/EaS5sPTa1z8XjHlxERSVjic/YwYq7eFxw=="
     },
     "desktop": {
-        "versionCode": 10000,
-        "versionName": "1.0.0",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.0-windows.msi",
-        "sha256": "ba81f7d8b1309b9ada4b99332ac09fab3427d15d4ecfdf25148cfc5254309473",
-        "size": 253128704,
+        "versionCode": 10001,
+        "versionName": "1.0.1",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.1-windows.msi",
+        "sha256": "1e801735dc7bcac7e21f6aca0fa3c872d30c5418ed036106d0d1c55c59229a29",
+        "size": 253181952,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.0: explorador idéntico para «Mis partidas» y todos los bancos (Nueva, Exportar BC3 y Exportar Excel en todos), filtros de tipo correctos y banco propio independiente.",
-        "signature": "q7Q4YzcFp2FNPWPJ4xm5PP6HEvdO48K/amgm2quTbEq4hghUpNTurPM0A9gKHWuw2eR/y0JLomdvLvKVwXcJug=="
+        "notes": "ObraFácil 1.0.1: papelera organizada por bancos en apartados desplegables; un banco entero (también «Mis partidas») se elimina a la papelera y se restaura de una vez, tal como estaba.",
+        "signature": "tUnzzdUOnX0VIO3ADIByjBMoa73jCHtgSdSHRiUlNpW8a1prt+2t8Z76Ilavxb6rnTcQnu8o/1F1HilMKV+YOw=="
     }
 }
