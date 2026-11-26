@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10000,
-        "versionName": "1.0.0",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.0.apk",
-        "sha256": "c0020f4b39d81347ae2771259eda6f5df244f6dbc16c02ac8fcb03d833333391",
+        "versionCode": 10001,
+        "versionName": "1.0.1",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.1.apk",
+        "sha256": "cf8e58e00dda338488bedf216babfe833738b3bd5e7a7a00796c0921eae16546",
         "size": 17602856,
         "mandatory": false,
-        "notes": "ControlHorario 1.0.0: reinicio funcional. Registro de dispositivos por QR de un solo uso con modos (Dashboard, Lector, Empleado), una persona = una ficha = una cuenta, sesión personal separada, permisos de fichaje por persona. Requiere desinstalación completa de la 1.5.x e instalación limpia.",
-        "signature": "aX4AIqDh/rwThSOQScdW5qpMB5D5Pe0xSlpjH2YWYofHalcbFvt4A5aHMAmr12YFm7LI1wg49hFWICCcBhZPbg=="
+        "notes": "ControlHorario 1.0.1: corrige Fijar PIN desde la ficha (se confirma con la contraseña de quien opera) y los avisos de contraseña incorrecta en los diálogos de confirmación. Actualización normal desde 1.0.0; se conservan los datos.",
+        "signature": "s2tUOpnzRumdqTWzkergN4mxpvr0Nr+0ZMIrJmV9f8/c9GpqQabWwaAZaChcxJb7rgBqtpR5Gob2qKzGLOvhxQ=="
     },
     "desktop": {
-        "versionCode": 10000,
-        "versionName": "1.0.0",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.0.msi",
-        "sha256": "02d9cb841f853e59e44d724ece54850232366a8845163ec899e6f8133546453a",
-        "size": 286528204,
+        "versionCode": 10001,
+        "versionName": "1.0.1",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.1.msi",
+        "sha256": "5426af9f041d27607f4f81ef561f514a8621db1c4d8a27fa35c27905be2c1fc8",
+        "size": 286507728,
         "mandatory": false,
-        "notes": "ControlHorario 1.0.0: reinicio funcional. Registro de dispositivos por QR de un solo uso con modos (Dashboard, Lector, Empleado), una persona = una ficha = una cuenta, sesión personal separada, permisos de fichaje por persona. Requiere desinstalación completa de la 1.5.x e instalación limpia.",
-        "signature": "Jphaheud2tyUe3xnBDTzqytdO07L7VEcPEdDWJwesmG9o+zoApMfiEKSIeXlvszyXmWunS13qXfKHqrROxSQEQ=="
+        "notes": "ControlHorario 1.0.1: corrige Fijar PIN desde la ficha (se confirma con la contraseña de quien opera) y los avisos de contraseña incorrecta en los diálogos de confirmación. Actualización normal desde 1.0.0; se conservan los datos.",
+        "signature": "skc+k3bq+PpLv0+eBCpXmk4YEgN2kcRN+CBMnNPiW8PyvsrFwHusj3WlFXzJP6/HnA5R28K9WLGLT1J202RbOg=="
     }
 }
