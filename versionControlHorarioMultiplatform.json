@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10001,
-        "versionName": "1.0.1",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.1.apk",
-        "sha256": "cf8e58e00dda338488bedf216babfe833738b3bd5e7a7a00796c0921eae16546",
-        "size": 17602856,
+        "versionCode": 10000,
+        "versionName": "1.0.0",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.0.apk",
+        "sha256": "3bb5102c1ba126578b5730f3c6f33f22eb5aec0d465cee9117a0eab32bb44cc7",
+        "size": 17586472,
         "mandatory": false,
-        "notes": "ControlHorario 1.0.1: corrige Fijar PIN desde la ficha (se confirma con la contraseña de quien opera) y los avisos de contraseña incorrecta en los diálogos de confirmación. Actualización normal desde 1.0.0; se conservan los datos.",
-        "signature": "s2tUOpnzRumdqTWzkergN4mxpvr0Nr+0ZMIrJmV9f8/c9GpqQabWwaAZaChcxJb7rgBqtpR5Gob2qKzGLOvhxQ=="
+        "notes": "ControlHorario 1.0.0 (definitiva, instalación limpia): solo roles Administrador y Empleado; PIN, móvil como tarjeta y bloqueo de capturas personales; sesión recordada y códigos de recuperación; fechas dd-MM-yyyy; exportar e importar fichajes por USB; obra asignada al lector; interfaz más simple.",
+        "signature": "Wk32IHKpN3S9ukyHwtB8DVQGA3ur/00+596hlyMfn+N0Q3tWLoG1SPXtnffLfcXNDm634EaKJ+RvL88or7+9XA=="
     },
     "desktop": {
-        "versionCode": 10001,
-        "versionName": "1.0.1",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.1.msi",
-        "sha256": "5426af9f041d27607f4f81ef561f514a8621db1c4d8a27fa35c27905be2c1fc8",
-        "size": 286507728,
+        "versionCode": 10000,
+        "versionName": "1.0.0",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.0.msi",
+        "sha256": "5845d273c20f8655d454cb0f1aaac5f1d9ae6617f652fdaaa01d60757347beb0",
+        "size": 284316364,
         "mandatory": false,
-        "notes": "ControlHorario 1.0.1: corrige Fijar PIN desde la ficha (se confirma con la contraseña de quien opera) y los avisos de contraseña incorrecta en los diálogos de confirmación. Actualización normal desde 1.0.0; se conservan los datos.",
-        "signature": "skc+k3bq+PpLv0+eBCpXmk4YEgN2kcRN+CBMnNPiW8PyvsrFwHusj3WlFXzJP6/HnA5R28K9WLGLT1J202RbOg=="
+        "notes": "ControlHorario 1.0.0 (definitiva, instalación limpia): solo roles Administrador y Empleado; PIN, móvil como tarjeta y bloqueo de capturas personales; sesión recordada y códigos de recuperación; fechas dd-MM-yyyy; exportar e importar fichajes por USB; obra asignada al lector; interfaz más simple.",
+        "signature": "Ebv5SV13dJW5dafak16kjg89ktRrk7BV+tzx+Zd/DwRQ7aEIZBDBtKyZqTtOvmSm1HR8bl5H5HR2b7Spg4hsQA=="
     }
 }
