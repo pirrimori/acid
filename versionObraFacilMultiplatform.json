@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10200,
-        "versionName": "1.2.0",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.2.0-android-release.apk",
-        "sha256": "bd05eee71d7767bdaefce3dfa61a54dc9a213931501aa2e593858827bc2931fe",
-        "size": 13774505,
+        "versionCode": 10202,
+        "versionName": "1.2.2",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.2.2-android-release.apk",
+        "sha256": "2197a9636d4bfb5931f3fd5b1c5b8f8ffc23aeb674e0900ae092b494b1d2b233",
+        "size": 13777153,
         "mandatory": false,
-        "notes": "ObraFácil 1.2.0: «Mis partidas» como banco con sus capítulos, materiales y mano de obra; al mover partidas se conserva su capítulo; conflictos de sincronización: conservar la versión de este dispositivo o la del otro.",
-        "signature": "j/jaMbFKAzCseUqkEwMKyGdn8ERKkIqt5Guj8hNdVSFhrkwsqI0OUhXyV4AXJejMkvwZdXgzU4A9Ua6bQU4tvw=="
+        "notes": "ObraFácil 1.2.2: explorador único de bancos y «Mis partidas», capítulos en una fila de chips con «Atrás», búsqueda en todo el banco agrupada por capítulo, conceptos desplegables con su descompuesto y copia completa de «Mis partidas».",
+        "signature": "gr7DJBQVikvsh7L6VoXLiJ1xQ7j4in1zX4zU/Bo1LvE0u9fDIEuc6X5SfFq2qX/xE9HBWtjyswLRu4BoprNIew=="
     },
     "desktop": {
-        "versionCode": 10200,
-        "versionName": "1.2.0",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.2.0-windows.msi",
-        "sha256": "2dc1331744db2fcf4de01c4198895d4da135bfce01f6cce63f49cb63465a16dd",
-        "size": 253083648,
+        "versionCode": 10202,
+        "versionName": "1.2.2",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.2.2-windows.msi",
+        "sha256": "5cad91594e9ccfe0e5d14ffc3d04eacaf9bce31791227111843c9da4c46c51b5",
+        "size": 253100032,
         "mandatory": false,
-        "notes": "ObraFácil 1.2.0: «Mis partidas» es el primer banco de «Explorar bancos», con sus capítulos (se recuperan los de las partidas movidas antes), materiales, mano de obra y descompuestos; al mover partidas se conserva su capítulo; los conflictos de sincronización solo ofrecen conservar una versión, para que los dos equipos queden iguales.",
-        "signature": "F05QRQuo7Z0Jnyl6XDjbXxeWbJy/VbG6ySaVlbU7WuSMp7PgX2Nr3YUcHdLMohym5l7UTF6nW6l7NJVeIyPSIA=="
+        "notes": "ObraFácil 1.2.2: un único explorador para «Mis partidas» y los bancos (mismo buscador, tipos, capítulos y resultados); la búsqueda mira en todo el banco y agrupa por capítulo; cada concepto se despliega con su descompuesto; tarjeta de «Mis partidas» con exportar BC3 y copia completa restaurable; corregidos el BC3 con mis precios y la copia completa de los bancos.",
+        "signature": "dt2DeUbzyYsL0fHr3k3r01e453e3wglZYXU12IHFTnPnYI1jfjmM5oofg7hR69EHsjUX4FXirwuobpKo0Gqg/Q=="
     }
 }
