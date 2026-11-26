@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10021,
-        "versionName": "1.0.21",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.21-android-release.apk",
-        "sha256": "b647cb3e66d64f47a98ac078ce278689ef3681f80383bf382ca1d5ddeccc6ecb",
-        "size": 13768817,
+        "versionCode": 10200,
+        "versionName": "1.2.0",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.2.0-android-release.apk",
+        "sha256": "bd05eee71d7767bdaefce3dfa61a54dc9a213931501aa2e593858827bc2931fe",
+        "size": 13774505,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.21: barras de desplazamiento arrastrables; mover a «Mis partidas» en bloque; recomendaciones de la IA marcadas que llegan al presupuesto; alternativas más precisas; cabecera del PDF como antes; conflictos de sincronización: conservar la versión del teléfono o la del ordenador, sin que vuelvan.",
-        "signature": "V6iHK+Vn22t/rjr8XpB22/BQvSLG6MKVwJoMsaBSVoDI+AFusc+0ed3j0iNXvuNbta1BMKTH87VoocuAxo2b8A=="
+        "notes": "ObraFácil 1.2.0: «Mis partidas» como banco con sus capítulos, materiales y mano de obra; al mover partidas se conserva su capítulo; conflictos de sincronización: conservar la versión de este dispositivo o la del otro.",
+        "signature": "j/jaMbFKAzCseUqkEwMKyGdn8ERKkIqt5Guj8hNdVSFhrkwsqI0OUhXyV4AXJejMkvwZdXgzU4A9Ua6bQU4tvw=="
     },
     "desktop": {
-        "versionCode": 10021,
-        "versionName": "1.0.21",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.21-windows.msi",
-        "sha256": "0617b3dc8c7e8df748e7610f179ec17bbcacc1d90cd1691fa7a6569e8fb4e81e",
-        "size": 253067264,
+        "versionCode": 10200,
+        "versionName": "1.2.0",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.2.0-windows.msi",
+        "sha256": "2dc1331744db2fcf4de01c4198895d4da135bfce01f6cce63f49cb63465a16dd",
+        "size": 253083648,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.21: barras de desplazamiento arrastrables en todas las listas; mover a «Mis partidas» la selección, un capítulo o un banco entero; las recomendaciones de Qwen que marque se quedan marcadas y llegan al presupuesto; alternativas más precisas; cabecera del PDF como antes, sin «Validez: 30 días» ni ribete; conflictos de sincronización con las dos versiones a elegir, sin que vuelvan a aparecer.",
-        "signature": "y1YAMSqujdz/WE35dRmrTGxFoZbaWmBk1JAE8i6DgPEdFtdUTJMP/cNnQLW6a/bZzuqPAret0wWf4HRcG8eudg=="
+        "notes": "ObraFácil 1.2.0: «Mis partidas» es el primer banco de «Explorar bancos», con sus capítulos (se recuperan los de las partidas movidas antes), materiales, mano de obra y descompuestos; al mover partidas se conserva su capítulo; los conflictos de sincronización solo ofrecen conservar una versión, para que los dos equipos queden iguales.",
+        "signature": "F05QRQuo7Z0Jnyl6XDjbXxeWbJy/VbG6ySaVlbU7WuSMp7PgX2Nr3YUcHdLMohym5l7UTF6nW6l7NJVeIyPSIA=="
     }
 }
