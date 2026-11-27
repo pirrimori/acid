@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10002,
-        "versionName": "1.0.2",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.2-android-release.apk",
-        "sha256": "2e6d9fdae1f6d9a667a4ecafb27c4f595c57c03375a7dc0406452cf1f79382cc",
-        "size": 13789729,
+        "versionCode": 10003,
+        "versionName": "1.0.3",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.3-android-release.apk",
+        "sha256": "80c41a4ae2f9ee7675e38272b1791fedc6d861d21ed13324379c6d21c2540d21",
+        "size": 13802149,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.2: papelera de «Mis partidas» también en el teléfono y banco eliminado entero; «Mi precio» escrito se guarda tal cual; capítulos sin duplicar; fichas de partidas y descompuestos legibles en vertical.",
-        "signature": "BrCP/6XkfkIRpchAyT7Rv2x+2a5Nzxqg1KsinVv5Mg9nossBuipgnUn291Opzs2zDKN9GMDGNpsImg9X5VloYQ=="
+        "notes": "ObraFácil 1.0.3: componentes por capítulo en los bancos y «Mis partidas»; precios que se recalculan con sus componentes; vista previa del presupuesto; presupuesto sin duplicar; títulos que no se pierden; aviso claro si el lector QR falla.",
+        "signature": "xZ9iOFthxgM2CzmnIyKJU0Kvl7eVKYMAP3DAu7K1J+4Wr+lX7Krn4H7I6N+uhisysRL1BKga2sSW7Mjfj6bblA=="
     },
     "desktop": {
-        "versionCode": 10002,
-        "versionName": "1.0.2",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.2-windows.msi",
-        "sha256": "51614f36ce9be507db5b01e822e9377efbfb6289660c60ce23e9720b4a36781e",
-        "size": 253190144,
+        "versionCode": 10003,
+        "versionName": "1.0.3",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.3-windows.msi",
+        "sha256": "3b300846b018bdd476fbcff63d795d47c3ba6c1698ede5782518e5101f65030c",
+        "size": 253227008,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.2: eliminar «Mis partidas» lo manda entero a la papelera (también sus capítulos); «Mi precio» escrito se guarda tal cual en Mis partidas; las partidas guardadas van a su capítulo sin duplicarlo.",
-        "signature": "9OwLigTcJE2kzTLR8WKqgmClZI7MIA+NyGFcw/twsVsm4ZYnK5lWuWXH3w+2LCJPzzEabIzysyWKY+Q8BHl/IQ=="
+        "notes": "ObraFácil 1.0.3: materiales, mano de obra, maquinaria y auxiliares por capítulo; «Mis partidas» ordenado al aceptar; precios de partidas que se recalculan al cambiar sus componentes; volver a crear desde una propuesta actualiza su presupuesto; vista previa del presupuesto; títulos que no se pierden; código QR para conectar el móvil.",
+        "signature": "9jd62K6n4/m4juy9cm/nGdkVV6BziQ2rSfGQQqKD2xdL9BZcA9VHaeSE7tucKUPyYd/WWBzmV1xrljCQhxkQ4A=="
     }
 }
