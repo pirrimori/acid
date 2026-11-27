@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10001,
-        "versionName": "1.0.1",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.1-android-release.apk",
-        "sha256": "8fb6cb2a56acc6e7ba05884c924043a44d22dd3309716168922e6074337d27bd",
-        "size": 13790593,
+        "versionCode": 10002,
+        "versionName": "1.0.2",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.2-android-release.apk",
+        "sha256": "2e6d9fdae1f6d9a667a4ecafb27c4f595c57c03375a7dc0406452cf1f79382cc",
+        "size": 13789729,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.1: papelera organizada por bancos en apartados desplegables; un banco entero (también «Mis partidas») se elimina a la papelera y se restaura de una vez, tal como estaba.",
-        "signature": "vcZ9CDpmSC2ueOQDvsWM+rH8O8Q3UuLcrvLmWwCemU0ReXu2QIK5/EaS5sPTa1z8XjHlxERSVjic/YwYq7eFxw=="
+        "notes": "ObraFácil 1.0.2: papelera de «Mis partidas» también en el teléfono y banco eliminado entero; «Mi precio» escrito se guarda tal cual; capítulos sin duplicar; fichas de partidas y descompuestos legibles en vertical.",
+        "signature": "BrCP/6XkfkIRpchAyT7Rv2x+2a5Nzxqg1KsinVv5Mg9nossBuipgnUn291Opzs2zDKN9GMDGNpsImg9X5VloYQ=="
     },
     "desktop": {
-        "versionCode": 10001,
-        "versionName": "1.0.1",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.1-windows.msi",
-        "sha256": "1e801735dc7bcac7e21f6aca0fa3c872d30c5418ed036106d0d1c55c59229a29",
-        "size": 253181952,
+        "versionCode": 10002,
+        "versionName": "1.0.2",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.2-windows.msi",
+        "sha256": "51614f36ce9be507db5b01e822e9377efbfb6289660c60ce23e9720b4a36781e",
+        "size": 253190144,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.1: papelera organizada por bancos en apartados desplegables; un banco entero (también «Mis partidas») se elimina a la papelera y se restaura de una vez, tal como estaba.",
-        "signature": "tUnzzdUOnX0VIO3ADIByjBMoa73jCHtgSdSHRiUlNpW8a1prt+2t8Z76Ilavxb6rnTcQnu8o/1F1HilMKV+YOw=="
+        "notes": "ObraFácil 1.0.2: eliminar «Mis partidas» lo manda entero a la papelera (también sus capítulos); «Mi precio» escrito se guarda tal cual en Mis partidas; las partidas guardadas van a su capítulo sin duplicarlo.",
+        "signature": "9OwLigTcJE2kzTLR8WKqgmClZI7MIA+NyGFcw/twsVsm4ZYnK5lWuWXH3w+2LCJPzzEabIzysyWKY+Q8BHl/IQ=="
     }
 }
