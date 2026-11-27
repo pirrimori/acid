@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10000,
-        "versionName": "1.0.0",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.0.apk",
-        "sha256": "3bb5102c1ba126578b5730f3c6f33f22eb5aec0d465cee9117a0eab32bb44cc7",
-        "size": 17586472,
+        "versionCode": 10001,
+        "versionName": "1.0.1",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.1.apk",
+        "sha256": "082894c5834a763dbbc47d8620588385dc3bc3383279963462b927c38dcdbf4f",
+        "size": 17602856,
         "mandatory": false,
-        "notes": "ControlHorario 1.0.0 (definitiva, instalación limpia): solo roles Administrador y Empleado; PIN, móvil como tarjeta y bloqueo de capturas personales; sesión recordada y códigos de recuperación; fechas dd-MM-yyyy; exportar e importar fichajes por USB; obra asignada al lector; interfaz más simple.",
-        "signature": "Wk32IHKpN3S9ukyHwtB8DVQGA3ur/00+596hlyMfn+N0Q3tWLoG1SPXtnffLfcXNDm634EaKJ+RvL88or7+9XA=="
+        "notes": "",
+        "signature": "JTNWPFzoG7AjcXSdaZqZy8kq1kUsuLww45NqRP5CmbthNoKQxIyqz0daDROKNiqiU+Pb49G3A6/W6PisxtuEqw=="
     },
     "desktop": {
-        "versionCode": 10000,
-        "versionName": "1.0.0",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.0.msi",
-        "sha256": "5845d273c20f8655d454cb0f1aaac5f1d9ae6617f652fdaaa01d60757347beb0",
-        "size": 284316364,
+        "versionCode": 10001,
+        "versionName": "1.0.1",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.1.msi",
+        "sha256": "a34ccb3290955f3b5c30ae715b0e3c23de494478151c5d4925f4e9e406cd4bee",
+        "size": 286622416,
         "mandatory": false,
-        "notes": "ControlHorario 1.0.0 (definitiva, instalación limpia): solo roles Administrador y Empleado; PIN, móvil como tarjeta y bloqueo de capturas personales; sesión recordada y códigos de recuperación; fechas dd-MM-yyyy; exportar e importar fichajes por USB; obra asignada al lector; interfaz más simple.",
-        "signature": "Ebv5SV13dJW5dafak16kjg89ktRrk7BV+tzx+Zd/DwRQ7aEIZBDBtKyZqTtOvmSm1HR8bl5H5HR2b7Spg4hsQA=="
+        "notes": "",
+        "signature": "A7o5PxF5orvORoGEzbIMGFDzBaS02UvnngAPEelryfsWc9SW00GZNugsEbKUSzcj2mDDLRpnH1lkZL38asNopQ=="
     }
 }
