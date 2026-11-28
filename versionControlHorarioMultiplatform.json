@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10002,
-        "versionName": "1.0.2",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.2.apk",
-        "sha256": "17b69bd1a600d5e3278ede35dd7e00c8c624ea813a015b8969c5baf7fa589bbe",
+        "versionCode": 10003,
+        "versionName": "1.0.3",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.3.apk",
+        "sha256": "e55471640c200ae795832cd5ffe39c6491c6ba7b03d5a93fce64f31c791343a9",
         "size": 17602856,
         "mandatory": false,
         "notes": "",
-        "signature": "D3Ta9QxasW7BsZVBEFymOzM3lK98nuVJOqqVsqMR6Av8lXFKgZKWZvYcp81ABPL3AIrRlv8j4WOnUoPL5mLiTw=="
+        "signature": "k6Q+ElnQhez6KLWEJa7HP82/O9Idv75rY3YjNzYfAce69RdfGKp2MELLKU7ouSuJIt1NYmG5EJDbhfaw+tDRnQ=="
     },
     "desktop": {
-        "versionCode": 10002,
-        "versionName": "1.0.2",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.2.msi",
-        "sha256": "3e5060f62c1c88f92b45d1a62e0c97bb3b1ce2bee3bd29ed0ddf62427cb53bc6",
-        "size": 284349136,
+        "versionCode": 10003,
+        "versionName": "1.0.3",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ControlHorario-Multiplatform/ControlHorario-1.0.3.msi",
+        "sha256": "325c18d63b9f4a4a7f0c6718d476d20c9cf79d44a9f80a645c95c8c5cd573bac",
+        "size": 287781616,
         "mandatory": false,
         "notes": "",
-        "signature": "yrYTeN3HM4DoWJjR+BwRzFe9Vrdv6+hrGHdjV3MhI6xpragxz/QuRDCPt6n6NPvFZKIxN1OMYxRxWh1YishntA=="
+        "signature": "m4vPhywTP7RFpREkPb65QSeY/mfUfKzoOK0PFn0BuuGIm2KlUOyq33W/9Tt6YN97oi8pP6o3kranSuFhpJBTNw=="
     }
 }
