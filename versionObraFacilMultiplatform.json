@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10008,
-        "versionName": "1.0.8",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.8-android-release.apk",
-        "sha256": "3cd5f2d06bd6ab85b65be896e722e0d9568db28f8a61b84153fbfb6e14a19563",
-        "size": 13902729,
+        "versionCode": 10009,
+        "versionName": "1.0.9",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.9-android-release.apk",
+        "sha256": "e19538d57f82fdd76c15621b4ea6cddef2ebe6960cd33be5c6aa4bd767e5378e",
+        "size": 13908605,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.8: plantillas de presupuestos y facturas completas, fieles a sus imágenes; diseñador con miniaturas de las 20 plantillas y selector de colores visual que se maneja con el dedo.",
-        "signature": "xGIE8QXaEL4LUff5DEJaaY3ce/wcM4g0FO5EIyTonlQ3ATGLj5mfnonPUDjZw6Xf9JHDQQw3Ypr/iKUR+ethSw=="
+        "notes": "ObraFácil 1.0.9: el logotipo se ve siempre bien sobre las cabeceras de color, decoración nueva en las plantillas 9, 11 y 13 y las casillas de contenido de los documentos se sincronizan con Windows (cada dispositivo conserva su diseño).",
+        "signature": "QPxW5mZ9dAef/uW2AJpPlDdim8RDvdzORDLjrrxCrt23WwUIHdKwyAj6WVi5sfVYqcosVbe3VLuN+bLL5JPi+A=="
     },
     "desktop": {
-        "versionCode": 10008,
-        "versionName": "1.0.8",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.8-windows.msi",
-        "sha256": "e59fe1a42637d475fecc8067035080f6a80a3e4776435955b8bd2fbca58e805c",
-        "size": 253599744,
+        "versionCode": 10009,
+        "versionName": "1.0.9",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.9-windows.msi",
+        "sha256": "13711b666d25142a43acb6322455ada2d88b42123714a543ce510c86ac2a5ae6",
+        "size": 253607936,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.8: plantillas de presupuestos y facturas completas (se elige una entera, sin mezclar partes), fieles a sus imágenes de referencia; diseñador más sencillo con miniaturas de las 20 plantillas, selector de colores visual, logotipo y resumen por capítulos para cada tipo, y «Diseño del documento» con plantillas completas en los presupuestos ya creados.",
-        "signature": "eA2ey4bMCYzDwLjIZFdwPyrH0agfB9NJyk+/BM0+10s8vAVN2t2pOH6ef1i2h+BOVl3hnYv4hQKNwtyKpYccyA=="
+        "notes": "ObraFácil 1.0.9: el logotipo se ve siempre bien sobre las cabeceras de color (en claro si se adaptan sus colores, o sobre un fondo discreto conservando los suyos) y decoración nueva en las plantillas 9, 11 y 13. Las casillas de contenido de los documentos se sincronizan entre Windows y Android (los diseños siguen siendo de cada dispositivo), y «Diseño del documento» de un presupuesto vuelve a funcionar en Windows.",
+        "signature": "OL4KNhb7zzdXvD/OlQxOG6IMXmira4ciztXzx9mEJTI+GobyqW07fWldHf5D8VyuFQyEZ/r2Rpv3yj7fmaM6NQ=="
     }
 }
