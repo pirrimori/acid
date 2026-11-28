@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10003,
-        "versionName": "1.0.3",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.3-android-release.apk",
-        "sha256": "80c41a4ae2f9ee7675e38272b1791fedc6d861d21ed13324379c6d21c2540d21",
-        "size": 13802149,
+        "versionCode": 10005,
+        "versionName": "1.0.5",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.5-android-release.apk",
+        "sha256": "283f548521f15363259e19dae077afd64a34a15062a0b94b03a503e31ce6ed38",
+        "size": 13869369,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.3: componentes por capítulo en los bancos y «Mis partidas»; precios que se recalculan con sus componentes; vista previa del presupuesto; presupuesto sin duplicar; títulos que no se pierden; aviso claro si el lector QR falla.",
-        "signature": "xZ9iOFthxgM2CzmnIyKJU0Kvl7eVKYMAP3DAu7K1J+4Wr+lX7Krn4H7I6N+uhisysRL1BKga2sSW7Mjfj6bblA=="
+        "notes": "ObraFácil 1.0.5: nueve diseños nuevos de presupuestos y facturas (se suman a los diez anteriores), vista previa en la que se cambian cabecera, cliente y obra, tabla y pie con flechas, y diseño guardado por separado para presupuestos y facturas. Incluye lo de la 1.0.4: lector QR corregido, partidas con descompuesto y facturas sin marca de agua.",
+        "signature": "+KZTDeU2IBLPSSCUGnnMgd2gd5OsqO0IlEbEEV4Tz8t3+pj7ryy+2sg0EiJSBNXK7C1I5woPw1yhUe16gXDMyQ=="
     },
     "desktop": {
-        "versionCode": 10003,
-        "versionName": "1.0.3",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.3-windows.msi",
-        "sha256": "3b300846b018bdd476fbcff63d795d47c3ba6c1698ede5782518e5101f65030c",
-        "size": 253227008,
+        "versionCode": 10005,
+        "versionName": "1.0.5",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.5-windows.msi",
+        "sha256": "283d20273a41b8aaa1aef850858628d366ed316ea72ca8c810812f84ce9e94a8",
+        "size": 253485056,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.3: materiales, mano de obra, maquinaria y auxiliares por capítulo; «Mis partidas» ordenado al aceptar; precios de partidas que se recalculan al cambiar sus componentes; volver a crear desde una propuesta actualiza su presupuesto; vista previa del presupuesto; títulos que no se pierden; código QR para conectar el móvil.",
-        "signature": "9jd62K6n4/m4juy9cm/nGdkVV6BziQ2rSfGQQqKD2xdL9BZcA9VHaeSE7tucKUPyYd/WWBzmV1xrljCQhxkQ4A=="
+        "notes": "ObraFácil 1.0.5: nueve diseños nuevos de presupuestos y facturas (se suman a los diez anteriores), vista previa en la que se cambian cabecera, cliente y obra, tabla y pie con flechas, y diseño guardado por separado para presupuestos y facturas. Incluye lo de la 1.0.4: partidas con descompuesto, duplicar partidas, facturas sin marca de agua, logotipos SVG y «Empezar de cero».",
+        "signature": "RKYYrC0qsscOTArBdknEnXFcfVHRNZ4jxtQ7kO+9d1UCOe8KPpjaQ59wroKrP189X0JKVu+rkECDkfIpxxSFsQ=="
     }
 }
