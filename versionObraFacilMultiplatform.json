@@ -1,22 +1,22 @@
 {
     "mobile": {
-        "versionCode": 10005,
-        "versionName": "1.0.5",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.5-android-release.apk",
-        "sha256": "283f548521f15363259e19dae077afd64a34a15062a0b94b03a503e31ce6ed38",
-        "size": 13869369,
+        "versionCode": 10006,
+        "versionName": "1.0.6",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.6-android-release.apk",
+        "sha256": "b993e9648b9120c450621f3eed3c76c8e34eb369e6dc0d41575b4447663b5f60",
+        "size": 13882413,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.5: nueve diseños nuevos de presupuestos y facturas (se suman a los diez anteriores), vista previa en la que se cambian cabecera, cliente y obra, tabla y pie con flechas, y diseño guardado por separado para presupuestos y facturas. Incluye lo de la 1.0.4: lector QR corregido, partidas con descompuesto y facturas sin marca de agua.",
-        "signature": "+KZTDeU2IBLPSSCUGnnMgd2gd5OsqO0IlEbEEV4Tz8t3+pj7ryy+2sg0EiJSBNXK7C1I5woPw1yhUe16gXDMyQ=="
+        "notes": "ObraFácil 1.0.6: 20 diseños nuevos de presupuestos y facturas (más el original) en siete partes independientes, diseñador con los controles fijos y vista previa en tiempo real, vista previa real del PDF desde la propuesta de IA, sin partidas duplicadas en las propuestas, casilla «Mostrar resumen por capítulos», fecha en el pie y fechas en formato dd-MM-yyyy.",
+        "signature": "Eq2BNhp3kPJC2gykvtZrrlkZ2YNFdhSX76d5pRQU186yGNNOnEgMOoWfhEvT4KEaavTVNaYmfk5jEVVdYB/UHA=="
     },
     "desktop": {
-        "versionCode": 10005,
-        "versionName": "1.0.5",
-        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.5-windows.msi",
-        "sha256": "283d20273a41b8aaa1aef850858628d366ed316ea72ca8c810812f84ce9e94a8",
-        "size": 253485056,
+        "versionCode": 10006,
+        "versionName": "1.0.6",
+        "downloadUrl": "https://github.com/pirrimori/acid/releases/download/ObraFacil-Multiplatform/ObraFacil-Multiplatform-1.0.6-windows.msi",
+        "sha256": "3720870d6ecd2be3a48d46e0f426484fe1f99165b34c649c4ee0b9a6c7927591",
+        "size": 253509632,
         "mandatory": false,
-        "notes": "ObraFácil 1.0.5: nueve diseños nuevos de presupuestos y facturas (se suman a los diez anteriores), vista previa en la que se cambian cabecera, cliente y obra, tabla y pie con flechas, y diseño guardado por separado para presupuestos y facturas. Incluye lo de la 1.0.4: partidas con descompuesto, duplicar partidas, facturas sin marca de agua, logotipos SVG y «Empezar de cero».",
-        "signature": "RKYYrC0qsscOTArBdknEnXFcfVHRNZ4jxtQ7kO+9d1UCOe8KPpjaQ59wroKrP189X0JKVu+rkECDkfIpxxSFsQ=="
+        "notes": "ObraFácil 1.0.6: 20 diseños nuevos de presupuestos y facturas (más el original) en siete partes independientes, diseñador con los controles fijos y vista previa en tiempo real, vista previa real del PDF desde la propuesta de IA, sin partidas duplicadas en las propuestas, casilla «Mostrar resumen por capítulos», fecha en el pie y fechas en formato dd-MM-yyyy. Se quita «Archivar» de los presupuestos (sigue «Eliminar», con papelera).",
+        "signature": "a7Tzz3ec+IhY5kCEyO/K1UlTvybiT5qp+H1ySbutge1H0nVqd4KchyH5OBzVgqH2K69MP2LwyP/jV4IYB14yRg=="
     }
 }
